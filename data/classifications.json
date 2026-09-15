@@ -732,8 +732,7 @@
    "mcp-servers",
    "devtools",
    "selfhost",
-   "mobile-desktop",
-   "work-fde"
+   "mobile-desktop"
   ],
   "narrow": [
    "openclaw",
@@ -1012,8 +1011,7 @@
    "mcp-servers",
    "automation",
    "selfhost",
-   "privacy",
-   "work-fde"
+   "privacy"
   ],
   "narrow": [],
   "pushed": "2026-09-15T02:49:12Z",
@@ -1498,8 +1496,7 @@
   "lists": [
    "mcp-servers",
    "selfhost",
-   "finance",
-   "work-fde"
+   "finance"
   ],
   "narrow": [],
   "pushed": "2026-07-30T22:41:43Z",

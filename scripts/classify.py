@@ -36,7 +36,7 @@ RULES = [
     ("collections", ["awesome-", "curated", "collection", "list-of", "list_of"]),
     ("learning", ["learn", "course", "tutorial", "academy", "guide", "handbook", "roadmap", "textbook", "cookbook"]),
     ("finance", ["finance", "budget", "wealth", "invoice", "trading", "crypto", "money", "accounting", "bank"]),
-    ("work-fde", ["fde", "forward-deploy", "consult", "palantir", "engagement", "enterprise", "field-guide", "playbook"]),
+    ("work-fde", ["fde", "forward-deploy", "palantir", "engagement", "field-guide", "playbook"]),
 ]
 
 NARROW = [

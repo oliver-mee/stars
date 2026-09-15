@@ -19,7 +19,7 @@ My GitHub stars, filed into lists. One repo can live in several — broad bucket
 - [Privacy & Security](lists/privacy.md) (32)
 - [Learning & Guides](lists/learning.md) (19)
 - [Finance & Ops](lists/finance.md) (7)
-- [Work & FDE](lists/work-fde.md) (7)
+- [Work & FDE](lists/work-fde.md) (4)
 - [Collections](lists/collections.md) (20)
 
 ## Narrow tags
