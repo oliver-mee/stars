@@ -1,0 +1,83 @@
+# Automation & Workflows
+
+77 starred repos. File a PR to fix a miscategorisation.
+
+- [0x676e67/wreq](https://github.com/0x676e67/wreq) (★1022 · Rust) — An ergonomic, privacy-aware Rust HTTP Client
+- [AgriciDaniel/claude-ads](https://github.com/AgriciDaniel/claude-ads) (★9293 · Python) — Claude-first paid-media operations skill for Claude Code across 12 ad platforms (Google, Meta, YouTube, LinkedIn, TikTok, Microsoft, Apple, Amazon, Reddit, Pint
+- [AndorinaAI/Andorina-WhatsApp-Agent-for-Hermes](https://github.com/AndorinaAI/Andorina-WhatsApp-Agent-for-Hermes) (★65 · Python) — Turn Hermes into an autonomous WhatsApp manager. Take full control of your messaging. Forget typing: schedule messages, send voice notes, share PC files, and se [`hermes`]
+- [CloakHQ/CloakBrowser](https://github.com/CloakHQ/CloakBrowser) (★31456 · Python) — Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 30/30 tests passed.
+- [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling) (★81051 · Python) — 🕷️ An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl! Don't be shy, join here: https://discord.gg/EMgGbDceN
+- [HKUDS/nanobot](https://github.com/HKUDS/nanobot) (★48172 · Python) — Ultra-lightweight, open-source, self-hosted personal AI agent framework in Python with WebUI, tools, memory, MCP, multi-agent workflows, automation, and chat ap [`openclaw`]
+- [Manavarya09/design-extract](https://github.com/Manavarya09/design-extract) (★4101 · HTML) — Extract any website's complete design system with one command. DTCG tokens, semantic+primitive+composite, MCP server for Claude Code/Cursor/Windsurf, multi-plat [`shadcn`]
+- [PacificStudio/openase](https://github.com/PacificStudio/openase) (★267 · Go) — Ticket-Driven Automated Software Engineering. OpenASE is an all-in-one platform that turns tickets into working code — AI agents automatically pick up tickets, 
+- [Rbillon59/hass-n8n](https://github.com/Rbillon59/hass-n8n) (★219 · TypeScript) — Home assistant addon to host a n8n.io instance
+- [Rbillon59/home-assistant-addons](https://github.com/Rbillon59/home-assistant-addons) (★106) — Repository of self made addons
+- [Rich627/whatsapp-claude-plugin](https://github.com/Rich627/whatsapp-claude-plugin) (★89 · TypeScript) — Claude Code WhatsApp channel plugin — run AI directly from WhatsApp, voice transcription, remote tool approval, access control. No API keys, no Docker, just a l
+- [ThibautMelen/agentic-ai-systems](https://github.com/ThibautMelen/agentic-ai-systems) (★308) — Agentic AI explained with chickens 🐔 every pattern a runnable, CI-checked file. [`context-engineering`]
+- [VoltAgent/awesome-openclaw-skills](https://github.com/VoltAgent/awesome-openclaw-skills) (★52580) — The awesome collection of OpenClaw skills. 5,400+ skills filtered and categorized from the official OpenClaw Skills Registry.🦞 [`openclaw`]
+- [WhosClaw/nanoclaw-web-ui](https://github.com/WhosClaw/nanoclaw-web-ui) (★6 · JavaScript) — A modern, responsive web-based chat interface for nanoclaw.
+- [Yeachan-Heo/oh-my-claudecode](https://github.com/Yeachan-Heo/oh-my-claudecode) (★39176 · TypeScript) — Teams-first Multi-agent orchestration for Claude Code [`opencode`]
+- [Zie619/n8n-workflows](https://github.com/Zie619/n8n-workflows) (★56623 · Python) — all of the workflows of n8n i could find (also from the site itself)
+- [agentic-community/mcp-gateway-registry](https://github.com/agentic-community/mcp-gateway-registry) (★916 · Python) — Enterprise-ready MCP Gateway & Registry that centralizes AI development tools with secure OAuth authentication, dynamic tool discovery, and unified access for b
+- [ai-for-developers/awesome-ai-coding-tools](https://github.com/ai-for-developers/awesome-ai-coding-tools) (★2075) — A curated list of AI-powered coding tools
+- [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) (★67087 · JavaScript) — Extracted system prompts from Anthropic - Claude Fable 5.1, Opus 5, Claude Design, Claude Code. OpenAI - ChatGPT GPT-6-Astra, Codex. Google - Gemini 3.8 Flash,  [`codex`]
+- [authelia/authelia](https://github.com/authelia/authelia) (★28971 · Go) — The Single Sign-On Multi-Factor portal for web apps. OpenID Certified™ and Post-Quantum Cryptography Ready.
+- [borq168/radar-forge](https://github.com/borq168/radar-forge) (★23 · TypeScript) — No upstream description.
+- [buildomator/buildomator](https://github.com/buildomator/buildomator) (★88 · TypeScript) — A structured plan/execute/verify coding workflow for Claude Code: atomic commits, MCP-backed project state, ~92% lower per-turn token overhead, cross-session me
+- [bytedance/deer-flow](https://github.com/bytedance/deer-flow) (★82471 · Python) — An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message ga
+- [career-ops-hq/career-ops](https://github.com/career-ops-hq/career-ops) (★71688 · JavaScript) — Open-source AI job search: scan job portals, evaluate listings into a structured A-H report with a global 1-5 score, tailor your CV, track applications — runs l [`codex` `opencode`]
+- [christophe-garon/Linkedin-Post-Scraper](https://github.com/christophe-garon/Linkedin-Post-Scraper) (★83 · Jupyter Notebook) — Scrapes post data from company pages
+- [czlonkowski/n8n-mcp](https://github.com/czlonkowski/n8n-mcp) (★22885 · TypeScript) — A MCP for Claude Desktop / Claude Code / Windsurf / Cursor to build n8n workflows for you
+- [czlonkowski/n8n-skills](https://github.com/czlonkowski/n8n-skills) (★6233 · Shell) — n8n skillset for Claude Code to build flawless n8n workflows
+- [davidahmann/applied-ai-field-guide](https://github.com/davidahmann/applied-ai-field-guide) (★108 · JavaScript) — The Applied AI Field Guide: fieldwork, value, engineering, and operations for AI that works beyond the demo. [`fde`]
+- [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio) (★30126 · Python) — VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation i [`local-first`]
+- [dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io) (★34183 · Python) — Best and simplest tool for website change detection, web page monitoring, and website change alerts. Perfect for tracking content changes, price drops, restock 
+- [dograh-hq/dograh](https://github.com/dograh-hq/dograh) (★5653 · Python) — Open source voice AI platform. Self-hosted alternative to Vapi and Retell. On Prem, BYOK across  Speech to Speech or LLM/STT/TTS, with a visual workflow builder
+- [eugeniughelbur/obsidian-second-brain](https://github.com/eugeniughelbur/obsidian-second-brain) (★4457 · Python) — Persistent memory for Claude Code and 6 other CLI agents, stored as plain markdown in your Obsidian vault. Stop re-explaining your projects, decisions and peopl [`obsidian`]
+- [every-app/open-seo](https://github.com/every-app/open-seo) (★18753 · TypeScript) — Open source alternative to Semrush and Ahrefs
+- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) (★180618 · TypeScript) — The context API to search, scrape, and interact with the web at scale. 🔥
+- [glifocat/nanoclaw-glifocat](https://github.com/glifocat/nanoclaw-glifocat) (★2 · TypeScript) — NanoClaw fork — customizations, upstream contributions and experimentation
+- [hamr0/beeperbox](https://github.com/hamr0/beeperbox) (★25 · JavaScript) — Plug your AI agent into 50+ messengers (WhatsApp, iMessage, Signal, Telegram, Slack…) through one MCP endpoint. Two modes: a self-contained Docker container (he
+- [hesreallyhim/awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code) (★54086 · Python) — A hand-picked collection of the finest of resources for the most awesome of agents, Claude Code, the undisputed champion of coding companions, from the unstoppa
+- [hex/claude-sessions](https://github.com/hex/claude-sessions) (★41 · Shell) — Session manager for Claude Code with automatic documentation and artifact tracking
+- [homeassistant-ai/ha-mcp](https://github.com/homeassistant-ai/ha-mcp) (★4730 · Python) — The Unofficial and Awesome Home Assistant MCP Server
+- [imMamdouhaboammar/chatgpt-codex-plugin-autopilot](https://github.com/imMamdouhaboammar/chatgpt-codex-plugin-autopilot) (★23 · Python) — Self-hosting ChatGPT/Codex Plugin autopilot — copy-in, repo-owned. Converts agentic repos into validated, deterministically packaged Plugins. [`codex`]
+- [jmckinley/claude-code-resources](https://github.com/jmckinley/claude-code-resources) (★176 · Shell) — Complete guide and automation for Claude Code
+- [jo-inc/camofox-browser](https://github.com/jo-inc/camofox-browser) (★11048 · JavaScript) — Stealth headless browser for AI agents — bypass Cloudflare, bot detection, and anti-scraping. Drop-in Puppeteer/Playwright replacement.
+- [k1p1l0/claude-telegram-supercharged](https://github.com/k1p1l0/claude-telegram-supercharged) (★113 · TypeScript) — Supercharged Claude Code Official Telegram plugin — threading, voice messages 2 ways, stickers, GIFs, reactions, MarkdownV2 & more. Drop-in replacement.
+- [kalil0321/reverse-api-engineer](https://github.com/kalil0321/reverse-api-engineer) (★1154 · Python) — The agent that turns websites into APIs!
+- [kentcdodds/kody](https://github.com/kentcdodds/kody) (★626 · TypeScript) — 🐨 Your assistant's home — the memory, keys, code, and automations your AI agent keeps, portable across every MCP host. Built on Cloudflare Workers.
+- [kepano/obsidian-skills](https://github.com/kepano/obsidian-skills) (★48363) — Agent skills for Obsidian. Teach your agent to use Obsidian CLI and open formats including Markdown, Bases, JSON Canvas. [`openclaw` `codex` `opencode` `obsidian` `hermes`]
+- [lucaswalter/n8n-ai-automations](https://github.com/lucaswalter/n8n-ai-automations) (★1624) — Collection of n8n workflows, n8n templates, AI automations, and AI agents created for The Recap AI YouTube channel and the AI Automation Mastery free Skool comm
+- [manaflow-ai/cmux](https://github.com/manaflow-ai/cmux) (★27116 · Swift) — Open source Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents. Built for multitasking, organization, and programmability. [`codex` `opencode`]
+- [maubot/maubot](https://github.com/maubot/maubot) (★893 · Python) — A plugin-based Matrix bot system.
+- [max-sixty/worktrunk](https://github.com/max-sixty/worktrunk) (★7730 · Rust) — Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows [`codex`]
+- [mindfold-ai/Trellis](https://github.com/mindfold-ai/Trellis) (★14639 · TypeScript) — The best agent harness. [`codex`]
+- [mvanhorn/agentcookie](https://github.com/mvanhorn/agentcookie) (★831 · Go) — Your agent runs on a Mac that isn't your daily driver. agentcookie keeps its sessions in sync with the Mac you actually browse on, continuously, encrypted over  [`openclaw` `hermes`]
+- [mvanhorn/paperclip-plugin-telegram](https://github.com/mvanhorn/paperclip-plugin-telegram) (★93 · TypeScript) — Bidirectional Telegram bot plugin for Paperclip - push notifications, bot commands, inline approve/reject buttons, reply routing
+- [nanocoai/nanoclaw](https://github.com/nanocoai/nanoclaw) (★30771 · TypeScript) — A lightweight alternative to OpenClaw that runs in containers for security. Connects to WhatsApp, Telegram, Slack, Discord, Gmail and other messaging apps,, has [`openclaw`]
+- [openai/openai-agents-python](https://github.com/openai/openai-agents-python) (★29451 · Python) — A lightweight, powerful framework for multi-agent workflows
+- [openclaw/notcrawl](https://github.com/openclaw/notcrawl) (★132 · Go) — Local-first Notion crawler into SQLite and normalized Markdown [`openclaw` `local-first`]
+- [overwirehq/claude-code-telegram](https://github.com/overwirehq/claude-code-telegram) (★2785 · Python) — A powerful Telegram bot that provides remote access to Claude Code, enabling developers to interact with their projects from anywhere with full AI assistance an
+- [philippb/claude-homeassistant](https://github.com/philippb/claude-homeassistant) (★388 · Python) — Allows to program your home automations in plain english via Claude Code on your computer.
+- [presenton/presenton](https://github.com/presenton/presenton) (★10217 · TypeScript) — Open-Source AI Presentation Generator and API (Gamma, Canva, Beautiful AI, Decktopus, Presentations AI Alternative)
+- [prompt-security/clawsec](https://github.com/prompt-security/clawsec) (★1103 · JavaScript) — A complete security skill suite for OpenClaw, Hermes, PicoClaw and NanoClaw agents (and variants). Protect your SOUL.md (etc') with drift detection, live securi [`openclaw` `hermes`]
+- [renezander030/capcut-cli](https://github.com/renezander030/capcut-cli) (★470 · JavaScript) — Independent, unofficial CLI to edit CapCut and JianYing (剪映) projects — subtitles, timing, speed, volume, templates, cut long-form to shorts. No API needed, rea
+- [ruvnet/ruflo](https://github.com/ruvnet/ruflo) (★72498 · TypeScript) — 🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive me [`codex` `hermes`]
+- [skibitsky/alfred-timing](https://github.com/skibitsky/alfred-timing) (★36 · JavaScript) — ⏳ Alfred workflow for Timing app
+- [soxoj/maigret](https://github.com/soxoj/maigret) (★37549 · Python) — 🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites
+- [strands-agents/agent-sop](https://github.com/strands-agents/agent-sop) (★1149 · Python) — Natural language workflows that enable AI agents to perform complex, multi-step tasks with consistency and reliability.
+- [tailcallhq/forgecode](https://github.com/tailcallhq/forgecode) (★7628 · Rust) — AI enabled pair programmer for Claude, GPT, O Series, Grok, Deepseek, Gemini and 300+ models
+- [techartdev/OpenClawHomeAssistant](https://github.com/techartdev/OpenClawHomeAssistant) (★512 · Shell) — OpenClaw Assistant – Home Assistant Add-on [`openclaw`]
+- [techartdev/OpenClawHomeAssistantIntegration](https://github.com/techartdev/OpenClawHomeAssistantIntegration) (★106 · Python) — No upstream description. [`openclaw`]
+- [tinyhumansai/openhuman](https://github.com/tinyhumansai/openhuman) (★39805 · Rust) — OpenHuman is an open source agent harness with local-first memory, agent orchestration, and workflows [`local-first`]
+- [travisvn/awesome-claude-skills](https://github.com/travisvn/awesome-claude-skills) (★15072) — A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows — particularly Claude Code
+- [trycua/cua](https://github.com/trycua/cua) (★22672 · HTML) — Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation.
+- [tt-a1i/archify](https://github.com/tt-a1i/archify) (★62946 · JavaScript) — Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export. [`codex` `opencode`]
+- [vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser) (★42603 · Rust) — Browser automation CLI for AI agents
+- [vincentkoc/tokenjuice](https://github.com/vincentkoc/tokenjuice) (★519 · TypeScript) — 🧃 Token weight loss. Lean output compaction for terminal-heavy agent workflows. Works as a native CLI tool or as an extension to popular coding and agent framew [`openclaw`]
+- [wotai-dev/woterclip](https://github.com/wotai-dev/woterclip) (★57) — GitHub Issues-backed agent orchestration for Claude Code – a single Claude wears persona hats (Orchestrator, CEO, workers) routed by issue labels, driven by a h
+- [xming521/WeClone](https://github.com/xming521/WeClone) (★18222 · Python) — 🚀 One-stop solution for creating your AI twin from chat history 💡 Fine-tune LLMs with your chat logs to capture your unique style, then bind to a chatbot to bri
+- [xtekky/gpt4free](https://github.com/xtekky/gpt4free) (★66689 · Python) — The official gpt4free repository | various collection of powerful language models | opus 4.6 gpt 5.3 kimi 2.5 deepseek v3.2 gemini 3
+
+_Generated from star export — see data/. Regenerate, don't hand-edit._
