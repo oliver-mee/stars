@@ -1,6 +1,6 @@
 # Devtools & CLI
 
-143 starred repos. File a PR to fix a miscategorisation.
+142 starred repos. File a PR to fix a miscategorisation.
 
 - [0x676e67/wreq](https://github.com/0x676e67/wreq) (★1024 · Rust) — An ergonomic, privacy-aware Rust HTTP Client
 - [1weiho/open-slide](https://github.com/1weiho/open-slide) (★7587 · TypeScript) — A slide framework built for agents.
@@ -28,7 +28,7 @@
 - [Yesterday-AI/paperclip-plugin-company-wizard](https://github.com/Yesterday-AI/paperclip-plugin-company-wizard) (★173 · TypeScript) — Bootstrap AI agent companies from modular templates.
 - [ai-for-developers/awesome-ai-coding-tools](https://github.com/ai-for-developers/awesome-ai-coding-tools) (★2077) — A curated list of AI-powered coding tools
 - [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) (★39499 · Rust) — A smarter cd command. Supports all major shells.
-- [akitaonrails/ai-memory](https://github.com/akitaonrails/ai-memory) (★6965 · Rust) — Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors
+- [akitaonrails/ai-memory](https://github.com/akitaonrails/ai-memory) (★6966 · Rust) — Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors
 - [andyrewlee/awesome-agent-orchestrators](https://github.com/andyrewlee/awesome-agent-orchestrators) (★1930) — List of agent orchestrators [`codex` `opencode`]
 - [anthropics/claude-code-action](https://github.com/anthropics/claude-code-action) (★8885 · TypeScript) — No upstream description.
 - [api-evangelist/google-appsheet](https://github.com/api-evangelist/google-appsheet) (★1) — Google AppSheet — independent third-party profile of a public API surface, by API Evangelist. The Google AppSheet API enables programmatic access to AppSheet ap
@@ -36,7 +36,7 @@
 - [bergside/typeui](https://github.com/bergside/typeui) (★1936 · TypeScript) — Build better UI with AI [`codex`]
 - [bitjaru/styleseed](https://github.com/bitjaru/styleseed) (★955 · JavaScript) — Open-source design-method engine for Claude Code, Codex & Cursor. 23 agent skills for fixed design judgment, multiple grammars, semantic palettes, reference com [`codex` `shadcn`]
 - [bytedance/deer-flow](https://github.com/bytedance/deer-flow) (★82522 · Python) — An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message ga
-- [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage) (★59435 · Python) — World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI c
+- [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage) (★59436 · Python) — World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI c
 - [caliber-ai-org/ai-setup](https://github.com/caliber-ai-org/ai-setup) (★1272 · TypeScript) — Continuously sync your AI setups with one command. Codebase tailor suited agent skills, MCPs and config files for Claude Code, Cursor, and Codex. [`codex`]
 - [career-ops-hq/career-ops](https://github.com/career-ops-hq/career-ops) (★71771 · JavaScript) — Open-source AI job search: scan job portals, evaluate listings into a structured A-H report with a global 1-5 score, tailor your CV, track applications — runs l [`codex` `opencode`]
 - [careerhackeralex/visualize](https://github.com/careerhackeralex/visualize) (★227 · JavaScript) — Turn any idea into a beautiful HTML visualization — with one prompt. A Claude Code skill.
@@ -50,10 +50,10 @@
 - [crynta/terax-ai](https://github.com/crynta/terax-ai) (★9205 · TypeScript) — Lightweight (7MB) Terminal-first AI-native dev workspace
 - [cso1z/Feishu-MCP](https://github.com/cso1z/Feishu-MCP) (★738 · TypeScript) — Feishu / Lark 飞书文档与任务管理工具，支持 MCP 服务器和 CLI + Skill 两种使用方式，可无缝集成 Cursor、Claude Code、Cline 等 AI 编码工具
 - [davidahmann/applied-ai-field-guide](https://github.com/davidahmann/applied-ai-field-guide) (★108 · JavaScript) — The Applied AI Field Guide: fieldwork, value, engineering, and operations for AI that works beyond the demo.
-- [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio) (★31590 · Python) — VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation i [`local-first`]
+- [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio) (★31591 · Python) — VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation i [`local-first`]
 - [decolua/9router](https://github.com/decolua/9router) (★28989 · JavaScript) — Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to FREE Claude/GPT/Gemini via 40+ providers. Auto-fallback, RTK -40% t [`codex`]
 - [deer-flow/llm-space](https://github.com/deer-flow/llm-space) (★1896 · TypeScript) — A desktop app to prototype agent ideas, inspect every harness step, replay failures, and evaluate performance, all in one place. Local-first, cloud-ready for ma [`local-first`]
-- [diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute) (★66770 · TypeScript) — Never stop coding. Free MIT AI gateway: one endpoint, 352 providers (150+ free), 1200+ models Kimi, Claude, GPT, Gemini, GLM, DeepSeek, MiniMax. Works with Clau [`codex` `opencode`]
+- [diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute) (★66771 · TypeScript) — Never stop coding. Free MIT AI gateway: one endpoint, 352 providers (150+ free), 1200+ models Kimi, Claude, GPT, Gemini, GLM, DeepSeek, MiniMax. Works with Clau [`codex` `opencode`]
 - [digitalsamba/claude-code-video-toolkit](https://github.com/digitalsamba/claude-code-video-toolkit) (★2084 · Python) — AI-native video production toolkit for Claude Code [`openclaw`]
 - [earendil-works/pi](https://github.com/earendil-works/pi) (★106079 · TypeScript) — AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI
 - [egorfedorov/claude-context-optimizer](https://github.com/egorfedorov/claude-context-optimizer) (★111 · JavaScript) — Claude Code plugin that tracks token usage, identifies wasted context, and saves 30-50% on API costs. Heatmaps, ROI reports, budget alerts, efficiency scores, g
@@ -65,7 +65,7 @@
 - [first-tree-ai/first-tree-legacy](https://github.com/first-tree-ai/first-tree-legacy) (★47 · TypeScript) — A Git-native knowledge layer for your team — and a set of tool suite that keeps it alive. [`codex` `context-engineering`]
 - [gcampton/Agent-Pixels](https://github.com/gcampton/Agent-Pixels) (★106 · TypeScript) — Agent-Pixels is a paperclip plugin implementation of 'Pixel-Agents' the VSCode extension by Pablo De Lucca (7k Stars). The plugin features new "Security Cameras
 - [gitbrent/PptxGenJS](https://github.com/gitbrent/PptxGenJS) (★6170 · TypeScript) — Build PowerPoint presentations with JavaScript. Works with Node, React, web browsers, and more.
-- [github/awesome-copilot](https://github.com/github/awesome-copilot) (★39060 · JavaScript) — Community-contributed instructions, agents, skills, and configurations to help you make the most of GitHub Copilot.
+- [github/awesome-copilot](https://github.com/github/awesome-copilot) (★39061 · JavaScript) — Community-contributed instructions, agents, skills, and configurations to help you make the most of GitHub Copilot.
 - [gomuks/gomuks](https://github.com/gomuks/gomuks) (★1722 · Go) — A Matrix client written in Go.
 - [grooverLab/fable](https://github.com/grooverLab/fable) (★12 · Python) — High-fidelity transcript memory for Claude Code — index every session, recall byte-identical, search, prune, compose. Local-first, stdlib-only, MCP. [`local-first`]
 - [gsxdsm/awesome-paperclip](https://github.com/gsxdsm/awesome-paperclip) (★876) — Collection of the best Paperclip plugins
@@ -78,7 +78,7 @@
 - [jaydubya818/AI-FDE-Agent](https://github.com/jaydubya818/AI-FDE-Agent) (★2 · Python) — Forward-deployed AI engineering platform that turns enterprise evidence into verified workflows, implementation plans, and measurable automation.
 - [jmckinley/claude-code-resources](https://github.com/jmckinley/claude-code-resources) (★176 · Shell) — Complete guide and automation for Claude Code
 - [jo-inc/camofox-browser](https://github.com/jo-inc/camofox-browser) (★11055 · JavaScript) — Stealth headless browser for AI agents — bypass Cloudflare, bot detection, and anti-scraping. Drop-in Puppeteer/Playwright replacement.
-- [jordanbaird/Ice](https://github.com/jordanbaird/Ice) (★29645 · Swift) — Powerful menu bar manager for macOS
+- [jordanbaird/Ice](https://github.com/jordanbaird/Ice) (★29646 · Swift) — Powerful menu bar manager for macOS
 - [jordanrendric/claude-video-vision](https://github.com/jordanrendric/claude-video-vision) (★1305 · TypeScript) — Give Claude the ability to watch and understand videos — Claude Code plugin with frame extraction and multimodal audio analysis
 - [jorgenclaw/ai-privacy-hardening-guide](https://github.com/jorgenclaw/ai-privacy-hardening-guide) (★6) — Comprehensive guide to AI-assisted privacy hardening - OSINT audits, data broker removal, de-Googling, and ongoing maintenance
 - [k2-fsa/sherpa-onnx](https://github.com/k2-fsa/sherpa-onnx) (★14796 · C++) — Speech-to-text, text-to-speech, speaker diarization, speech enhancement, source separation, and VAD using next-gen Kaldi with onnxruntime without Internet conne
@@ -93,7 +93,7 @@
 - [manaflow-ai/cmux](https://github.com/manaflow-ai/cmux) (★27144 · Swift) — Open source Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents. Built for multitasking, organization, and programmability. [`codex` `opencode`]
 - [max-sixty/worktrunk](https://github.com/max-sixty/worktrunk) (★7878 · Rust) — Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows [`codex`]
 - [microsoft/skills-for-copilot-studio](https://github.com/microsoft/skills-for-copilot-studio) (★447 · JavaScript) — A skill for AI-coding tools to build and edit Microsoft Copilot Studio agents as YAML — with schema validation, templates, and AI-powered skills. Suited for Cla
-- [mksglu/context-mode](https://github.com/mksglu/context-mode) (★23149 · TypeScript) — Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and   enforces routing across 17 platforms via [`openclaw` `codex` `opencode`]
+- [mksglu/context-mode](https://github.com/mksglu/context-mode) (★23150 · TypeScript) — Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and   enforces routing across 17 platforms via [`openclaw` `codex` `opencode`]
 - [mobile-shell/mosh](https://github.com/mobile-shell/mosh) (★14495 · C++) — Mobile Shell
 - [mvanhorn/agentcookie](https://github.com/mvanhorn/agentcookie) (★832 · Go) — Your agent runs on a Mac that isn't your daily driver. agentcookie keeps its sessions in sync with the Mac you actually browse on, continuously, encrypted over  [`openclaw` `hermes`]
 - [mvanhorn/cli-printing-press](https://github.com/mvanhorn/cli-printing-press) (★4700 · Go) — Every API has a secret identity. This finds it, absorbs every feature from every competing tool, then builds the GOAT CLI — designed for AI agents first, with S
@@ -102,7 +102,7 @@
 - [mvanhorn/printing-press-library](https://github.com/mvanhorn/printing-press-library) (★2018 · Go) — Official library of CLIs generated by the CLI Printing Press. Endorsed, tested, and community-contributed.
 - [nailuoGG/anki-mcp-server](https://github.com/nailuoGG/anki-mcp-server) (★252 · TypeScript) — MCP server for Anki via AnkiConnect
 - [nalexn/ViewInspector](https://github.com/nalexn/ViewInspector) (★2631 · Swift) — Runtime introspection and unit testing of SwiftUI views
-- [nexu-io/open-design](https://github.com/nexu-io/open-design) (★96461 · TypeScript) — 🎨 Best DeepSeek Harness Design Plugin. The open-source Claude Design alternative. 🖥️ Local-first desktop app. 🖼️ Your coding agent becomes the design engine: pr [`codex` `opencode` `hermes` `local-first`]
+- [nexu-io/open-design](https://github.com/nexu-io/open-design) (★96462 · TypeScript) — 🎨 Best DeepSeek Harness Design Plugin. The open-source Claude Design alternative. 🖥️ Local-first desktop app. 🖼️ Your coding agent becomes the design engine: pr [`codex` `opencode` `hermes` `local-first`]
 - [nickallevato/paperclip-plica](https://github.com/nickallevato/paperclip-plica) (★3 · TypeScript) — Plica — cross-company Queue + Board HUD plugin for Paperclip
 - [one-ie/one](https://github.com/one-ie/one) (★129 · Astro) — Make Your Ideas Real. Build Apps, Websites and AI Agents with Plain English with Astro, React, Shadcn and Cloudflare [`codex` `shadcn`]
 - [onecli/onecli](https://github.com/onecli/onecli) (★3485 · TypeScript) — Open-source sandboxed agent harness for teams. Giving every employee a secured personal agent.
@@ -123,9 +123,8 @@
 - [sahib/rmlint](https://github.com/sahib/rmlint) (★2421 · C) — Extremely fast tool to remove duplicates and other lint from your filesystem
 - [shurlinet/shurli](https://github.com/shurlinet/shurli) (★6 · Go) — Sovereign P2P networking tool. Post-quantum encrypted connections, identity, file transfer, and relay infrastructure. No cloud, no accounts, no trust assumption [`local-first`]
 - [soxoj/maigret](https://github.com/soxoj/maigret) (★37618 · Python) — 🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites
-- [stablyai/orca](https://github.com/stablyai/orca) (★69834 · TypeScript) — Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime. [`codex` `opencode`]
 - [steipete/summarize](https://github.com/steipete/summarize) (★6626 · TypeScript) — Point at any URL/YouTube/Podcast or file. Get the gist. CLI and Chrome Extension.
-- [tailcallhq/forgecode](https://github.com/tailcallhq/forgecode) (★7632 · Rust) — AI enabled pair programmer for Claude, GPT, O Series, Grok, Deepseek, Gemini and 300+ models
+- [tailcallhq/forgecode](https://github.com/tailcallhq/forgecode) (★7633 · Rust) — AI enabled pair programmer for Claude, GPT, O Series, Grok, Deepseek, Gemini and 300+ models
 - [taylorwilsdon/google_workspace_mcp](https://github.com/taylorwilsdon/google_workspace_mcp) (★3175 · Python) — Control Gmail, Google Calendar, Docs, Sheets, Slides, Chat, Forms, Tasks, Search & Drive with AI - Comprehensive Google Workspace MCP Server & CLI Tool
 - [thaw-app/Thaw](https://github.com/thaw-app/Thaw) (★11046 · Swift) — The open source menu bar manager
 - [tmux/tmux](https://github.com/tmux/tmux) (★49285 · C) — tmux source code

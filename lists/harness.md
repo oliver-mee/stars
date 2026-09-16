@@ -19,11 +19,11 @@
 - [ThibautMelen/agentic-ai-systems](https://github.com/ThibautMelen/agentic-ai-systems) (★308) — Agentic AI explained with chickens 🐔 every pattern a runnable, CI-checked file. [`context-engineering`]
 - [Yeachan-Heo/oh-my-claudecode](https://github.com/Yeachan-Heo/oh-my-claudecode) (★39194 · TypeScript) — Teams-first Multi-agent orchestration for Claude Code [`opencode`]
 - [Yesterday-AI/paperclip-plugin-company-wizard](https://github.com/Yesterday-AI/paperclip-plugin-company-wizard) (★173 · TypeScript) — Bootstrap AI agent companies from modular templates.
-- [affaan-m/ECC](https://github.com/affaan-m/ECC) (★259626 · JavaScript) — The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor  [`codex` `opencode`]
+- [affaan-m/ECC](https://github.com/affaan-m/ECC) (★259628 · JavaScript) — The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor  [`codex` `opencode`]
 - [andyrewlee/awesome-agent-orchestrators](https://github.com/andyrewlee/awesome-agent-orchestrators) (★1930) — List of agent orchestrators [`codex` `opencode`]
 - [anomalyco/opencode](https://github.com/anomalyco/opencode) (★207779 · TypeScript) — The open source coding agent. [`opencode`]
 - [avelikiy/great_cto](https://github.com/avelikiy/great_cto) (★93 · JavaScript) — You already have the agent. This is everything around it. great_cto runs Claude Code as a pipeline of 70 specialist agents — an independent model checks each st
-- [block/buzz](https://github.com/block/buzz) (★33125 · Rust) — A hive mind communication platform
+- [block/buzz](https://github.com/block/buzz) (★33126 · Rust) — A hive mind communication platform
 - [bmad-code-org/BMAD-METHOD](https://github.com/bmad-code-org/BMAD-METHOD) (★53076 · Python) — Breakthrough Method for Agile Ai Driven Development
 - [bytedance/deer-flow](https://github.com/bytedance/deer-flow) (★82522 · Python) — An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message ga
 - [chrysb/alphaclaw](https://github.com/chrysb/alphaclaw) (★1473 · JavaScript) — The ultimate setup harness for OpenClaw. Deploy in minutes. Stay running for months. No CLI required. [`openclaw`]
@@ -39,17 +39,17 @@
 - [lucaswalter/n8n-ai-automations](https://github.com/lucaswalter/n8n-ai-automations) (★1626) — Collection of n8n workflows, n8n templates, AI automations, and AI agents created for The Recap AI YouTube channel and the AI Automation Mastery free Skool comm
 - [mindfold-ai/Trellis](https://github.com/mindfold-ai/Trellis) (★14664 · TypeScript) — The best agent harness. [`codex`]
 - [nesquena/hermes-webui](https://github.com/nesquena/hermes-webui) (★18381 · Python) — Hermes WebUI: The best way to use Hermes Agent from the web or from your phone! [`hermes`]
-- [nexu-io/open-design](https://github.com/nexu-io/open-design) (★96461 · TypeScript) — 🎨 Best DeepSeek Harness Design Plugin. The open-source Claude Design alternative. 🖥️ Local-first desktop app. 🖼️ Your coding agent becomes the design engine: pr [`codex` `opencode` `hermes` `local-first`]
+- [nexu-io/open-design](https://github.com/nexu-io/open-design) (★96462 · TypeScript) — 🎨 Best DeepSeek Harness Design Plugin. The open-source Claude Design alternative. 🖥️ Local-first desktop app. 🖼️ Your coding agent becomes the design engine: pr [`codex` `opencode` `hermes` `local-first`]
 - [onecli/onecli](https://github.com/onecli/onecli) (★3485 · TypeScript) — Open-source sandboxed agent harness for teams. Giving every employee a secured personal agent.
 - [openai/openai-agents-python](https://github.com/openai/openai-agents-python) (★29484 · Python) — A lightweight, powerful framework for multi-agent workflows
 - [openchamber/openchamber](https://github.com/openchamber/openchamber) (★9913 · TypeScript) — Agentic Development Environment based on OpenCode AI agent [`opencode`]
 - [peteromallet/desloppify](https://github.com/peteromallet/desloppify) (★3125 · Python) — Agent harness to make your slop code well-engineered and beautiful.
 - [rohitg00/agentmemory](https://github.com/rohitg00/agentmemory) (★28490 · TypeScript) — #1 Persistent memory for AI coding agents based on real-world benchmarks [`openclaw` `codex` `hermes`]
 - [ruvnet/ruflo](https://github.com/ruvnet/ruflo) (★72584 · TypeScript) — 🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive me [`codex` `hermes`]
-- [stablyai/orca](https://github.com/stablyai/orca) (★69834 · TypeScript) — Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime. [`codex` `opencode`]
-- [tailcallhq/forgecode](https://github.com/tailcallhq/forgecode) (★7632 · Rust) — AI enabled pair programmer for Claude, GPT, O Series, Grok, Deepseek, Gemini and 300+ models
+- [stablyai/orca](https://github.com/stablyai/orca) (★69836 · TypeScript) — Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime. [`codex` `opencode`]
+- [tailcallhq/forgecode](https://github.com/tailcallhq/forgecode) (★7633 · Rust) — AI enabled pair programmer for Claude, GPT, O Series, Grok, Deepseek, Gemini and 300+ models
 - [tinyhumansai/openhuman](https://github.com/tinyhumansai/openhuman) (★39814 · Rust) — OpenHuman is an open source agent harness with local-first memory, agent orchestration, and workflows [`local-first`]
-- [tt-a1i/archify](https://github.com/tt-a1i/archify) (★64191 · JavaScript) — Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export. [`codex` `opencode`]
+- [tt-a1i/archify](https://github.com/tt-a1i/archify) (★64192 · JavaScript) — Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export. [`codex` `opencode`]
 - [vercel-labs/fx](https://github.com/vercel-labs/fx) (★3003 · Zig) — Unix like coding agent
 - [wotai-dev/woterclip](https://github.com/wotai-dev/woterclip) (★57) — GitHub Issues-backed agent orchestration for Claude Code – a single Claude wears persona hats (Orchestrator, CEO, workers) routed by issue labels, driven by a h
 - [yc-software/qm](https://github.com/yc-software/qm) (★15081 · TypeScript) — Multiplayer agent harness for work.

@@ -37,7 +37,7 @@
 - [davidahmann/applied-ai-field-guide](https://github.com/davidahmann/applied-ai-field-guide) (★108 · JavaScript) — The Applied AI Field Guide: fieldwork, value, engineering, and operations for AI that works beyond the demo.
 - [decolua/9router](https://github.com/decolua/9router) (★28989 · JavaScript) — Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to FREE Claude/GPT/Gemini via 40+ providers. Auto-fallback, RTK -40% t [`codex`]
 - [dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io) (★34297 · Python) — Best and simplest tool for website change detection, web page monitoring, and website change alerts. Perfect for tracking content changes, price drops, restock 
-- [diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute) (★66770 · TypeScript) — Never stop coding. Free MIT AI gateway: one endpoint, 352 providers (150+ free), 1200+ models Kimi, Claude, GPT, Gemini, GLM, DeepSeek, MiniMax. Works with Clau [`codex` `opencode`]
+- [diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute) (★66771 · TypeScript) — Never stop coding. Free MIT AI gateway: one endpoint, 352 providers (150+ free), 1200+ models Kimi, Claude, GPT, Gemini, GLM, DeepSeek, MiniMax. Works with Clau [`codex` `opencode`]
 - [dograh-hq/dograh](https://github.com/dograh-hq/dograh) (★5665 · Python) — Open source voice AI platform. Self-hosted alternative to Vapi and Retell. On Prem, BYOK across  Speech to Speech or LLM/STT/TTS, with a visual workflow builder
 - [ecano08/deployops-ai](https://github.com/ecano08/deployops-ai) (★2 · PHP) — AI-powered FDE platform for customer deployments, RAG, secure integrations, human-in-the-loop workflows, evaluations, and observability.
 - [enescingoz/awesome-n8n-templates](https://github.com/enescingoz/awesome-n8n-templates) (★25392) — 280+ free n8n automation templates — ready-to-use workflows for Gmail, Telegram, Slack, Discord, WhatsApp, Google Drive, Notion, OpenAI, and more. AI agents, RA
@@ -60,7 +60,7 @@
 - [makenotion/notion-mcp-server](https://github.com/makenotion/notion-mcp-server) (★4634 · TypeScript) — Official Notion MCP Server
 - [mbailey/voicemode](https://github.com/mbailey/voicemode) (★1366 · Python) — Natural voice conversations with Claude Code
 - [mensfeld/code-on-incus](https://github.com/mensfeld/code-on-incus) (★706 · Go) — Give each AI agent its own isolated machine with root, Docker, and systemd. Active defense detects and stops threats automatically. [`codex` `opencode`]
-- [mksglu/context-mode](https://github.com/mksglu/context-mode) (★23149 · TypeScript) — Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and   enforces routing across 17 platforms via [`openclaw` `codex` `opencode`]
+- [mksglu/context-mode](https://github.com/mksglu/context-mode) (★23150 · TypeScript) — Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and   enforces routing across 17 platforms via [`openclaw` `codex` `opencode`]
 - [modelscope/FunASR](https://github.com/modelscope/FunASR) (★20364 · Python) — Open-source speech recognition toolkit for training, inference, streaming ASR, VAD, punctuation, speaker diarization pipelines, and OpenAI-compatible/MCP servin
 - [mohankumarpaluru/oracle-freetier-instance-creation](https://github.com/mohankumarpaluru/oracle-freetier-instance-creation) (★538 · Python) — A script to create free instance
 - [mostlygeek/llama-swap](https://github.com/mostlygeek/llama-swap) (★5672 · Go) — Reliable model swapping for any local OpenAI/Anthropic compatible server - llama.cpp, vllm, etc
@@ -86,7 +86,7 @@
 - [topoteretes/cognee](https://github.com/topoteretes/cognee) (★30711 · Python) — Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions with a self-hosted knowledge graph engi [`context-engineering`]
 - [upstash/context7](https://github.com/upstash/context7) (★62074 · TypeScript) — Context7 Platform -- Up-to-date code documentation for LLMs and AI code editors
 - [vercel-labs/portless](https://github.com/vercel-labs/portless) (★12464 · TypeScript) — Replace port numbers with stable, named local URLs. For humans and agents.
-- [vorssaint/vorssaint-utils](https://github.com/vorssaint/vorssaint-utils) (★19344 · Swift) — Free and open-source macOS menu bar toolkit.
+- [vorssaint/vorssaint-utils](https://github.com/vorssaint/vorssaint-utils) (★19345 · Swift) — Free and open-source macOS menu bar toolkit.
 - [wotai-dev/woterclip](https://github.com/wotai-dev/woterclip) (★57) — GitHub Issues-backed agent orchestration for Claude Code – a single Claude wears persona hats (Orchestrator, CEO, workers) routed by issue labels, driven by a h
 - [xdash/FDE-the-Guidance-Book-of-Forward-Deployed-Engineer](https://github.com/xdash/FDE-the-Guidance-Book-of-Forward-Deployed-Engineer) (★4716) — FDE（前沿部署工程师）从零入门指南（基于范冰《增长黑客》原书框架）
 - [yvgude/lean-ctx](https://github.com/yvgude/lean-ctx) (★3792 · Rust) — LeanCTX — Context Intelligence for AI systems. [`context-engineering`]

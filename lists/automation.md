@@ -32,7 +32,7 @@
 - [czlonkowski/n8n-mcp](https://github.com/czlonkowski/n8n-mcp) (★22895 · TypeScript) — A MCP for Claude Desktop / Claude Code / Windsurf / Cursor to build n8n workflows for you
 - [czlonkowski/n8n-skills](https://github.com/czlonkowski/n8n-skills) (★6239 · Shell) — n8n skillset for Claude Code to build flawless n8n workflows
 - [davidahmann/applied-ai-field-guide](https://github.com/davidahmann/applied-ai-field-guide) (★108 · JavaScript) — The Applied AI Field Guide: fieldwork, value, engineering, and operations for AI that works beyond the demo.
-- [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio) (★31590 · Python) — VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation i [`local-first`]
+- [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio) (★31591 · Python) — VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation i [`local-first`]
 - [dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io) (★34297 · Python) — Best and simplest tool for website change detection, web page monitoring, and website change alerts. Perfect for tracking content changes, price drops, restock 
 - [dograh-hq/dograh](https://github.com/dograh-hq/dograh) (★5665 · Python) — Open source voice AI platform. Self-hosted alternative to Vapi and Retell. On Prem, BYOK across  Speech to Speech or LLM/STT/TTS, with a visual workflow builder
 - [ecano08/deployops-ai](https://github.com/ecano08/deployops-ai) (★2 · PHP) — AI-powered FDE platform for customer deployments, RAG, secure integrations, human-in-the-loop workflows, evaluations, and observability.
@@ -72,13 +72,13 @@
 - [skibitsky/alfred-timing](https://github.com/skibitsky/alfred-timing) (★36 · JavaScript) — ⏳ Alfred workflow for Timing app
 - [soxoj/maigret](https://github.com/soxoj/maigret) (★37618 · Python) — 🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites
 - [strands-agents/agent-sop](https://github.com/strands-agents/agent-sop) (★1150 · Python) — Natural language workflows that enable AI agents to perform complex, multi-step tasks with consistency and reliability.
-- [tailcallhq/forgecode](https://github.com/tailcallhq/forgecode) (★7632 · Rust) — AI enabled pair programmer for Claude, GPT, O Series, Grok, Deepseek, Gemini and 300+ models
+- [tailcallhq/forgecode](https://github.com/tailcallhq/forgecode) (★7633 · Rust) — AI enabled pair programmer for Claude, GPT, O Series, Grok, Deepseek, Gemini and 300+ models
 - [techartdev/OpenClawHomeAssistant](https://github.com/techartdev/OpenClawHomeAssistant) (★512 · Shell) — OpenClaw Assistant – Home Assistant Add-on [`openclaw`]
 - [techartdev/OpenClawHomeAssistantIntegration](https://github.com/techartdev/OpenClawHomeAssistantIntegration) (★106 · Python) — No upstream description. [`openclaw`]
 - [tinyhumansai/openhuman](https://github.com/tinyhumansai/openhuman) (★39814 · Rust) — OpenHuman is an open source agent harness with local-first memory, agent orchestration, and workflows [`local-first`]
 - [travisvn/awesome-claude-skills](https://github.com/travisvn/awesome-claude-skills) (★15084) — A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows — particularly Claude Code
 - [trycua/cua](https://github.com/trycua/cua) (★22706 · HTML) — Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation.
-- [tt-a1i/archify](https://github.com/tt-a1i/archify) (★64191 · JavaScript) — Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export. [`codex` `opencode`]
+- [tt-a1i/archify](https://github.com/tt-a1i/archify) (★64192 · JavaScript) — Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export. [`codex` `opencode`]
 - [vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser) (★42668 · Rust) — Browser automation CLI for AI agents
 - [vincentkoc/tokenjuice](https://github.com/vincentkoc/tokenjuice) (★519 · TypeScript) — 🧃 Token weight loss. Lean output compaction for terminal-heavy agent workflows. Works as a native CLI tool or as an extension to popular coding and agent framew [`openclaw`]
 - [wotai-dev/woterclip](https://github.com/wotai-dev/woterclip) (★57) — GitHub Issues-backed agent orchestration for Claude Code – a single Claude wears persona hats (Orchestrator, CEO, workers) routed by issue labels, driven by a h

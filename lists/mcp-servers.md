@@ -16,7 +16,7 @@
 - [ThibautMelen/agentic-ai-systems](https://github.com/ThibautMelen/agentic-ai-systems) (★308) — Agentic AI explained with chickens 🐔 every pattern a runnable, CI-checked file. [`context-engineering`]
 - [VinayakHyde/claude-anki-flashcard-rules](https://github.com/VinayakHyde/claude-anki-flashcard-rules) (★6) — Opinionated rules for generating high-quality Anki flashcards with Claude Code + Anki MCP. Covers general, math (4-layer architecture with custom note types), c
 - [a-bonus/google-docs-mcp](https://github.com/a-bonus/google-docs-mcp) (★661 · TypeScript) — The Ultimate Google Docs, Sheets, Drive, Gmail, & Google Calendar MCP Server. This MCP (primarily for use in Claude Desktop) gains full access to your google su
-- [affaan-m/ECC](https://github.com/affaan-m/ECC) (★259626 · JavaScript) — The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor  [`codex` `opencode`]
+- [affaan-m/ECC](https://github.com/affaan-m/ECC) (★259628 · JavaScript) — The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor  [`codex` `opencode`]
 - [agentic-community/mcp-gateway-registry](https://github.com/agentic-community/mcp-gateway-registry) (★919 · Python) — Enterprise-ready MCP Gateway & Registry that centralizes AI development tools with secure OAuth authentication, dynamic tool discovery, and unified access for b
 - [agentplugins/agent-plugins-spec](https://github.com/agentplugins/agent-plugins-spec) (★1289) — Agent Plugins Specification v1.0.0 — A minimal standard for packaging agent extensions into distributable plugins
 - [basicmachines-co/basic-memory](https://github.com/basicmachines-co/basic-memory) (★3977 · Python) — AI conversations that actually remember. Never re-explain your project to your AI again. Join our Discord: https://discord.gg/tyvKNccgqN [`obsidian` `local-first`]
@@ -27,7 +27,7 @@
 - [cso1z/Feishu-MCP](https://github.com/cso1z/Feishu-MCP) (★738 · TypeScript) — Feishu / Lark 飞书文档与任务管理工具，支持 MCP 服务器和 CLI + Skill 两种使用方式，可无缝集成 Cursor、Claude Code、Cline 等 AI 编码工具
 - [czlonkowski/n8n-mcp](https://github.com/czlonkowski/n8n-mcp) (★22895 · TypeScript) — A MCP for Claude Desktop / Claude Code / Windsurf / Cursor to build n8n workflows for you
 - [davehenke/rekordbox-mcp](https://github.com/davehenke/rekordbox-mcp) (★103 · Python) — Open Source MCP for Rekordbox DJ
-- [diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute) (★66770 · TypeScript) — Never stop coding. Free MIT AI gateway: one endpoint, 352 providers (150+ free), 1200+ models Kimi, Claude, GPT, Gemini, GLM, DeepSeek, MiniMax. Works with Clau [`codex` `opencode`]
+- [diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute) (★66771 · TypeScript) — Never stop coding. Free MIT AI gateway: one endpoint, 352 providers (150+ free), 1200+ models Kimi, Claude, GPT, Gemini, GLM, DeepSeek, MiniMax. Works with Clau [`codex` `opencode`]
 - [dograh-hq/dograh](https://github.com/dograh-hq/dograh) (★5665 · Python) — Open source voice AI platform. Self-hosted alternative to Vapi and Retell. On Prem, BYOK across  Speech to Speech or LLM/STT/TTS, with a visual workflow builder
 - [every-app/open-seo](https://github.com/every-app/open-seo) (★18826 · TypeScript) — Open source alternative to Semrush and Ahrefs
 - [farion1231/cc-switch](https://github.com/farion1231/cc-switch) (★133133 · Rust) — A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode, OpenClaw, Grok Build & Hermes Agent. Only official website: ccswitch.io [`openclaw` `codex` `opencode` `hermes`]
@@ -46,7 +46,7 @@
 - [macro-inc/macro](https://github.com/macro-inc/macro) (★4331 · Rust) — Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.
 - [makenotion/notion-mcp-server](https://github.com/makenotion/notion-mcp-server) (★4634 · TypeScript) — Official Notion MCP Server
 - [mbailey/voicemode](https://github.com/mbailey/voicemode) (★1366 · Python) — Natural voice conversations with Claude Code
-- [mksglu/context-mode](https://github.com/mksglu/context-mode) (★23149 · TypeScript) — Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and   enforces routing across 17 platforms via [`openclaw` `codex` `opencode`]
+- [mksglu/context-mode](https://github.com/mksglu/context-mode) (★23150 · TypeScript) — Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and   enforces routing across 17 platforms via [`openclaw` `codex` `opencode`]
 - [modelscope/FunASR](https://github.com/modelscope/FunASR) (★20364 · Python) — Open-source speech recognition toolkit for training, inference, streaming ASR, VAD, punctuation, speaker diarization pipelines, and OpenAI-compatible/MCP servin
 - [nailuoGG/anki-mcp-server](https://github.com/nailuoGG/anki-mcp-server) (★252 · TypeScript) — MCP server for Anki via AnkiConnect
 - [nspady/google-calendar-mcp](https://github.com/nspady/google-calendar-mcp) (★1189 · TypeScript) — MCP integration for Google Calendar to manage events.

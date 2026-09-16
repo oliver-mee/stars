@@ -31,24 +31,24 @@
 - [VoltAgent/awesome-openclaw-skills](https://github.com/VoltAgent/awesome-openclaw-skills) (★52604) — The awesome collection of OpenClaw skills. 5,400+ skills filtered and categorized from the official OpenClaw Skills Registry.🦞 [`openclaw`]
 - [Yesterday-AI/paperclip-plugin-company-wizard](https://github.com/Yesterday-AI/paperclip-plugin-company-wizard) (★173 · TypeScript) — Bootstrap AI agent companies from modular templates.
 - [activeloopai/hivemind](https://github.com/activeloopai/hivemind) (★1616 · TypeScript) — Hivemind turns your traces into reusable skills across agents [`openclaw` `codex`]
-- [affaan-m/ECC](https://github.com/affaan-m/ECC) (★259626 · JavaScript) — The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor  [`codex` `opencode`]
+- [affaan-m/ECC](https://github.com/affaan-m/ECC) (★259628 · JavaScript) — The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor  [`codex` `opencode`]
 - [agentic-community/mcp-gateway-registry](https://github.com/agentic-community/mcp-gateway-registry) (★919 · Python) — Enterprise-ready MCP Gateway & Registry that centralizes AI development tools with secure OAuth authentication, dynamic tool discovery, and unified access for b
 - [agentplugins/agent-plugins-spec](https://github.com/agentplugins/agent-plugins-spec) (★1289) — Agent Plugins Specification v1.0.0 — A minimal standard for packaging agent extensions into distributable plugins
 - [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) (★39499 · Rust) — A smarter cd command. Supports all major shells.
 - [alchaincyf/nuwa-skill](https://github.com/alchaincyf/nuwa-skill) (★32747 · Python) — 你想蒸馏的下一个员工，何必是同事。蒸馏任何人的思维方式——心智模型、决策启发式、表达DNA。Distill how anyone thinks.
 - [avelikiy/great_cto](https://github.com/avelikiy/great_cto) (★93 · JavaScript) — You already have the agent. This is everything around it. great_cto runs Claude Code as a pipeline of 70 specialist agents — an independent model checks each st
 - [awesome-opencode/awesome-opencode](https://github.com/awesome-opencode/awesome-opencode) (★10250 · JavaScript) — A curated list of awesome plugins, themes, agents, projects, and resources for https://opencode.ai [`opencode`]
-- [ayghri/i-have-adhd](https://github.com/ayghri/i-have-adhd) (★46557 · Python) — A skill to stop your coding agent from burying the answer. ADHD-friendly output.
+- [ayghri/i-have-adhd](https://github.com/ayghri/i-have-adhd) (★46558 · Python) — A skill to stop your coding agent from burying the answer. ADHD-friendly output.
 - [benjaminezequiel/keep-the-rhythm](https://github.com/benjaminezequiel/keep-the-rhythm) (★111 · TypeScript) — An Obsidian plugin to visualize how much you write with a heatmap. [`obsidian`]
 - [bergside/typeui](https://github.com/bergside/typeui) (★1936 · TypeScript) — Build better UI with AI [`codex`]
 - [bgarciamoura/obsidian-notion-bases-plugin](https://github.com/bgarciamoura/obsidian-notion-bases-plugin) (★141 · TypeScript) — Turn any folder into a Notion-style database — 7 views, 17 column types, formulas, relations, rollups, and subtasks. All stored in plain Markdown frontmatter. [`obsidian`]
 - [bitjaru/styleseed](https://github.com/bitjaru/styleseed) (★955 · JavaScript) — Open-source design-method engine for Claude Code, Codex & Cursor. 23 agent skills for fixed design judgment, multiple grammars, semantic palettes, reference com [`codex` `shadcn`]
 - [blacksmithgu/obsidian-dataview](https://github.com/blacksmithgu/obsidian-dataview) (★9341 · TypeScript) — A data index and query language over Markdown files, for https://obsidian.md/. [`obsidian`]
-- [blader/humanizer](https://github.com/blader/humanizer) (★48886 · Python) — Agent skill that removes signs of AI-generated writing from text [`codex`]
+- [blader/humanizer](https://github.com/blader/humanizer) (★48887 · Python) — Agent skill that removes signs of AI-generated writing from text [`codex`]
 - [boshu2/agentops](https://github.com/boshu2/agentops) (★441 · Go) — The operations layer for agentic engineering — portable skills and contracts connecting intent, agents, software factories, and independent judgment. [`codex` `opencode`]
 - [bytedance/deer-flow](https://github.com/bytedance/deer-flow) (★82522 · Python) — An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message ga
 - [caiovicentino/polarengine-vllm](https://github.com/caiovicentino/polarengine-vllm) (★36 · Python) — PolarEngine: vLLM plugin for PolarQuant quantized LLM inference — 75% FP16 speed at 2.3x less VRAM
-- [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage) (★59435 · Python) — World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI c
+- [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage) (★59436 · Python) — World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI c
 - [caliber-ai-org/ai-setup](https://github.com/caliber-ai-org/ai-setup) (★1272 · TypeScript) — Continuously sync your AI setups with one command. Codebase tailor suited agent skills, MCPs and config files for Claude Code, Cursor, and Codex. [`codex`]
 - [careerhackeralex/visualize](https://github.com/careerhackeralex/visualize) (★227 · JavaScript) — Turn any idea into a beautiful HTML visualization — with one prompt. A Claude Code skill.
 - [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) (★40360 · HTML) — 38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop. [`codex`]
@@ -64,7 +64,7 @@
 - [farion1231/cc-switch](https://github.com/farion1231/cc-switch) (★133133 · Rust) — A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode, OpenClaw, Grok Build & Hermes Agent. Only official website: ccswitch.io [`openclaw` `codex` `opencode` `hermes`]
 - [fastxyz/skill-optimizer](https://github.com/fastxyz/skill-optimizer) (★79 · TypeScript) — Benchmark, evaluate, and optimize skills to ensure reliable performance across all LLMs
 - [gcampton/Agent-Pixels](https://github.com/gcampton/Agent-Pixels) (★106 · TypeScript) — Agent-Pixels is a paperclip plugin implementation of 'Pixel-Agents' the VSCode extension by Pablo De Lucca (7k Stars). The plugin features new "Security Cameras
-- [github/awesome-copilot](https://github.com/github/awesome-copilot) (★39060 · JavaScript) — Community-contributed instructions, agents, skills, and configurations to help you make the most of GitHub Copilot.
+- [github/awesome-copilot](https://github.com/github/awesome-copilot) (★39061 · JavaScript) — Community-contributed instructions, agents, skills, and configurations to help you make the most of GitHub Copilot.
 - [gsxdsm/awesome-paperclip](https://github.com/gsxdsm/awesome-paperclip) (★876) — Collection of the best Paperclip plugins
 - [hasanyilmaz/operon](https://github.com/hasanyilmaz/operon) (★216 · TypeScript) — Task management system for humans and agents in Obsidian. [`obsidian` `local-first`]
 - [hesreallyhim/awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code) (★54143 · Python) — A hand-picked collection of the finest of resources for the most awesome of agents, Claude Code, the undisputed champion of coding companions, from the unstoppa
@@ -81,17 +81,17 @@
 - [logancyang/obsidian-copilot](https://github.com/logancyang/obsidian-copilot) (★7722 · TypeScript) — THE Copilot in Obsidian [`obsidian`]
 - [majiayu000/claude-skill-registry](https://github.com/majiayu000/claude-skill-registry) (★611 · HTML) — The most comprehensive Claude Code skills registry | Web Search: https://majiayu000.github.io/claude-skill-registry-core/
 - [marchoag/Claude-Code-Setup-Wizard-MD](https://github.com/marchoag/Claude-Code-Setup-Wizard-MD) (★68 · JavaScript) — Easily start and manage your Claude (and Codex!) projects, including a timer! [`codex`]
-- [mattpocock/skills](https://github.com/mattpocock/skills) (★263185 · Shell) — Skills for Real Engineers. Straight from my .agents directory.
+- [mattpocock/skills](https://github.com/mattpocock/skills) (★263186 · Shell) — Skills for Real Engineers. Straight from my .agents directory.
 - [maubot/maubot](https://github.com/maubot/maubot) (★893 · Python) — A plugin-based Matrix bot system.
 - [microsoft/skills-for-copilot-studio](https://github.com/microsoft/skills-for-copilot-studio) (★447 · JavaScript) — A skill for AI-coding tools to build and edit Microsoft Copilot Studio agents as YAML — with schema validation, templates, and AI-powered skills. Suited for Cla
-- [mksglu/context-mode](https://github.com/mksglu/context-mode) (★23149 · TypeScript) — Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and   enforces routing across 17 platforms via [`openclaw` `codex` `opencode`]
+- [mksglu/context-mode](https://github.com/mksglu/context-mode) (★23150 · TypeScript) — Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and   enforces routing across 17 platforms via [`openclaw` `codex` `opencode`]
 - [mrgoonie/claudekit-skills](https://github.com/mrgoonie/claudekit-skills) (★2215 · Python) — All powerful skills of ClaudeKit.cc!
-- [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills) (★213301) — A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.
+- [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills) (★213303) — A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.
 - [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) (★62119 · Python) — AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary [`openclaw`]
 - [mvanhorn/paperclip-plugin-acp](https://github.com/mvanhorn/paperclip-plugin-acp) (★70 · TypeScript) — ACP (Agent Client Protocol) runtime plugin for Paperclip - run Claude Code, Codex, and Gemini CLI from any chat platform [`codex`]
 - [mvanhorn/paperclip-plugin-telegram](https://github.com/mvanhorn/paperclip-plugin-telegram) (★93 · TypeScript) — Bidirectional Telegram bot plugin for Paperclip - push notifications, bot commands, inline approve/reject buttons, reply routing
 - [nanocoai/nanoclaw](https://github.com/nanocoai/nanoclaw) (★30780 · TypeScript) — A lightweight alternative to OpenClaw that runs in containers for security. Connects to WhatsApp, Telegram, Slack, Discord, Gmail and other messaging apps,, has [`openclaw`]
-- [nexu-io/open-design](https://github.com/nexu-io/open-design) (★96461 · TypeScript) — 🎨 Best DeepSeek Harness Design Plugin. The open-source Claude Design alternative. 🖥️ Local-first desktop app. 🖼️ Your coding agent becomes the design engine: pr [`codex` `opencode` `hermes` `local-first`]
+- [nexu-io/open-design](https://github.com/nexu-io/open-design) (★96462 · TypeScript) — 🎨 Best DeepSeek Harness Design Plugin. The open-source Claude Design alternative. 🖥️ Local-first desktop app. 🖼️ Your coding agent becomes the design engine: pr [`codex` `opencode` `hermes` `local-first`]
 - [nickallevato/paperclip-plica](https://github.com/nickallevato/paperclip-plica) (★3 · TypeScript) — Plica — cross-company Queue + Board HUD plugin for Paperclip
 - [o-gi/claude-code-commands](https://github.com/o-gi/claude-code-commands) (★50 · Shell) — No upstream description.
 - [obra/superpowers](https://github.com/obra/superpowers) (★287372 · Shell) — An agentic skills framework & software development methodology that works.
@@ -104,11 +104,11 @@
 - [sean-esk/second-brain-gtd](https://github.com/sean-esk/second-brain-gtd) (★51) — Second brain using obsidian, and claude code with skills for your assistant [`obsidian`]
 - [simonw/llm](https://github.com/simonw/llm) (★12512 · Python) — Access large language models from the command-line
 - [suboss87/FDEOps](https://github.com/suboss87/FDEOps) (★539 · JavaScript) — Forward deployed engineering skills for AI coding agents. [`codex`]
-- [tailcallhq/forgecode](https://github.com/tailcallhq/forgecode) (★7632 · Rust) — AI enabled pair programmer for Claude, GPT, O Series, Grok, Deepseek, Gemini and 300+ models
+- [tailcallhq/forgecode](https://github.com/tailcallhq/forgecode) (★7633 · Rust) — AI enabled pair programmer for Claude, GPT, O Series, Grok, Deepseek, Gemini and 300+ models
 - [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) (★94008 · TypeScript) — Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it with AI, and injects relevant context b [`openclaw` `codex` `opencode` `hermes`]
 - [topoteretes/cognee](https://github.com/topoteretes/cognee) (★30711 · Python) — Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions with a self-hosted knowledge graph engi [`context-engineering`]
 - [travisvn/awesome-claude-skills](https://github.com/travisvn/awesome-claude-skills) (★15084) — A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows — particularly Claude Code
-- [tt-a1i/archify](https://github.com/tt-a1i/archify) (★64191 · JavaScript) — Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export. [`codex` `opencode`]
+- [tt-a1i/archify](https://github.com/tt-a1i/archify) (★64192 · JavaScript) — Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export. [`codex` `opencode`]
 - [vercel-labs/skills](https://github.com/vercel-labs/skills) (★31756 · TypeScript) — The open agent skills tool - npx skills
 - [vercel/vercel](https://github.com/vercel/vercel) (★16252 · TypeScript) — Develop. Preview. Ship.
 - [vincentkoc/tokenjuice](https://github.com/vincentkoc/tokenjuice) (★519 · TypeScript) — 🧃 Token weight loss. Lean output compaction for terminal-heavy agent workflows. Works as a native CLI tool or as an extension to popular coding and agent framew [`openclaw`]

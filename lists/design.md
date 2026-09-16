@@ -21,15 +21,15 @@
 - [birobirobiro/awesome-shadcn-ui](https://github.com/birobirobiro/awesome-shadcn-ui) (★20508 · TypeScript) — A curated list of awesome things related to shadcn/ui. [`shadcn`]
 - [bitjaru/styleseed](https://github.com/bitjaru/styleseed) (★955 · JavaScript) — Open-source design-method engine for Claude Code, Codex & Cursor. 23 agent skills for fixed design judgment, multiple grammars, semantic palettes, reference com [`codex` `shadcn`]
 - [browser-use/video-use](https://github.com/browser-use/video-use) (★24950 · Python) — Edit videos with coding agents
-- [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage) (★59435 · Python) — World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI c
+- [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage) (★59436 · Python) — World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI c
 - [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) (★40360 · HTML) — 38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop. [`codex`]
 - [charlietlamb/calendar](https://github.com/charlietlamb/calendar) (★570 · TypeScript) — React/shadcn full calendar [`shadcn`]
 - [creamlike1024/EasyLPAC](https://github.com/creamlike1024/EasyLPAC) (★753 · Go) — lpac GUI Frontend
 - [crynta/terax-ai](https://github.com/crynta/terax-ai) (★9205 · TypeScript) — Lightweight (7MB) Terminal-first AI-native dev workspace
 - [danielpetho/fancy](https://github.com/danielpetho/fancy) (★3136 · TypeScript) — No upstream description.
-- [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio) (★31590 · Python) — VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation i [`local-first`]
+- [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio) (★31591 · Python) — VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation i [`local-first`]
 - [digitalsamba/claude-code-video-toolkit](https://github.com/digitalsamba/claude-code-video-toolkit) (★2084 · Python) — AI-native video production toolkit for Claude Code [`openclaw`]
-- [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) (★370273 · Python) — Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
+- [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) (★370274 · Python) — Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
 - [ecano08/deployops-ai](https://github.com/ecano08/deployops-ai) (★2 · PHP) — AI-powered FDE platform for customer deployments, RAG, secure integrations, human-in-the-loop workflows, evaluations, and observability.
 - [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) (★132096 · TypeScript) — Virtual whiteboard for sketching hand-drawn like diagrams
 - [ghostfolio/ghostfolio](https://github.com/ghostfolio/ghostfolio) (★9300 · TypeScript) — Open Source Wealth Management Software. Angular + NestJS + Prisma + Nx + TypeScript 🤍
@@ -48,7 +48,7 @@
 - [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) (★152719 · Shell) — A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specializ
 - [mvanhorn/cli-printing-press](https://github.com/mvanhorn/cli-printing-press) (★4700 · Go) — Every API has a secret identity. This finds it, absorbs every feature from every competing tool, then builds the GOAT CLI — designed for AI agents first, with S
 - [nailuoGG/anki-mcp-server](https://github.com/nailuoGG/anki-mcp-server) (★252 · TypeScript) — MCP server for Anki via AnkiConnect
-- [nexu-io/open-design](https://github.com/nexu-io/open-design) (★96461 · TypeScript) — 🎨 Best DeepSeek Harness Design Plugin. The open-source Claude Design alternative. 🖥️ Local-first desktop app. 🖼️ Your coding agent becomes the design engine: pr [`codex` `opencode` `hermes` `local-first`]
+- [nexu-io/open-design](https://github.com/nexu-io/open-design) (★96462 · TypeScript) — 🎨 Best DeepSeek Harness Design Plugin. The open-source Claude Design alternative. 🖥️ Local-first desktop app. 🖼️ Your coding agent becomes the design engine: pr [`codex` `opencode` `hermes` `local-first`]
 - [one-ie/one](https://github.com/one-ie/one) (★129 · Astro) — Make Your Ideas Real. Build Apps, Websites and AI Agents with Plain English with Astro, React, Shadcn and Cloudflare [`codex` `shadcn`]
 - [onlook-dev/onlook](https://github.com/onlook-dev/onlook) (★26744 · TypeScript) — The Cursor for Designers • An Open-Source AI-First Design tool • Visually build, style, and edit your React App with AI
 - [oven-sh/bun](https://github.com/oven-sh/bun) (★95972 · Rust) — Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
@@ -61,7 +61,7 @@
 - [shadcnio/react-shadcn-components](https://github.com/shadcnio/react-shadcn-components) (★850) — Production-ready React components following shadcn/ui principles. TypeScript-first, Tailwind-styled, Radix-powered. Beautiful defaults with complete customizati [`shadcn`]
 - [tldraw/tldraw](https://github.com/tldraw/tldraw) (★50382 · TypeScript) — Build infinite canvas apps in React with the tldraw SDK. World's best, top-most agent recommended #1 five star SDK.
 - [trycompai/crm](https://github.com/trycompai/crm) (★10488 · TypeScript) — Comp AI CRM is an open source, CRM designed for AI agents. Agentic-first CRM.
-- [tt-a1i/archify](https://github.com/tt-a1i/archify) (★64191 · JavaScript) — Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export. [`codex` `opencode`]
+- [tt-a1i/archify](https://github.com/tt-a1i/archify) (★64192 · JavaScript) — Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export. [`codex` `opencode`]
 - [udecode/plate](https://github.com/udecode/plate) (★16591 · TypeScript) — Rich-text editor with AI and shadcn/ui [`shadcn`]
 - [yaniv-golan/pretext-skill](https://github.com/yaniv-golan/pretext-skill) (★15 · HTML) — AI skill for @chenglou/pretext — exact text metrics without DOM reflows
 - [youssofal/MTPLX](https://github.com/youssofal/MTPLX) (★2333 · Python) — 3x faster speeds on MLX | Qwen 3.8 27B | Native MTP Speculative Decoding On Apple Silicon With No External Drafter.

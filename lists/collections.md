@@ -14,7 +14,7 @@
 - [birobirobiro/awesome-shadcn-ui](https://github.com/birobirobiro/awesome-shadcn-ui) (★20508 · TypeScript) — A curated list of awesome things related to shadcn/ui. [`shadcn`]
 - [enescingoz/awesome-n8n-templates](https://github.com/enescingoz/awesome-n8n-templates) (★25392) — 280+ free n8n automation templates — ready-to-use workflows for Gmail, Telegram, Slack, Discord, WhatsApp, Google Drive, Notion, OpenAI, and more. AI agents, RA
 - [f/prompts.chat](https://github.com/f/prompts.chat) (★170451 · HTML) — f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete pr
-- [github/awesome-copilot](https://github.com/github/awesome-copilot) (★39060 · JavaScript) — Community-contributed instructions, agents, skills, and configurations to help you make the most of GitHub Copilot.
+- [github/awesome-copilot](https://github.com/github/awesome-copilot) (★39061 · JavaScript) — Community-contributed instructions, agents, skills, and configurations to help you make the most of GitHub Copilot.
 - [gsxdsm/awesome-paperclip](https://github.com/gsxdsm/awesome-paperclip) (★876) — Collection of the best Paperclip plugins
 - [hesreallyhim/awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code) (★54143 · Python) — A hand-picked collection of the finest of resources for the most awesome of agents, Claude Code, the undisputed champion of coding companions, from the unstoppa
 - [homeassistant-ai/ha-mcp](https://github.com/homeassistant-ai/ha-mcp) (★4741 · Python) — The Unofficial and Awesome Home Assistant MCP Server

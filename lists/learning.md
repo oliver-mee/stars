@@ -11,7 +11,7 @@
 - [anthropics/prompt-eng-interactive-tutorial](https://github.com/anthropics/prompt-eng-interactive-tutorial) (★38194 · Jupyter Notebook) — Anthropic's Interactive Prompt Engineering Tutorial
 - [binhnguyennus/awesome-scalability](https://github.com/binhnguyennus/awesome-scalability) (★73984) — The Patterns of Scalable, Reliable, and Performant Large-Scale Systems
 - [davidahmann/applied-ai-field-guide](https://github.com/davidahmann/applied-ai-field-guide) (★108 · JavaScript) — The Applied AI Field Guide: fieldwork, value, engineering, and operations for AI that works beyond the demo.
-- [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) (★370273 · Python) — Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
+- [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) (★370274 · Python) — Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
 - [f/prompts.chat](https://github.com/f/prompts.chat) (★170451 · HTML) — f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete pr
 - [jmckinley/claude-code-resources](https://github.com/jmckinley/claude-code-resources) (★176 · Shell) — Complete guide and automation for Claude Code
 - [jorgenclaw/ai-privacy-hardening-guide](https://github.com/jorgenclaw/ai-privacy-hardening-guide) (★6) — Comprehensive guide to AI-assisted privacy hardening - OSINT audits, data broker removal, de-Googling, and ongoing maintenance
@@ -20,7 +20,7 @@
 - [pierpaolo28/Awesome-FDE-Roadmap](https://github.com/pierpaolo28/Awesome-FDE-Roadmap) (★1140) — 🚀 The definitive roadmap to becoming a Forward Deployment Engineer (FDE). Master AI Agents, Enterprise Data Architecture, and Strategic Consulting. Bridging the
 - [plastic-labs/honcho](https://github.com/plastic-labs/honcho) (★7194 · Python) — Memory library for building stateful agents [`context-engineering`]
 - [ruvnet/ruflo](https://github.com/ruvnet/ruflo) (★72584 · TypeScript) — 🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive me [`codex` `hermes`]
-- [tailcallhq/forgecode](https://github.com/tailcallhq/forgecode) (★7632 · Rust) — AI enabled pair programmer for Claude, GPT, O Series, Grok, Deepseek, Gemini and 300+ models
+- [tailcallhq/forgecode](https://github.com/tailcallhq/forgecode) (★7633 · Rust) — AI enabled pair programmer for Claude, GPT, O Series, Grok, Deepseek, Gemini and 300+ models
 - [typst/typst](https://github.com/typst/typst) (★56047 · Rust) — A markup-based typesetting system that is powerful and easy to learn.
 - [vectorize-io/hindsight](https://github.com/vectorize-io/hindsight) (★23771 · Python) — Hindsight: Agent Memory That Learns
 

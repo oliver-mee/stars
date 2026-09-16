@@ -434,7 +434,7 @@
   "narrow": [
    "codex"
   ],
-  "pushed": "2026-09-16T09:29:06Z",
+  "pushed": "2026-09-16T09:41:26Z",
   "stars": 66,
   "why": "Plugins for Anthropic's Claude Code, Codex, Cursor and more"
  },
@@ -467,7 +467,7 @@
   ],
   "narrow": [],
   "pushed": "2026-09-15T21:33:15Z",
-  "stars": 34435,
+  "stars": 34436,
   "why": "Run frontier MoE models on hardware you already own \u2014 pure C, zero deps, experts streamed from disk. Tiny engine, immense model. \ud83d\udc26"
  },
  "Lakr233/vphone-cli": {
@@ -580,7 +580,7 @@
    "codex",
    "hermes"
   ],
-  "pushed": "2026-09-16T09:36:21Z",
+  "pushed": "2026-09-16T09:41:31Z",
   "stars": 246008,
   "why": "The agent that grows with you"
  },
@@ -1046,7 +1046,7 @@
    "opencode"
   ],
   "pushed": "2026-09-15T19:33:00Z",
-  "stars": 259626,
+  "stars": 259628,
   "why": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor "
  },
  "agentic-community/mcp-gateway-registry": {
@@ -1107,7 +1107,7 @@
   ],
   "narrow": [],
   "pushed": "2026-09-16T02:16:20Z",
-  "stars": 6965,
+  "stars": 6966,
   "why": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors"
  },
  "alchaincyf/nuwa-skill": {
@@ -1290,7 +1290,7 @@
   ],
   "narrow": [],
   "pushed": "2026-09-15T20:56:47Z",
-  "stars": 46557,
+  "stars": 46558,
   "why": "A skill to stop your coding agent from burying the answer. ADHD-friendly output."
  },
  "basicmachines-co/basic-memory": {
@@ -1454,7 +1454,7 @@
    "codex"
   ],
   "pushed": "2026-09-06T20:26:10Z",
-  "stars": 48886,
+  "stars": 48887,
   "why": "Agent skill that removes signs of AI-generated writing from text"
  },
  "block/buzz": {
@@ -1463,8 +1463,8 @@
    "harness"
   ],
   "narrow": [],
-  "pushed": "2026-09-16T09:01:56Z",
-  "stars": 33125,
+  "pushed": "2026-09-16T09:41:20Z",
+  "stars": 33126,
   "why": "A hive mind communication platform"
  },
  "bmad-code-org/BMAD-METHOD": {
@@ -1592,7 +1592,7 @@
   ],
   "narrow": [],
   "pushed": "2026-09-06T05:02:34Z",
-  "stars": 59435,
+  "stars": 59436,
   "why": "World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI c"
  },
  "caliber-ai-org/ai-setup": {
@@ -1922,7 +1922,7 @@
    "local-first"
   ],
   "pushed": "2026-09-16T07:45:36Z",
-  "stars": 31590,
+  "stars": 31591,
   "why": "VoiceStudio is the open-source, fully-local ElevenLabs alternative \u2014 voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation i"
  },
  "decolua/9router": {
@@ -1991,7 +1991,7 @@
    "opencode"
   ],
   "pushed": "2026-09-16T09:18:38Z",
-  "stars": 66770,
+  "stars": 66771,
   "why": "Never stop coding. Free MIT AI gateway: one endpoint, 352 providers (150+ free), 1200+ models Kimi, Claude, GPT, Gemini, GLM, DeepSeek, MiniMax. Works with Clau"
  },
  "digitalsamba/claude-code-video-toolkit": {
@@ -2050,7 +2050,7 @@
   ],
   "narrow": [],
   "pushed": "2026-09-15T01:10:09Z",
-  "stars": 370273,
+  "stars": 370274,
   "why": "Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards."
  },
  "e1n00r/tinyserve": {
@@ -2369,7 +2369,7 @@
   ],
   "narrow": [],
   "pushed": "2026-09-16T04:47:11Z",
-  "stars": 39060,
+  "stars": 39061,
   "why": "Community-contributed instructions, agents, skills, and configurations to help you make the most of GitHub Copilot."
  },
  "glifocat/nanoclaw-docs": {
@@ -2828,7 +2828,7 @@
   ],
   "narrow": [],
   "pushed": "2025-09-20T20:28:17Z",
-  "stars": 29645,
+  "stars": 29646,
   "why": "Powerful menu bar manager for macOS"
  },
  "jordanrendric/claude-video-vision": {
@@ -3130,7 +3130,7 @@
   ],
   "narrow": [],
   "pushed": "2026-08-30T15:40:47Z",
-  "stars": 24060,
+  "stars": 24061,
   "why": "WhisperX:  Automatic Speech Recognition with Word-level Timestamps (& Diarization)"
  },
  "macro-inc/macro": {
@@ -3237,7 +3237,7 @@
   ],
   "narrow": [],
   "pushed": "2026-09-15T14:29:06Z",
-  "stars": 263185,
+  "stars": 263186,
   "why": "Skills for Real Engineers. Straight from my .agents directory."
  },
  "maubot/maubot": {
@@ -3318,7 +3318,7 @@
   ],
   "narrow": [],
   "pushed": "2026-09-16T00:16:34Z",
-  "stars": 184604,
+  "stars": 184607,
   "why": "Python tool for converting files and office documents to Markdown."
  },
  "microsoft/skills-for-copilot-studio": {
@@ -3360,7 +3360,7 @@
    "opencode"
   ],
   "pushed": "2026-09-15T18:04:54Z",
-  "stars": 23149,
+  "stars": 23150,
   "why": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and   enforces routing across 17 platforms via"
  },
  "mobile-shell/mosh": {
@@ -3445,7 +3445,7 @@
   ],
   "narrow": [],
   "pushed": "2026-04-20T10:05:04Z",
-  "stars": 213301,
+  "stars": 213303,
   "why": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls."
  },
  "mvanhorn/agentcookie": {
@@ -3581,7 +3581,7 @@
   "narrow": [
    "hermes"
   ],
-  "pushed": "2026-09-16T09:39:59Z",
+  "pushed": "2026-09-16T09:40:40Z",
   "stars": 18381,
   "why": "Hermes WebUI: The best way to use Hermes Agent from the web or from your phone!"
  },
@@ -3602,7 +3602,7 @@
    "local-first"
   ],
   "pushed": "2026-09-16T09:35:09Z",
-  "stars": 96461,
+  "stars": 96462,
   "why": "\ud83c\udfa8 Best DeepSeek Harness Design Plugin. The open-source Claude Design alternative. \ud83d\udda5\ufe0f Local-first desktop app. \ud83d\uddbc\ufe0f Your coding agent becomes the design engine: pr"
  },
  "nickallevato/paperclip-plica": {
@@ -4221,7 +4221,7 @@
   "narrow": [
    "context-engineering"
   ],
-  "pushed": "2026-09-16T09:39:56Z",
+  "pushed": "2026-09-16T09:42:04Z",
   "stars": 12961,
   "why": "Graph-Native Infrastructure for Context and Accountable AI Systems"
  },
@@ -4300,8 +4300,6 @@
   "language": "TypeScript",
   "lists": [
    "harness",
-   "devtools",
-   "voice",
    "mobile-desktop"
   ],
   "narrow": [
@@ -4309,7 +4307,7 @@
    "opencode"
   ],
   "pushed": "2026-09-16T09:36:39Z",
-  "stars": 69834,
+  "stars": 69836,
   "why": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime."
  },
  "steipete/summarize": {
@@ -4354,7 +4352,7 @@
    "selfhost"
   ],
   "narrow": [],
-  "pushed": "2026-09-16T09:27:02Z",
+  "pushed": "2026-09-16T09:41:49Z",
   "stars": 109359,
   "why": "The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications."
  },
@@ -4380,7 +4378,7 @@
   ],
   "narrow": [],
   "pushed": "2026-09-16T05:02:56Z",
-  "stars": 7632,
+  "stars": 7633,
   "why": "AI enabled pair programmer for Claude, GPT, O Series, Grok, Deepseek, Gemini and 300+ models"
  },
  "tailscale/tailscale": {
@@ -4515,7 +4513,7 @@
    "design"
   ],
   "narrow": [],
-  "pushed": "2026-09-16T09:32:54Z",
+  "pushed": "2026-09-16T09:41:33Z",
   "stars": 50382,
   "why": "Build infinite canvas apps in React with the tldraw SDK. World's best, top-most agent recommended #1 five star SDK."
  },
@@ -4642,7 +4640,7 @@
    "opencode"
   ],
   "pushed": "2026-09-16T08:21:06Z",
-  "stars": 64191,
+  "stars": 64192,
   "why": "Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams\u2014self-contained HTML with motion and crisp export."
  },
  "twpayne/chezmoi": {
@@ -4827,7 +4825,7 @@
    "memory"
   ],
   "narrow": [],
-  "pushed": "2026-09-16T09:33:55Z",
+  "pushed": "2026-09-16T09:42:05Z",
   "stars": 37655,
   "why": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills."
  },
@@ -4840,7 +4838,7 @@
   ],
   "narrow": [],
   "pushed": "2026-09-16T02:46:13Z",
-  "stars": 19344,
+  "stars": 19345,
   "why": "Free and open-source macOS menu bar toolkit."
  },
  "warpdotdev/warp": {
@@ -4961,7 +4959,7 @@
    "harness"
   ],
   "narrow": [],
-  "pushed": "2026-09-16T09:35:38Z",
+  "pushed": "2026-09-16T09:42:05Z",
   "stars": 15081,
   "why": "Multiplayer agent harness for work."
  },
@@ -4999,7 +4997,7 @@
   "narrow": [
    "context-engineering"
   ],
-  "pushed": "2026-09-16T09:07:00Z",
+  "pushed": "2026-09-16T09:42:06Z",
   "stars": 3792,
   "why": "LeanCTX \u2014 Context Intelligence for AI systems."
  },

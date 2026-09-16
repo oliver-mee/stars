@@ -20,9 +20,9 @@
 - [benjaminezequiel/keep-the-rhythm](https://github.com/benjaminezequiel/keep-the-rhythm) (★111 · TypeScript) — An Obsidian plugin to visualize how much you write with a heatmap. [`obsidian`]
 - [bgarciamoura/obsidian-notion-bases-plugin](https://github.com/bgarciamoura/obsidian-notion-bases-plugin) (★141 · TypeScript) — Turn any folder into a Notion-style database — 7 views, 17 column types, formulas, relations, rollups, and subtasks. All stored in plain Markdown frontmatter. [`obsidian`]
 - [blacksmithgu/obsidian-dataview](https://github.com/blacksmithgu/obsidian-dataview) (★9341 · TypeScript) — A data index and query language over Markdown files, for https://obsidian.md/. [`obsidian`]
-- [blader/humanizer](https://github.com/blader/humanizer) (★48886 · Python) — Agent skill that removes signs of AI-generated writing from text [`codex`]
+- [blader/humanizer](https://github.com/blader/humanizer) (★48887 · Python) — Agent skill that removes signs of AI-generated writing from text [`codex`]
 - [codexu/note-gen](https://github.com/codexu/note-gen) (★12809 · TypeScript) — Capture first. Organize later. A local-first Markdown app that turns scattered records into clear notes with AI. [`codex` `local-first`]
-- [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio) (★31590 · Python) — VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation i [`local-first`]
+- [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio) (★31591 · Python) — VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation i [`local-first`]
 - [dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io) (★34297 · Python) — Best and simplest tool for website change detection, web page monitoring, and website change alerts. Perfect for tracking content changes, price drops, restock 
 - [enescingoz/awesome-n8n-templates](https://github.com/enescingoz/awesome-n8n-templates) (★25392) — 280+ free n8n automation templates — ready-to-use workflows for Gmail, Telegram, Slack, Discord, WhatsApp, Google Drive, Notion, OpenAI, and more. AI agents, RA
 - [eugeniughelbur/obsidian-second-brain](https://github.com/eugeniughelbur/obsidian-second-brain) (★4470 · Python) — Persistent memory for Claude Code and 6 other CLI agents, stored as plain markdown in your Obsidian vault. Stop re-explaining your projects, decisions and peopl [`obsidian`]
@@ -43,7 +43,7 @@
 - [makenotion/notion-mcp-server](https://github.com/makenotion/notion-mcp-server) (★4634 · TypeScript) — Official Notion MCP Server
 - [makenotion/workers-template](https://github.com/makenotion/workers-template) (★442 · TypeScript) — Template for new Workers
 - [marcus-crane/october](https://github.com/marcus-crane/october) (★241 · Go) — A simple GUI for retrieving Kobo highlights and syncing them with Readwise
-- [microsoft/markitdown](https://github.com/microsoft/markitdown) (★184604 · Python) — Python tool for converting files and office documents to Markdown.
+- [microsoft/markitdown](https://github.com/microsoft/markitdown) (★184607 · Python) — Python tool for converting files and office documents to Markdown.
 - [openclaw/notcrawl](https://github.com/openclaw/notcrawl) (★132 · Go) — Local-first Notion crawler into SQLite and normalized Markdown [`openclaw` `local-first`]
 - [petergyang/no-ai-slop](https://github.com/petergyang/no-ai-slop) (★9981 · Python) — Removes 20+ patterns of AI slop from any piece of writing.
 - [renezander030/agentic-task-system](https://github.com/renezander030/agentic-task-system) (★12 · JavaScript) — CLI + MCP for agent context: a task layer over TickTick, Notion, GitHub, Obsidian & more (RRF retrieval, provenance, reviewed writes, undo) plus a knowledge-gra [`obsidian` `context-engineering`]
@@ -52,7 +52,7 @@
 - [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE) (★72659 · TypeScript) — There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privac
 - [toeverything/blocksuite](https://github.com/toeverything/blocksuite) (★6014 · TypeScript) — 🧩 Content editing tech stack for the web - BlockSuite is a toolkit for building editors and collaborative applications. [`local-first`]
 - [vercel-labs/lat.md](https://github.com/vercel-labs/lat.md) (★1939 · TypeScript) — Agent Lattice: a knowledge graph for your codebase, written in markdown.
-- [vorssaint/vorssaint-utils](https://github.com/vorssaint/vorssaint-utils) (★19344 · Swift) — Free and open-source macOS menu bar toolkit.
+- [vorssaint/vorssaint-utils](https://github.com/vorssaint/vorssaint-utils) (★19345 · Swift) — Free and open-source macOS menu bar toolkit.
 - [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) (★143654) — FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qode
 - [xdash/FDE-the-Guidance-Book-of-Forward-Deployed-Engineer](https://github.com/xdash/FDE-the-Guidance-Book-of-Forward-Deployed-Engineer) (★4716) — FDE（前沿部署工程师）从零入门指南（基于范冰《增长黑客》原书框架）
 - [xrsl/nabcv](https://github.com/xrsl/nabcv) (★5 · Typst) — A TOML-driven Typst CV template for a not-a-boring-cv

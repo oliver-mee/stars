@@ -160,7 +160,7 @@
     "language": "TypeScript",
     "node_id": "MDEwOlJlcG9zaXRvcnkyMTQ1ODcxOTM=",
     "private": false,
-    "pushed": "2026-09-16T09:27:02Z",
+    "pushed": "2026-09-16T09:41:49Z",
     "stars": 109359,
     "topics": [
       "ai",
@@ -292,7 +292,7 @@
     "node_id": "R_kgDOO6BQUQ",
     "private": false,
     "pushed": "2026-09-16T04:47:11Z",
-    "stars": 39060,
+    "stars": 39061,
     "topics": [
       "agent-skills",
       "agents",
@@ -1440,7 +1440,7 @@
     "node_id": "R_kgDORWiFDA",
     "private": false,
     "pushed": "2026-09-15T18:04:54Z",
-    "stars": 23149,
+    "stars": 23150,
     "topics": [
       "antigravity",
       "claude",
@@ -1471,7 +1471,7 @@
     "node_id": "R_kgDOSDCHbQ",
     "private": false,
     "pushed": "2026-09-16T08:21:06Z",
-    "stars": 64191,
+    "stars": 64192,
     "topics": [
       "agent-skills",
       "architecture-as-code",
@@ -1525,7 +1525,7 @@
     "language": "Python",
     "node_id": "R_kgDOQz3Myg",
     "private": false,
-    "pushed": "2026-09-16T09:33:55Z",
+    "pushed": "2026-09-16T09:42:05Z",
     "stars": 37655,
     "topics": [
       "agent-memory",
@@ -1542,7 +1542,7 @@
     "language": "Python",
     "node_id": "R_kgDOPBmB5g",
     "private": false,
-    "pushed": "2026-09-16T09:39:56Z",
+    "pushed": "2026-09-16T09:42:04Z",
     "stars": 12961,
     "topics": [
       "agent-memory",
@@ -1574,7 +1574,7 @@
     "node_id": "R_kgDOR-gPKw",
     "private": false,
     "pushed": "2026-09-16T07:45:36Z",
-    "stars": 31590,
+    "stars": 31591,
     "topics": [
       "ai",
       "audiobook",
@@ -1605,7 +1605,7 @@
     "node_id": "R_kgDOSka2Jw",
     "private": false,
     "pushed": "2026-09-16T02:16:20Z",
-    "stars": 6965,
+    "stars": 6966,
     "topics": []
   },
   {
@@ -1642,7 +1642,7 @@
     "node_id": "R_kgDOScw2eQ",
     "private": false,
     "pushed": "2026-09-15T20:56:47Z",
-    "stars": 46557,
+    "stars": 46558,
     "topics": [
       "adhd",
       "claude-",
@@ -2170,7 +2170,7 @@
     "language": "Rust",
     "node_id": "R_kgDORuy30Q",
     "private": false,
-    "pushed": "2026-09-16T09:07:00Z",
+    "pushed": "2026-09-16T09:42:06Z",
     "stars": 3792,
     "topics": [
       "agentic-coding",
@@ -2321,7 +2321,7 @@
     "language": "TypeScript",
     "node_id": "MDEwOlJlcG9zaXRvcnkzNjU3Mzk4MTI=",
     "private": false,
-    "pushed": "2026-09-16T09:32:54Z",
+    "pushed": "2026-09-16T09:41:33Z",
     "stars": 50382,
     "topics": [
       "canvas",
@@ -2419,7 +2419,7 @@
     "language": "Python",
     "node_id": "R_kgDOQGimCg",
     "private": false,
-    "pushed": "2026-09-16T09:29:06Z",
+    "pushed": "2026-09-16T09:41:26Z",
     "stars": 66,
     "topics": []
   },
@@ -2597,7 +2597,7 @@
     "node_id": "R_kgDOS4xLOw",
     "private": false,
     "pushed": "2026-09-16T02:46:13Z",
-    "stars": 19344,
+    "stars": 19345,
     "topics": [
       "alt-tab",
       "app-uninstaller",
@@ -2860,7 +2860,7 @@
     "node_id": "R_kgDOSOgY8g",
     "private": false,
     "pushed": "2026-09-16T09:35:09Z",
-    "stars": 96461,
+    "stars": 96462,
     "topics": [
       "agent-skills",
       "ai-design",
@@ -2968,7 +2968,7 @@
     "node_id": "R_kgDONO810w",
     "private": false,
     "pushed": "2026-09-16T00:16:34Z",
-    "stars": 184604,
+    "stars": 184607,
     "topics": [
       "autogen",
       "autogen-extension",
@@ -2995,7 +2995,7 @@
     "language": "TypeScript",
     "node_id": "R_kgDOTnic1g",
     "private": false,
-    "pushed": "2026-09-16T09:35:38Z",
+    "pushed": "2026-09-16T09:42:05Z",
     "stars": 15081,
     "topics": [
       "ai",
@@ -3114,7 +3114,7 @@
     "node_id": "R_kgDORpCz1g",
     "private": false,
     "pushed": "2026-09-16T09:36:39Z",
-    "stars": 69834,
+    "stars": 69836,
     "topics": [
       "ade",
       "agent-ide",
@@ -3275,8 +3275,8 @@
     "language": "Rust",
     "node_id": "R_kgDORgXb2g",
     "private": false,
-    "pushed": "2026-09-16T09:01:56Z",
-    "stars": 33125,
+    "pushed": "2026-09-16T09:41:20Z",
+    "stars": 33126,
     "topics": []
   },
   {
@@ -3286,7 +3286,7 @@
     "node_id": "R_kgDORPf6yg",
     "private": false,
     "pushed": "2026-09-16T09:18:38Z",
-    "stars": 66770,
+    "stars": 66771,
     "topics": [
       "a2a",
       "ai-agents",
@@ -3755,7 +3755,7 @@
     "node_id": "R_kgDOTKgHjQ",
     "private": false,
     "pushed": "2026-09-15T21:33:15Z",
-    "stars": 34435,
+    "stars": 34436,
     "topics": []
   },
   {
@@ -3895,7 +3895,7 @@
     "node_id": "R_kgDORz_BDQ",
     "private": false,
     "pushed": "2026-09-06T05:02:34Z",
-    "stars": 59435,
+    "stars": 59436,
     "topics": [
       "agent",
       "agentic-ai",
@@ -4917,7 +4917,7 @@
     "node_id": "R_kgDOKDkfRg",
     "private": false,
     "pushed": "2025-09-20T20:28:17Z",
-    "stars": 29645,
+    "stars": 29646,
     "topics": [
       "macos",
       "macos-app",
@@ -5158,7 +5158,7 @@
     "node_id": "R_kgDORCCMkQ",
     "private": false,
     "pushed": "2026-04-20T10:05:04Z",
-    "stars": 213301,
+    "stars": 213303,
     "topics": []
   },
   {
@@ -5254,7 +5254,7 @@
     "node_id": "R_kgDOQ77-1A",
     "private": false,
     "pushed": "2026-09-15T19:33:00Z",
-    "stars": 259626,
+    "stars": 259628,
     "topics": [
       "ai-agents",
       "anthropic",
@@ -5385,7 +5385,7 @@
     "language": "Python",
     "node_id": "R_kgDOR1LuPA",
     "private": false,
-    "pushed": "2026-09-16T09:39:59Z",
+    "pushed": "2026-09-16T09:40:40Z",
     "stars": 18381,
     "topics": [
       "agent",
@@ -5707,7 +5707,7 @@
     "node_id": "R_kgDOQ8AnQQ",
     "private": false,
     "pushed": "2026-09-06T20:26:10Z",
-    "stars": 48886,
+    "stars": 48887,
     "topics": [
       "agent-skills",
       "ai-writing",
@@ -5796,7 +5796,7 @@
     "node_id": "R_kgDORHkddg",
     "private": false,
     "pushed": "2026-09-15T14:29:06Z",
-    "stars": 263185,
+    "stars": 263186,
     "topics": []
   },
   {
@@ -5941,7 +5941,7 @@
     "language": "Python",
     "node_id": "R_kgDOPRF1Gw",
     "private": false,
-    "pushed": "2026-09-16T09:36:21Z",
+    "pushed": "2026-09-16T09:41:31Z",
     "stars": 246008,
     "topics": [
       "ai",
@@ -6293,7 +6293,7 @@
     "node_id": "R_kgDONavzBg",
     "private": false,
     "pushed": "2026-09-16T05:02:56Z",
-    "stars": 7632,
+    "stars": 7633,
     "topics": [
       "ai-pair-programming",
       "ai-workflows",
@@ -6436,7 +6436,7 @@
     "node_id": "R_kgDOIlaj4w",
     "private": false,
     "pushed": "2026-08-30T15:40:47Z",
-    "stars": 24060,
+    "stars": 24061,
     "topics": [
       "asr",
       "speech",
@@ -7489,7 +7489,7 @@
     "node_id": "MDEwOlJlcG9zaXRvcnk4MzIyMjQ0MQ==",
     "private": false,
     "pushed": "2026-09-15T01:10:09Z",
-    "stars": 370273,
+    "stars": 370274,
     "topics": [
       "design",
       "design-patterns",
