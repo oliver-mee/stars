@@ -1,62 +1,65 @@
 # Mobile & Desktop
 
-56 starred repos. File a PR to fix a miscategorisation.
+59 starred repos. File a PR to fix a miscategorisation.
 
 - [AndorinaAI/Andorina-WhatsApp-Agent-for-Hermes](https://github.com/AndorinaAI/Andorina-WhatsApp-Agent-for-Hermes) (★65 · Python) — Turn Hermes into an autonomous WhatsApp manager. Take full control of your messaging. Forget typing: schedule messages, send voice notes, share PC files, and se [`hermes`]
-- [DrewThomasson/ebook2audiobook](https://github.com/DrewThomasson/ebook2audiobook) (★20189 · Python) — Generate audiobooks from e-books, voice cloning & 1158+ languages!
-- [Lakr233/vphone-cli](https://github.com/Lakr233/vphone-cli) (★13081 · Swift) — No upstream description.
+- [DrewThomasson/ebook2audiobook](https://github.com/DrewThomasson/ebook2audiobook) (★20190 · Python) — Generate audiobooks from e-books, voice cloning & 1158+ languages!
+- [Lakr233/vphone-cli](https://github.com/Lakr233/vphone-cli) (★13094 · Swift) — No upstream description.
 - [Li-Evan/Bloom](https://github.com/Li-Evan/Bloom) (★262 · Python) — Hire a private AI tutor for anything — it reads how you actually learn and teaches the next lesson just for you. Bloom's 2-Sigma research as a Claude Code skill
 - [Manavarya09/design-extract](https://github.com/Manavarya09/design-extract) (★4102 · HTML) — Extract any website's complete design system with one command. DTCG tokens, semantic+primitive+composite, MCP server for Claude Code/Cursor/Windsurf, multi-plat [`shadcn`]
 - [Rich627/whatsapp-claude-plugin](https://github.com/Rich627/whatsapp-claude-plugin) (★90 · TypeScript) — Claude Code WhatsApp channel plugin — run AI directly from WhatsApp, voice transcription, remote tool approval, access control. No API keys, no Docker, just a l
 - [Shelpuk-AI-Technology-Consulting/kindly-web-search-mcp-server](https://github.com/Shelpuk-AI-Technology-Consulting/kindly-web-search-mcp-server) (★387 · Python) — Kindly Web Search MCP Server: Web search + robust content retrieval for AI coding tools (Claude Code, Codex, Cursor, GitHub Copilot, Gemini, etc.) and AI agents [`openclaw` `codex` `hermes`]
-- [Z4nzu/hackingtool](https://github.com/Z4nzu/hackingtool) (★79556 · Python) — ALL IN ONE Hacking Tool For Hackers
+- [Z4nzu/hackingtool](https://github.com/Z4nzu/hackingtool) (★79557 · Python) — ALL IN ONE Hacking Tool For Hackers
 - [a-bonus/google-docs-mcp](https://github.com/a-bonus/google-docs-mcp) (★661 · TypeScript) — The Ultimate Google Docs, Sheets, Drive, Gmail, & Google Calendar MCP Server. This MCP (primarily for use in Claude Desktop) gains full access to your google su
 - [addisonjames/timing-notion-sync](https://github.com/addisonjames/timing-notion-sync) (★2 · Python) — macOS tool to sync Timing.app data to Notion every 15 minutes
-- [apple/container](https://github.com/apple/container) (★49972 · Swift) — A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.
+- [apple/container](https://github.com/apple/container) (★49974 · Swift) — A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.
 - [beeper/beepy](https://github.com/beeper/beepy) (★647 · Shell) — Beepy
-- [cjpais/Handy](https://github.com/cjpais/Handy) (★31733 · Rust) — A free, open source, and extensible speech-to-text application that works completely offline.
+- [bitwarden/clients](https://github.com/bitwarden/clients) (★13791 · TypeScript) — Bitwarden client apps (web, browser extension, desktop, and cli).
+- [cjpais/Handy](https://github.com/cjpais/Handy) (★31738 · Rust) — A free, open source, and extensible speech-to-text application that works completely offline.
 - [codexu/note-gen](https://github.com/codexu/note-gen) (★12809 · TypeScript) — Capture first. Organize later. A local-first Markdown app that turns scattered records into clear notes with AI. [`codex` `local-first`]
-- [crynta/terax-ai](https://github.com/crynta/terax-ai) (★9202 · TypeScript) — Lightweight (7MB) Terminal-first AI-native dev workspace
-- [czlonkowski/n8n-mcp](https://github.com/czlonkowski/n8n-mcp) (★22894 · TypeScript) — A MCP for Claude Desktop / Claude Code / Windsurf / Cursor to build n8n workflows for you
+- [crynta/terax-ai](https://github.com/crynta/terax-ai) (★9205 · TypeScript) — Lightweight (7MB) Terminal-first AI-native dev workspace
+- [czlonkowski/n8n-mcp](https://github.com/czlonkowski/n8n-mcp) (★22895 · TypeScript) — A MCP for Claude Desktop / Claude Code / Windsurf / Cursor to build n8n workflows for you
 - [czottmann/obsidian-actions-uri](https://github.com/czottmann/obsidian-actions-uri) (★203 · TypeScript) — A plugin for Obsidian (https://obsidian.md) that adds additional `x-callback-url` endpoints to the app for common actions — it's a clean, super-charged addition [`obsidian`]
-- [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio) (★31444 · Python) — VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation i [`local-first`]
-- [deer-flow/llm-space](https://github.com/deer-flow/llm-space) (★1894 · TypeScript) — A desktop app to prototype agent ideas, inspect every harness step, replay failures, and evaluate performance, all in one place. Local-first, cloud-ready for ma [`local-first`]
-- [diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute) (★66736 · TypeScript) — Never stop coding. Free MIT AI gateway: one endpoint, 352 providers (150+ free), 1200+ models Kimi, Claude, GPT, Gemini, GLM, DeepSeek, MiniMax. Works with Clau [`codex` `opencode`]
+- [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio) (★31590 · Python) — VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation i [`local-first`]
+- [deer-flow/llm-space](https://github.com/deer-flow/llm-space) (★1896 · TypeScript) — A desktop app to prototype agent ideas, inspect every harness step, replay failures, and evaluate performance, all in one place. Local-first, cloud-ready for ma [`local-first`]
+- [diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute) (★66770 · TypeScript) — Never stop coding. Free MIT AI gateway: one endpoint, 352 providers (150+ free), 1200+ models Kimi, Claude, GPT, Gemini, GLM, DeepSeek, MiniMax. Works with Clau [`codex` `opencode`]
 - [dlundqvist/xone](https://github.com/dlundqvist/xone) (★971 · C) — Linux kernel driver for Xbox One and Xbox Series X|S accessories
-- [farion1231/cc-switch](https://github.com/farion1231/cc-switch) (★133113 · Rust) — A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode, OpenClaw, Grok Build & Hermes Agent. Only official website: ccswitch.io [`openclaw` `codex` `opencode` `hermes`]
-- [firefly-iii/firefly-iii](https://github.com/firefly-iii/firefly-iii) (★24638 · PHP) — Firefly III: a personal finances manager
+- [farion1231/cc-switch](https://github.com/farion1231/cc-switch) (★133133 · Rust) — A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode, OpenClaw, Grok Build & Hermes Agent. Only official website: ccswitch.io [`openclaw` `codex` `opencode` `hermes`]
+- [firefly-iii/firefly-iii](https://github.com/firefly-iii/firefly-iii) (★24639 · PHP) — Firefly III: a personal finances manager
 - [glifocat/nanoclaw-glifocat](https://github.com/glifocat/nanoclaw-glifocat) (★2 · TypeScript) — NanoClaw fork — customizations, upstream contributions and experimentation
 - [gxjansen/claude-code-meter](https://github.com/gxjansen/claude-code-meter) (★92 · JavaScript) — macOS desktop widget showing Claude Code usage limits (5-hour and 7-day windows) in real time. Built for Ubersicht.
 - [hex/claude-sessions](https://github.com/hex/claude-sessions) (★41 · Shell) — Session manager for Claude Code with automatic documentation and artifact tracking
 - [iiroak/Kindle-Filler-Disk](https://github.com/iiroak/Kindle-Filler-Disk) (★448 · PowerShell) — No upstream description.
-- [janeczku/calibre-web](https://github.com/janeczku/calibre-web) (★18184 · Fluent) — :books: Web app for browsing, reading and downloading eBooks stored in a Calibre database
-- [jordanbaird/Ice](https://github.com/jordanbaird/Ice) (★29644 · Swift) — Powerful menu bar manager for macOS
-- [k2-fsa/sherpa-onnx](https://github.com/k2-fsa/sherpa-onnx) (★14794 · C++) — Speech-to-text, text-to-speech, speaker diarization, speech enhancement, source separation, and VAD using next-gen Kaldi with onnxruntime without Internet conne
+- [janeczku/calibre-web](https://github.com/janeczku/calibre-web) (★18185 · Fluent) — :books: Web app for browsing, reading and downloading eBooks stored in a Calibre database
+- [jordanbaird/Ice](https://github.com/jordanbaird/Ice) (★29645 · Swift) — Powerful menu bar manager for macOS
+- [k2-fsa/sherpa-onnx](https://github.com/k2-fsa/sherpa-onnx) (★14796 · C++) — Speech-to-text, text-to-speech, speaker diarization, speech enhancement, source separation, and VAD using next-gen Kaldi with onnxruntime without Internet conne
 - [koreader/koreader](https://github.com/koreader/koreader) (★29726 · Lua) — An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats, running on Cervantes, Kindle, Kobo, PocketBook and Android devices
-- [manaflow-ai/cmux](https://github.com/manaflow-ai/cmux) (★27141 · Swift) — Open source Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents. Built for multitasking, organization, and programmability. [`codex` `opencode`]
+- [manaflow-ai/cmux](https://github.com/manaflow-ai/cmux) (★27144 · Swift) — Open source Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents. Built for multitasking, organization, and programmability. [`codex` `opencode`]
 - [marcus-crane/october](https://github.com/marcus-crane/october) (★241 · Go) — A simple GUI for retrieving Kobo highlights and syncing them with Readwise
 - [mvanhorn/agentcookie](https://github.com/mvanhorn/agentcookie) (★832 · Go) — Your agent runs on a Mac that isn't your daily driver. agentcookie keeps its sessions in sync with the Mac you actually browse on, continuously, encrypted over  [`openclaw` `hermes`]
-- [nashsu/llm_wiki](https://github.com/nashsu/llm_wiki) (★19607 · TypeScript) — LLM Wiki is a cross-platform desktop application that turns your documents into an organized, interlinked knowledge base — automatically. Instead of traditional
-- [nexu-io/open-design](https://github.com/nexu-io/open-design) (★96440 · TypeScript) — 🎨 Best DeepSeek Harness Design Plugin. The open-source Claude Design alternative. 🖥️ Local-first desktop app. 🖼️ Your coding agent becomes the design engine: pr [`codex` `opencode` `hermes` `local-first`]
-- [omacom/omarchy](https://github.com/omacom/omarchy) (★41367 · Shell) — Beautiful, Modern & Opinionated Linux
+- [nashsu/llm_wiki](https://github.com/nashsu/llm_wiki) (★19613 · TypeScript) — LLM Wiki is a cross-platform desktop application that turns your documents into an organized, interlinked knowledge base — automatically. Instead of traditional
+- [nexu-io/open-design](https://github.com/nexu-io/open-design) (★96461 · TypeScript) — 🎨 Best DeepSeek Harness Design Plugin. The open-source Claude Design alternative. 🖥️ Local-first desktop app. 🖼️ Your coding agent becomes the design engine: pr [`codex` `opencode` `hermes` `local-first`]
+- [omacom/omarchy](https://github.com/omacom/omarchy) (★41390 · Shell) — Beautiful, Modern & Opinionated Linux
 - [onlook-dev/onlook](https://github.com/onlook-dev/onlook) (★26744 · TypeScript) — The Cursor for Designers • An Open-Source AI-First Design tool • Visually build, style, and edit your React App with AI
 - [openclaw/clickclack](https://github.com/openclaw/clickclack) (★207 · Go) — ClickClackClaw - The chat app with claws. [`openclaw`]
-- [oraios/serena](https://github.com/oraios/serena) (★29439 · Python) — A powerful MCP toolkit for coding, providing semantic retrieval and editing capabilities  - the IDE for your agent [`codex`]
-- [paperclipai/paperclip](https://github.com/paperclipai/paperclip) (★80788 · TypeScript) — The open-source app everyone uses to manage agents at work
-- [qarmin/czkawka](https://github.com/qarmin/czkawka) (★33514 · Fluent) — Multi functional app to find duplicates, empty folders, similar images etc.
+- [oraios/serena](https://github.com/oraios/serena) (★29444 · Python) — A powerful MCP toolkit for coding, providing semantic retrieval and editing capabilities  - the IDE for your agent [`codex`]
+- [paperclipai/paperclip](https://github.com/paperclipai/paperclip) (★80797 · TypeScript) — The open-source app everyone uses to manage agents at work
+- [qarmin/czkawka](https://github.com/qarmin/czkawka) (★33517 · Fluent) — Multi functional app to find duplicates, empty folders, similar images etc.
 - [raullenchai/Rapid-MLX](https://github.com/raullenchai/Rapid-MLX) (★3759 · Python) — The fastest local AI engine for Apple Silicon. 4.2x faster than Ollama, 0.08s cached TTFT, 100% tool calling. 17 tool parsers, prompt cache, reasoning separatio
+- [rxhanson/Rectangle](https://github.com/rxhanson/Rectangle) (★29918 · Swift) — Move and resize windows on macOS with keyboard shortcuts and snap areas
 - [skibitsky/alfred-timing](https://github.com/skibitsky/alfred-timing) (★36 · JavaScript) — ⏳ Alfred workflow for Timing app
-- [stablyai/orca](https://github.com/stablyai/orca) (★69756 · TypeScript) — Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime. [`codex` `opencode`]
+- [stablyai/orca](https://github.com/stablyai/orca) (★69834 · TypeScript) — Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime. [`codex` `opencode`]
 - [taylorwilsdon/google_workspace_mcp](https://github.com/taylorwilsdon/google_workspace_mcp) (★3175 · Python) — Control Gmail, Google Calendar, Docs, Sheets, Slides, Chat, Forms, Tasks, Search & Drive with AI - Comprehensive Google Workspace MCP Server & CLI Tool
-- [thaw-app/Thaw](https://github.com/thaw-app/Thaw) (★11037 · Swift) — The open source menu bar manager
+- [thaw-app/Thaw](https://github.com/thaw-app/Thaw) (★11046 · Swift) — The open source menu bar manager
 - [thewh1teagle/vibe](https://github.com/thewh1teagle/vibe) (★7495 · TypeScript) — Transcribe on your own!
-- [tinyhumansai/openhuman](https://github.com/tinyhumansai/openhuman) (★39813 · Rust) — OpenHuman is an open source agent harness with local-first memory, agent orchestration, and workflows [`local-first`]
-- [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE) (★72656 · TypeScript) — There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privac
-- [travisvn/awesome-claude-skills](https://github.com/travisvn/awesome-claude-skills) (★15083) — A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows — particularly Claude Code
-- [trycua/cua](https://github.com/trycua/cua) (★22702 · HTML) — Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation.
+- [tinyhumansai/openhuman](https://github.com/tinyhumansai/openhuman) (★39814 · Rust) — OpenHuman is an open source agent harness with local-first memory, agent orchestration, and workflows [`local-first`]
+- [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE) (★72659 · TypeScript) — There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privac
+- [travisvn/awesome-claude-skills](https://github.com/travisvn/awesome-claude-skills) (★15084) — A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows — particularly Claude Code
+- [trycua/cua](https://github.com/trycua/cua) (★22706 · HTML) — Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation.
+- [twpayne/chezmoi](https://github.com/twpayne/chezmoi) (★21619 · Go) — Manage your dotfiles across multiple diverse machines, securely.
 - [usebasejump/basejump](https://github.com/usebasejump/basejump) (★940 · PLpgSQL) — Teams, personal accounts, permissions and billing for your Supabase app
 - [vercel-labs/native](https://github.com/vercel-labs/native) (★7673 · Zig) — Toolkit for building native desktop apps
-- [vorssaint/vorssaint-utils](https://github.com/vorssaint/vorssaint-utils) (★19324 · Swift) — Free and open-source macOS menu bar toolkit.
-- [warpdotdev/warp](https://github.com/warpdotdev/warp) (★65043 · Rust) — Warp is an agentic development environment, born out of the terminal.
+- [vorssaint/vorssaint-utils](https://github.com/vorssaint/vorssaint-utils) (★19344 · Swift) — Free and open-source macOS menu bar toolkit.
+- [warpdotdev/warp](https://github.com/warpdotdev/warp) (★65045 · Rust) — Warp is an agentic development environment, born out of the terminal.
 
 _Generated from star export — see data/. Regenerate, don't hand-edit._

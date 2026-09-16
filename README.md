@@ -4,23 +4,23 @@ My GitHub stars, filed into lists. One repo can live in several — broad bucket
 
 ## Buckets
 
-- [Skills & Plugins](lists/skills-plugins.md) (111)
+- [Skills & Plugins](lists/skills-plugins.md) (114)
 - [MCP Servers](lists/mcp-servers.md) (58)
 - [Agent Harnesses & Orchestration](lists/harness.md) (51)
-- [Agent Memory & Knowledge](lists/memory.md) (63)
+- [Agent Memory & Knowledge](lists/memory.md) (66)
 - [AI Models & Inference](lists/models.md) (36)
-- [Devtools & CLI](lists/devtools.md) (138)
-- [Automation & Workflows](lists/automation.md) (82)
-- [Self-Hosted & Infra](lists/selfhost.md) (81)
-- [Design & Frontend](lists/design.md) (60)
-- [Writing & Content](lists/writing.md) (52)
+- [Devtools & CLI](lists/devtools.md) (147)
+- [Automation & Workflows](lists/automation.md) (83)
+- [Self-Hosted & Infra](lists/selfhost.md) (85)
+- [Design & Frontend](lists/design.md) (63)
+- [Writing & Content](lists/writing.md) (54)
 - [Voice & Audio](lists/voice.md) (33)
-- [Mobile & Desktop](lists/mobile-desktop.md) (56)
-- [Privacy & Security](lists/privacy.md) (35)
-- [Learning & Guides](lists/learning.md) (20)
+- [Mobile & Desktop](lists/mobile-desktop.md) (59)
+- [Privacy & Security](lists/privacy.md) (37)
+- [Learning & Guides](lists/learning.md) (21)
 - [Finance & Ops](lists/finance.md) (7)
 - [FDE](lists/fde.md) (13)
-- [Collections](lists/collections.md) (20)
+- [Collections](lists/collections.md) (22)
 
 ## Narrow tags
 Cross-cutting: `openclaw` `codex` `opencode` `obsidian` `hermes` `shadcn` `local-first` `context-engineering` `fde`.
