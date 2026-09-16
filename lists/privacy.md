@@ -1,6 +1,6 @@
 # Privacy & Security
 
-37 starred repos. File a PR to fix a miscategorisation.
+38 starred repos. File a PR to fix a miscategorisation.
 
 - [0x676e67/wreq](https://github.com/0x676e67/wreq) (★1024 · Rust) — An ergonomic, privacy-aware Rust HTTP Client
 - [AgriciDaniel/claude-ads](https://github.com/AgriciDaniel/claude-ads) (★9313 · Python) — Claude-first paid-media operations skill for Claude Code across 12 ad platforms (Google, Meta, YouTube, LinkedIn, TikTok, Microsoft, Apple, Amazon, Reddit, Pint
@@ -15,6 +15,7 @@
 - [apple/password-manager-resources](https://github.com/apple/password-manager-resources) (★4848 · JavaScript) — A place for creators and users of password managers to collaborate on resources to make password management better.
 - [authelia/authelia](https://github.com/authelia/authelia) (★28986 · Go) — The Single Sign-On Multi-Factor portal for web apps. OpenID Certified™ and Post-Quantum Cryptography Ready.
 - [basicmachines-co/basic-memory](https://github.com/basicmachines-co/basic-memory) (★3977 · Python) — AI conversations that actually remember. Never re-explain your project to your AI again. Join our Discord: https://discord.gg/tyvKNccgqN [`obsidian` `local-first`]
+- [bitwarden/clients](https://github.com/bitwarden/clients) (★13791 · TypeScript) — Bitwarden client apps (web, browser extension, desktop, and cli).
 - [botiverse/agent-vault](https://github.com/botiverse/agent-vault) (★438 · TypeScript) — Keep your secrets hidden from AI agents.
 - [davidahmann/applied-ai-field-guide](https://github.com/davidahmann/applied-ai-field-guide) (★108 · JavaScript) — The Applied AI Field Guide: fieldwork, value, engineering, and operations for AI that works beyond the demo.
 - [dinoBOLT/Gemini-Watermark-Remover](https://github.com/dinoBOLT/Gemini-Watermark-Remover) (★370 · JavaScript) — An AI powered extension to get rid of the Gemini watermark

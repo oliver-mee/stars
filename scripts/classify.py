@@ -104,6 +104,10 @@ MANUAL = {
     "Lakr233/vphone-cli": ["mobile-desktop"],
     "Gitlawb/openclaude": ["harness"],
     "MoonshotAI/kimi-cli": ["harness"],
+    "postgres/postgres": ["selfhost"],
+    "syncthing/syncthing": ["selfhost"],
+    "vercel-labs/portless": ["selfhost"],
+    "bitwarden/clients": ["privacy"],
 }
 
 

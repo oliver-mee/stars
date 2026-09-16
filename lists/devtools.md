@@ -1,6 +1,6 @@
 # Devtools & CLI
 
-147 starred repos. File a PR to fix a miscategorisation.
+143 starred repos. File a PR to fix a miscategorisation.
 
 - [0x676e67/wreq](https://github.com/0x676e67/wreq) (★1024 · Rust) — An ergonomic, privacy-aware Rust HTTP Client
 - [1weiho/open-slide](https://github.com/1weiho/open-slide) (★7587 · TypeScript) — A slide framework built for agents.
@@ -35,7 +35,6 @@
 - [beeper/cli](https://github.com/beeper/cli) (★40 · TypeScript) — One CLI for all your chats
 - [bergside/typeui](https://github.com/bergside/typeui) (★1936 · TypeScript) — Build better UI with AI [`codex`]
 - [bitjaru/styleseed](https://github.com/bitjaru/styleseed) (★955 · JavaScript) — Open-source design-method engine for Claude Code, Codex & Cursor. 23 agent skills for fixed design judgment, multiple grammars, semantic palettes, reference com [`codex` `shadcn`]
-- [bitwarden/clients](https://github.com/bitwarden/clients) (★13791 · TypeScript) — Bitwarden client apps (web, browser extension, desktop, and cli).
 - [bytedance/deer-flow](https://github.com/bytedance/deer-flow) (★82522 · Python) — An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message ga
 - [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage) (★59435 · Python) — World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI c
 - [caliber-ai-org/ai-setup](https://github.com/caliber-ai-org/ai-setup) (★1272 · TypeScript) — Continuously sync your AI setups with one command. Codebase tailor suited agent skills, MCPs and config files for Claude Code, Cursor, and Codex. [`codex`]
@@ -115,7 +114,6 @@
 - [paperclipai/paperclip](https://github.com/paperclipai/paperclip) (★80797 · TypeScript) — The open-source app everyone uses to manage agents at work
 - [paperclipai/pr-reviewer](https://github.com/paperclipai/pr-reviewer) (★14 · TypeScript) — pr triage ui
 - [pingdotgg/t3code](https://github.com/pingdotgg/t3code) (★22831 · TypeScript) — No upstream description.
-- [postgres/postgres](https://github.com/postgres/postgres) (★22117 · C) — Mirror of the official PostgreSQL GIT repository. Note that this is just a *mirror* - we don't work with pull requests on github. To contribute, please see http
 - [qarmin/czkawka](https://github.com/qarmin/czkawka) (★33517 · Fluent) — Multi functional app to find duplicates, empty folders, similar images etc.
 - [raullenchai/Rapid-MLX](https://github.com/raullenchai/Rapid-MLX) (★3759 · Python) — The fastest local AI engine for Apple Silicon. 4.2x faster than Ollama, 0.08s cached TTFT, 100% tool calling. 17 tool parsers, prompt cache, reasoning separatio
 - [remotion-dev/remotion](https://github.com/remotion-dev/remotion) (★59440 · TypeScript) — 🎥      Make videos programmatically with React
@@ -127,7 +125,6 @@
 - [soxoj/maigret](https://github.com/soxoj/maigret) (★37618 · Python) — 🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites
 - [stablyai/orca](https://github.com/stablyai/orca) (★69834 · TypeScript) — Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime. [`codex` `opencode`]
 - [steipete/summarize](https://github.com/steipete/summarize) (★6626 · TypeScript) — Point at any URL/YouTube/Podcast or file. Get the gist. CLI and Chrome Extension.
-- [syncthing/syncthing](https://github.com/syncthing/syncthing) (★88633 · Go) — Open Source Continuous File Synchronization
 - [tailcallhq/forgecode](https://github.com/tailcallhq/forgecode) (★7632 · Rust) — AI enabled pair programmer for Claude, GPT, O Series, Grok, Deepseek, Gemini and 300+ models
 - [taylorwilsdon/google_workspace_mcp](https://github.com/taylorwilsdon/google_workspace_mcp) (★3175 · Python) — Control Gmail, Google Calendar, Docs, Sheets, Slides, Chat, Forms, Tasks, Search & Drive with AI - Comprehensive Google Workspace MCP Server & CLI Tool
 - [thaw-app/Thaw](https://github.com/thaw-app/Thaw) (★11046 · Swift) — The open source menu bar manager
@@ -139,7 +136,6 @@
 - [upstash/context7](https://github.com/upstash/context7) (★62074 · TypeScript) — Context7 Platform -- Up-to-date code documentation for LLMs and AI code editors
 - [vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser) (★42668 · Rust) — Browser automation CLI for AI agents
 - [vercel-labs/phase](https://github.com/vercel-labs/phase) (★75 · TypeScript) — Lifecycle-aware UI performance layer for the web
-- [vercel-labs/portless](https://github.com/vercel-labs/portless) (★12464 · TypeScript) — Replace port numbers with stable, named local URLs. For humans and agents.
 - [vercel-labs/vgpu](https://github.com/vercel-labs/vgpu) (★2155 · TypeScript) — Modular cross-runtime WebGPU library for shaders, 3D scenes, GPU tensors, neural networks, and math viz
 - [vercel/vercel](https://github.com/vercel/vercel) (★16252 · TypeScript) — Develop. Preview. Ship.
 - [vincentkoc/tokenjuice](https://github.com/vincentkoc/tokenjuice) (★519 · TypeScript) — 🧃 Token weight loss. Lean output compaction for terminal-heavy agent workflows. Works as a native CLI tool or as an extension to popular coding and agent framew [`openclaw`]

@@ -1412,8 +1412,7 @@
  "bitwarden/clients": {
   "language": "TypeScript",
   "lists": [
-   "devtools",
-   "mobile-desktop"
+   "privacy"
   ],
   "narrow": [],
   "pushed": "2026-09-16T09:14:26Z",
@@ -3984,7 +3983,7 @@
  "postgres/postgres": {
   "language": "C",
   "lists": [
-   "devtools"
+   "selfhost"
   ],
   "narrow": [],
   "pushed": "2026-09-16T09:40:22Z",
@@ -4362,7 +4361,7 @@
  "syncthing/syncthing": {
   "language": "Go",
   "lists": [
-   "devtools"
+   "selfhost"
   ],
   "narrow": [],
   "pushed": "2026-09-15T12:01:36Z",
@@ -4769,7 +4768,7 @@
  "vercel-labs/portless": {
   "language": "TypeScript",
   "lists": [
-   "devtools"
+   "selfhost"
   ],
   "narrow": [],
   "pushed": "2026-09-14T14:46:37Z",

@@ -1,6 +1,6 @@
 # Self-Hosted & Infra
 
-85 starred repos. File a PR to fix a miscategorisation.
+88 starred repos. File a PR to fix a miscategorisation.
 
 - [2anki/2anki.net](https://github.com/2anki/2anki.net) (★326 · TypeScript) — Server to create Anki flashcards faster, easier and better today ⭐️
 - [Anil-matcha/Open-Generative-AI](https://github.com/Anil-matcha/Open-Generative-AI) (★28591 · JavaScript) — Unrestricted Open-source alternative to AI video platforms — Free AI image & video generation studio with 600+ models (Flux, Midjourney, Kling, Sora, Veo). No c
@@ -71,18 +71,21 @@
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) (★152253 · Python) — User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [oraios/serena](https://github.com/oraios/serena) (★29444 · Python) — A powerful MCP toolkit for coding, providing semantic retrieval and editing capabilities  - the IDE for your agent [`codex`]
 - [pierpaolo28/Awesome-FDE-Roadmap](https://github.com/pierpaolo28/Awesome-FDE-Roadmap) (★1140) — 🚀 The definitive roadmap to becoming a Forward Deployment Engineer (FDE). Master AI Agents, Enterprise Data Architecture, and Strategic Consulting. Bridging the
+- [postgres/postgres](https://github.com/postgres/postgres) (★22117 · C) — Mirror of the official PostgreSQL GIT repository. Note that this is just a *mirror* - we don't work with pull requests on github. To contribute, please see http
 - [renezander030/agentic-task-system](https://github.com/renezander030/agentic-task-system) (★12 · JavaScript) — CLI + MCP for agent context: a task layer over TickTick, Notion, GitHub, Obsidian & more (RRF retrieval, provenance, reviewed writes, undo) plus a knowledge-gra [`obsidian` `context-engineering`]
 - [router-for-me/CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI) (★52051 · Go) — Wrap Antigravity, ChatGPT Codex, Claude Code, Grok Build as an OpenAI/Gemini/Claude/Codex compatible API service, allowing you to enjoy the free Gemini 3.1 Pro, [`codex`]
 - [ruvnet/ruflo](https://github.com/ruvnet/ruflo) (★72584 · TypeScript) — 🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive me [`codex` `hermes`]
 - [shurlinet/shurli](https://github.com/shurlinet/shurli) (★6 · Go) — Sovereign P2P networking tool. Post-quantum encrypted connections, identity, file transfer, and relay infrastructure. No cloud, no accounts, no trust assumption [`local-first`]
 - [suboss87/FDEOps](https://github.com/suboss87/FDEOps) (★539 · JavaScript) — Forward deployed engineering skills for AI coding agents. [`codex`]
 - [supabase/supabase](https://github.com/supabase/supabase) (★109359 · TypeScript) — The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
+- [syncthing/syncthing](https://github.com/syncthing/syncthing) (★88633 · Go) — Open Source Continuous File Synchronization
 - [tailscale/tailscale](https://github.com/tailscale/tailscale) (★36534 · Go) — The easiest, most secure way to use WireGuard and 2FA.
 - [taylorwilsdon/google_workspace_mcp](https://github.com/taylorwilsdon/google_workspace_mcp) (★3175 · Python) — Control Gmail, Google Calendar, Docs, Sheets, Slides, Chat, Forms, Tasks, Search & Drive with AI - Comprehensive Google Workspace MCP Server & CLI Tool
 - [teamhanko/hanko](https://github.com/teamhanko/hanko) (★9028 · Go) — Modern authentication, on your terms. Open source alternative to Auth0, Clerk, WorkOS, Stytch.
 - [toeverything/OctoBase](https://github.com/toeverything/OctoBase) (★2069 · Rust) — 🐙 OctoBase is the open-source database behind AFFiNE, local-first, yet collaborative. A light-weight, scalable, data engine written in Rust. [`local-first`]
 - [topoteretes/cognee](https://github.com/topoteretes/cognee) (★30711 · Python) — Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions with a self-hosted knowledge graph engi [`context-engineering`]
 - [upstash/context7](https://github.com/upstash/context7) (★62074 · TypeScript) — Context7 Platform -- Up-to-date code documentation for LLMs and AI code editors
+- [vercel-labs/portless](https://github.com/vercel-labs/portless) (★12464 · TypeScript) — Replace port numbers with stable, named local URLs. For humans and agents.
 - [vorssaint/vorssaint-utils](https://github.com/vorssaint/vorssaint-utils) (★19344 · Swift) — Free and open-source macOS menu bar toolkit.
 - [wotai-dev/woterclip](https://github.com/wotai-dev/woterclip) (★57) — GitHub Issues-backed agent orchestration for Claude Code – a single Claude wears persona hats (Orchestrator, CEO, workers) routed by issue labels, driven by a h
 - [xdash/FDE-the-Guidance-Book-of-Forward-Deployed-Engineer](https://github.com/xdash/FDE-the-Guidance-Book-of-Forward-Deployed-Engineer) (★4716) — FDE（前沿部署工程师）从零入门指南（基于范冰《增长黑客》原书框架）

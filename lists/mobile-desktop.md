@@ -1,6 +1,6 @@
 # Mobile & Desktop
 
-59 starred repos. File a PR to fix a miscategorisation.
+58 starred repos. File a PR to fix a miscategorisation.
 
 - [AndorinaAI/Andorina-WhatsApp-Agent-for-Hermes](https://github.com/AndorinaAI/Andorina-WhatsApp-Agent-for-Hermes) (★65 · Python) — Turn Hermes into an autonomous WhatsApp manager. Take full control of your messaging. Forget typing: schedule messages, send voice notes, share PC files, and se [`hermes`]
 - [DrewThomasson/ebook2audiobook](https://github.com/DrewThomasson/ebook2audiobook) (★20190 · Python) — Generate audiobooks from e-books, voice cloning & 1158+ languages!
@@ -14,7 +14,6 @@
 - [addisonjames/timing-notion-sync](https://github.com/addisonjames/timing-notion-sync) (★2 · Python) — macOS tool to sync Timing.app data to Notion every 15 minutes
 - [apple/container](https://github.com/apple/container) (★49974 · Swift) — A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.
 - [beeper/beepy](https://github.com/beeper/beepy) (★647 · Shell) — Beepy
-- [bitwarden/clients](https://github.com/bitwarden/clients) (★13791 · TypeScript) — Bitwarden client apps (web, browser extension, desktop, and cli).
 - [cjpais/Handy](https://github.com/cjpais/Handy) (★31738 · Rust) — A free, open source, and extensible speech-to-text application that works completely offline.
 - [codexu/note-gen](https://github.com/codexu/note-gen) (★12809 · TypeScript) — Capture first. Organize later. A local-first Markdown app that turns scattered records into clear notes with AI. [`codex` `local-first`]
 - [crynta/terax-ai](https://github.com/crynta/terax-ai) (★9205 · TypeScript) — Lightweight (7MB) Terminal-first AI-native dev workspace
