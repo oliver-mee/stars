@@ -1,6 +1,6 @@
 # Automation & Workflows
 
-81 starred repos. File a PR to fix a miscategorisation.
+82 starred repos. File a PR to fix a miscategorisation.
 
 - [0x676e67/wreq](https://github.com/0x676e67/wreq) (★1023 · Rust) — An ergonomic, privacy-aware Rust HTTP Client
 - [AgriciDaniel/claude-ads](https://github.com/AgriciDaniel/claude-ads) (★9312 · Python) — Claude-first paid-media operations skill for Claude Code across 12 ad platforms (Google, Meta, YouTube, LinkedIn, TikTok, Microsoft, Apple, Amazon, Reddit, Pint
@@ -81,6 +81,7 @@
 - [vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser) (★42658 · Rust) — Browser automation CLI for AI agents
 - [vincentkoc/tokenjuice](https://github.com/vincentkoc/tokenjuice) (★519 · TypeScript) — 🧃 Token weight loss. Lean output compaction for terminal-heavy agent workflows. Works as a native CLI tool or as an extension to popular coding and agent framew [`openclaw`]
 - [wotai-dev/woterclip](https://github.com/wotai-dev/woterclip) (★57) — GitHub Issues-backed agent orchestration for Claude Code – a single Claude wears persona hats (Orchestrator, CEO, workers) routed by issue labels, driven by a h
+- [wuwentao/midea_ac_lan](https://github.com/wuwentao/midea_ac_lan) (★1887 · Python) — Auto-configure and then control your Midea M-Smart devices (Air conditioner, Fan, Water heater, Washer, etc) via local area network.
 - [xming521/WeClone](https://github.com/xming521/WeClone) (★18226 · Python) — 🚀 One-stop solution for creating your AI twin from chat history 💡 Fine-tune LLMs with your chat logs to capture your unique style, then bind to a chatbot to bri
 - [xtekky/gpt4free](https://github.com/xtekky/gpt4free) (★66694 · Python) — The official gpt4free repository | various collection of powerful language models | opus 4.6 gpt 5.3 kimi 2.5 deepseek v3.2 gemini 3
 

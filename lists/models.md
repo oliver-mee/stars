@@ -1,6 +1,6 @@
 # AI Models & Inference
 
-35 starred repos. File a PR to fix a miscategorisation.
+36 starred repos. File a PR to fix a miscategorisation.
 
 - [AlexsJones/llmfit](https://github.com/AlexsJones/llmfit) (★36648 · Rust) — Hundreds of models & providers. One command to find what runs on your hardware.
 - [BlockRunAI/ClawRouter](https://github.com/BlockRunAI/ClawRouter) (★6603 · TypeScript) — The agent-native LLM router for autonomous agents. Every frontier model behind one wallet, <1ms local routing, USDC payments on Base & Solana via x402. [`openclaw`]
@@ -36,6 +36,7 @@
 - [tt-a1i/archify](https://github.com/tt-a1i/archify) (★64065 · JavaScript) — Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export. [`codex` `opencode`]
 - [xming521/WeClone](https://github.com/xming521/WeClone) (★18226 · Python) — 🚀 One-stop solution for creating your AI twin from chat history 💡 Fine-tune LLMs with your chat logs to capture your unique style, then bind to a chatbot to bri
 - [xtekky/gpt4free](https://github.com/xtekky/gpt4free) (★66694 · Python) — The official gpt4free repository | various collection of powerful language models | opus 4.6 gpt 5.3 kimi 2.5 deepseek v3.2 gemini 3
+- [y0usaf/jev-lm](https://github.com/y0usaf/jev-lm) (★3 · TypeScript) — A word-level language model whose output layer is Jev: n-gram drafter, Noul chunk verification, bits-per-token eval
 - [youssofal/MTPLX](https://github.com/youssofal/MTPLX) (★2333 · Python) — 3x faster speeds on MLX | Qwen 3.8 27B | Native MTP Speculative Decoding On Apple Silicon With No External Drafter.
 
 _Generated from star export — see data/. Regenerate, don't hand-edit._

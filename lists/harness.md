@@ -1,15 +1,18 @@
 # Agent Harnesses & Orchestration
 
-48 starred repos. File a PR to fix a miscategorisation.
+51 starred repos. File a PR to fix a miscategorisation.
 
 - [Abloatai/ablo](https://github.com/Abloatai/ablo) (★33 · TypeScript) — Collaboration infrastructure for AI agents
 - [BloopAI/vibe-kanban](https://github.com/BloopAI/vibe-kanban) (★28095 · Rust) — Get 10X more out of Claude Code, Codex or any coding agent [`codex`]
 - [DanielHashmi/Q4_learning](https://github.com/DanielHashmi/Q4_learning) (★21 · Python) — This repository serves as the comprehensive workspace for Quarter 4-5 academic endeavors, encompassing assignments, technical documentation, experimental implem [`context-engineering`]
 - [Forward-Future/loopy](https://github.com/Forward-Future/loopy) (★3138 · JavaScript) — A library of practical AI-agent loops and an installable skill for finding, adapting, and designing repeatable agent workflows. [`codex`]
+- [Gitlawb/openclaude](https://github.com/Gitlawb/openclaude) (★33331 · TypeScript) — runs anywhere. uses anything
 - [HKUDS/Vibe-Trading](https://github.com/HKUDS/Vibe-Trading) (★33526 · Python) — "Vibe-Trading: Your Personal Trading Agent"
 - [HKUDS/nanobot](https://github.com/HKUDS/nanobot) (★48204 · Python) — Ultra-lightweight, open-source, self-hosted personal AI agent framework in Python with WebUI, tools, memory, MCP, multi-agent workflows, automation, and chat ap [`openclaw`]
+- [MoonshotAI/kimi-cli](https://github.com/MoonshotAI/kimi-cli) (★11376 · Python) — Kimi Code CLI is your next CLI agent.
 - [NevaMind-AI/memU](https://github.com/NevaMind-AI/memU) (★14410 · Python) — Personal memory across agents [`openclaw`]
 - [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) (★245976 · Python) — The agent that grows with you [`codex` `hermes`]
+- [NousResearch/hermes-paperclip-adapter](https://github.com/NousResearch/hermes-paperclip-adapter) (★1886 · TypeScript) — Paperclip adapter for Hermes Agent — run Hermes as a managed employee in a Paperclip company [`hermes`]
 - [OthmanAdi/planning-with-files](https://github.com/OthmanAdi/planning-with-files) (★26925 · Shell) — Persistent file-based planning for AI coding agents and long-running tasks. Crash-proof markdown plans, session recovery after /clear and compaction, per-turn r [`codex` `opencode` `hermes` `context-engineering`]
 - [RealZST/HarnessKit](https://github.com/RealZST/HarnessKit) (★432 · Rust) — More than a skill manager — manage skills, MCP servers, plugins, hooks, CLIs, configs, memory & rules across every AI coding agent. 🌟 Star if you like it! [`codex`]
 - [TakaGoto/rag-learning-academy](https://github.com/TakaGoto/rag-learning-academy) (★20 · Python) — A structured, multi-agent Claude Code learning environment for mastering Retrieval-Augmented Generation (RAG)

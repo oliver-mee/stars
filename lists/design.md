@@ -1,15 +1,17 @@
 # Design & Frontend
 
-55 starred repos. File a PR to fix a miscategorisation.
+60 starred repos. File a PR to fix a miscategorisation.
 
 - [1weiho/open-slide](https://github.com/1weiho/open-slide) (★7585 · TypeScript) — A slide framework built for agents.
 - [Antonytm/figma-mcp-server](https://github.com/Antonytm/figma-mcp-server) (★172 · TypeScript) — No upstream description.
 - [Blaizzy/mlx-audio](https://github.com/Blaizzy/mlx-audio) (★7895 · Python) — A text-to-speech (TTS), speech-to-text (STT) and speech-to-speech (STS) library built on Apple's MLX framework, providing efficient speech analysis on Apple Sil
 - [Forward-Future/loopy](https://github.com/Forward-Future/loopy) (★3138 · JavaScript) — A library of practical AI-agent loops and an installable skill for finding, adapting, and designing repeatable agent workflows. [`codex`]
+- [GurYN/vibe-slides](https://github.com/GurYN/vibe-slides) (★4 · TypeScript) — Vibe Slides is a "Vibe Coding" application for presentation creation. It enables users to create professional PowerPoint presentations by describing what they w
 - [JanGiese/notion_todo](https://github.com/JanGiese/notion_todo) (★24 · Python) — ToDo Integration for Notion and HomeAssistant
 - [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill) (★87504 · JavaScript) — Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop [`codex`]
 - [Li-Evan/Bloom](https://github.com/Li-Evan/Bloom) (★262 · Python) — Hire a private AI tutor for anything — it reads how you actually learn and teaches the next lesson just for you. Bloom's 2-Sigma research as a Claude Code skill
 - [Manavarya09/design-extract](https://github.com/Manavarya09/design-extract) (★4102 · HTML) — Extract any website's complete design system with one command. DTCG tokens, semantic+primitive+composite, MCP server for Claude Code/Cursor/Windsurf, multi-plat [`shadcn`]
+- [OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut) (★89545 · TypeScript) — The open-source CapCut alternative
 - [ThibautMelen/agentic-ai-systems](https://github.com/ThibautMelen/agentic-ai-systems) (★308) — Agentic AI explained with chickens 🐔 every pattern a runnable, CI-checked file. [`context-engineering`]
 - [apple/container](https://github.com/apple/container) (★49972 · Swift) — A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.
 - [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) (★67272 · JavaScript) — Extracted system prompts from Anthropic - Claude Fable 5.1, Opus 5, Claude Design, Claude Code. OpenAI - ChatGPT GPT-6-Astra, Codex. Google - Gemini 3.8 Flash,  [`codex`]
@@ -18,6 +20,7 @@
 - [binhnguyennus/awesome-scalability](https://github.com/binhnguyennus/awesome-scalability) (★73984) — The Patterns of Scalable, Reliable, and Performant Large-Scale Systems
 - [birobirobiro/awesome-shadcn-ui](https://github.com/birobirobiro/awesome-shadcn-ui) (★20508 · TypeScript) — A curated list of awesome things related to shadcn/ui. [`shadcn`]
 - [bitjaru/styleseed](https://github.com/bitjaru/styleseed) (★955 · JavaScript) — Open-source design-method engine for Claude Code, Codex & Cursor. 23 agent skills for fixed design judgment, multiple grammars, semantic palettes, reference com [`codex` `shadcn`]
+- [browser-use/video-use](https://github.com/browser-use/video-use) (★24945 · Python) — Edit videos with coding agents
 - [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage) (★59409 · Python) — World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI c
 - [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) (★40321 · HTML) — 38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop. [`codex`]
 - [charlietlamb/calendar](https://github.com/charlietlamb/calendar) (★570 · TypeScript) — React/shadcn full calendar [`shadcn`]
@@ -35,6 +38,7 @@
 - [hudovisk/react-optimize](https://github.com/hudovisk/react-optimize) (★189 · JavaScript) — ReactJS A/B testing with Google Optimize
 - [huytieu/COG-second-brain](https://github.com/huytieu/COG-second-brain) (★1195 · HTML) — Self-evolving second brain with 33 AI skills, 10 agents, and people CRM. Closed-loop harness: a V-model verification lifecycle where the worker never grades its [`codex` `obsidian`]
 - [ibelick/prompt-kit](https://github.com/ibelick/prompt-kit) (★3074 · TypeScript) — Core building blocks for AI apps.  High-quality, accessible, and customizable components for AI interfaces. [`shadcn`]
+- [jgraph/drawio](https://github.com/jgraph/drawio) (★8145 · JavaScript) — draw.io is a JavaScript, client-side editor for general diagramming.
 - [k1p1l0/claude-telegram-supercharged](https://github.com/k1p1l0/claude-telegram-supercharged) (★113 · TypeScript) — Supercharged Claude Code Official Telegram plugin — threading, voice messages 2 ways, stickers, GIFs, reactions, MarkdownV2 & more. Drop-in replacement.
 - [leoMirandaa/shadcn-landing-page](https://github.com/leoMirandaa/shadcn-landing-page) (★1983 · TypeScript) — Free Landing page template using Shadcn, React, Typescript and Tailwind [`shadcn`]
 - [marcus-crane/october](https://github.com/marcus-crane/october) (★241 · Go) — A simple GUI for retrieving Kobo highlights and syncing them with Readwise
@@ -48,6 +52,7 @@
 - [onlook-dev/onlook](https://github.com/onlook-dev/onlook) (★26744 · TypeScript) — The Cursor for Designers • An Open-Source AI-First Design tool • Visually build, style, and edit your React App with AI
 - [oven-sh/bun](https://github.com/oven-sh/bun) (★95972 · Rust) — Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
 - [penpot/penpot](https://github.com/penpot/penpot) (★60040 · Clojure) — Penpot: The open-source design platform for Product teams that need scalable collaboration.
+- [pipipi-pikachu/PPTist](https://github.com/pipipi-pikachu/PPTist) (★9337 · Vue) — PowerPoint-ist（/'pauəpɔintist/）, An online presentation application that replicates most of the commonly used features of MS PowerPoint, allowing for the editin
 - [raullenchai/Rapid-MLX](https://github.com/raullenchai/Rapid-MLX) (★3759 · Python) — The fastest local AI engine for Apple Silicon. 4.2x faster than Ollama, 0.08s cached TTFT, 100% tool calling. 17 tool parsers, prompt cache, reasoning separatio
 - [satnaing/shadcn-admin](https://github.com/satnaing/shadcn-admin) (★14220 · TypeScript) — Admin Dashboard UI built with Shadcn and Vite. [`shadcn`]
 - [shadcnio/react-shadcn-components](https://github.com/shadcnio/react-shadcn-components) (★850) — Production-ready React components following shadcn/ui principles. TypeScript-first, Tailwind-styled, Radix-powered. Beautiful defaults with complete customizati [`shadcn`]

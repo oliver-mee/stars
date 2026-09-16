@@ -1,6 +1,6 @@
 # Agent Memory & Knowledge
 
-62 starred repos. File a PR to fix a miscategorisation.
+63 starred repos. File a PR to fix a miscategorisation.
 
 - [AgriciDaniel/claude-obsidian](https://github.com/AgriciDaniel/claude-obsidian) (★14974 · Python) — Self-organizing AI second brain for Obsidian + Claude Code. Drop any source and Claude reads, links, and files it into one connected knowledge graph of plain Ma [`obsidian`]
 - [DanielHashmi/Q4_learning](https://github.com/DanielHashmi/Q4_learning) (★21 · Python) — This repository serves as the comprehensive workspace for Quarter 4-5 academic endeavors, encompassing assignments, technical documentation, experimental implem [`context-engineering`]
@@ -48,6 +48,7 @@
 - [open-gsd/gsd-pi](https://github.com/open-gsd/gsd-pi) (★1236 · TypeScript) — A powerful meta-prompting, context engineering and spec-driven development system that enables agents to work for long periods of time autonomously without losi [`context-engineering`]
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) (★152247 · Python) — User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [plastic-labs/honcho](https://github.com/plastic-labs/honcho) (★7189 · Python) — Memory library for building stateful agents [`context-engineering`]
+- [plastic-labs/paperclip-honcho](https://github.com/plastic-labs/paperclip-honcho) (★17 · TypeScript) — No upstream description.
 - [qdrant/fastembed](https://github.com/qdrant/fastembed) (★3203 · Python) — Fast, Accurate, Lightweight Python library to make State of the Art Embedding
 - [remotely-save/remotely-save](https://github.com/remotely-save/remotely-save) (★8104 · TypeScript) — Sync notes between local and cloud with smart conflict: S3 (Amazon S3/Cloudflare R2/Backblaze B2/...), Dropbox, webdav (NextCloud/InfiniCLOUD/Synology/...), One
 - [renezander030/agentic-task-system](https://github.com/renezander030/agentic-task-system) (★12 · JavaScript) — CLI + MCP for agent context: a task layer over TickTick, Notion, GitHub, Obsidian & more (RRF retrieval, provenance, reviewed writes, undo) plus a knowledge-gra [`obsidian` `context-engineering`]

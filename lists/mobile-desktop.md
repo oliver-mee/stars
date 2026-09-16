@@ -1,9 +1,10 @@
 # Mobile & Desktop
 
-55 starred repos. File a PR to fix a miscategorisation.
+56 starred repos. File a PR to fix a miscategorisation.
 
 - [AndorinaAI/Andorina-WhatsApp-Agent-for-Hermes](https://github.com/AndorinaAI/Andorina-WhatsApp-Agent-for-Hermes) (★65 · Python) — Turn Hermes into an autonomous WhatsApp manager. Take full control of your messaging. Forget typing: schedule messages, send voice notes, share PC files, and se [`hermes`]
 - [DrewThomasson/ebook2audiobook](https://github.com/DrewThomasson/ebook2audiobook) (★20189 · Python) — Generate audiobooks from e-books, voice cloning & 1158+ languages!
+- [Lakr233/vphone-cli](https://github.com/Lakr233/vphone-cli) (★13081 · Swift) — No upstream description.
 - [Li-Evan/Bloom](https://github.com/Li-Evan/Bloom) (★262 · Python) — Hire a private AI tutor for anything — it reads how you actually learn and teaches the next lesson just for you. Bloom's 2-Sigma research as a Claude Code skill
 - [Manavarya09/design-extract](https://github.com/Manavarya09/design-extract) (★4102 · HTML) — Extract any website's complete design system with one command. DTCG tokens, semantic+primitive+composite, MCP server for Claude Code/Cursor/Windsurf, multi-plat [`shadcn`]
 - [Rich627/whatsapp-claude-plugin](https://github.com/Rich627/whatsapp-claude-plugin) (★90 · TypeScript) — Claude Code WhatsApp channel plugin — run AI directly from WhatsApp, voice transcription, remote tool approval, access control. No API keys, no Docker, just a l

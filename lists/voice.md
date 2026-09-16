@@ -1,6 +1,6 @@
 # Voice & Audio
 
-32 starred repos. File a PR to fix a miscategorisation.
+33 starred repos. File a PR to fix a miscategorisation.
 
 - [AndorinaAI/Andorina-WhatsApp-Agent-for-Hermes](https://github.com/AndorinaAI/Andorina-WhatsApp-Agent-for-Hermes) (★65 · Python) — Turn Hermes into an autonomous WhatsApp manager. Take full control of your messaging. Forget typing: schedule messages, send voice notes, share PC files, and se [`hermes`]
 - [Blaizzy/mlx-audio](https://github.com/Blaizzy/mlx-audio) (★7895 · Python) — A text-to-speech (TTS), speech-to-text (STT) and speech-to-speech (STS) library built on Apple's MLX framework, providing efficient speech analysis on Apple Sil
@@ -27,6 +27,7 @@
 - [m-bain/whisperX](https://github.com/m-bain/whisperX) (★24059 · Python) — WhisperX:  Automatic Speech Recognition with Word-level Timestamps (& Diarization)
 - [manaflow-ai/cmux](https://github.com/manaflow-ai/cmux) (★27141 · Swift) — Open source Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents. Built for multitasking, organization, and programmability. [`codex` `opencode`]
 - [mbailey/voicemode](https://github.com/mbailey/voicemode) (★1366 · Python) — Natural voice conversations with Claude Code
+- [modelscope/3D-Speaker](https://github.com/modelscope/3D-Speaker) (★3139 · Python) — A Repository for Single- and Multi-modal Speaker Verification, Speaker Recognition and Speaker Diarization
 - [modelscope/FunASR](https://github.com/modelscope/FunASR) (★20361 · Python) — Open-source speech recognition toolkit for training, inference, streaming ASR, VAD, punctuation, speaker diarization pipelines, and OpenAI-compatible/MCP servin
 - [qarmin/czkawka](https://github.com/qarmin/czkawka) (★33514 · Fluent) — Multi functional app to find duplicates, empty folders, similar images etc.
 - [rekordcloud/openkeyscan-analyzer](https://github.com/rekordcloud/openkeyscan-analyzer) (★43 · Python) — No upstream description.

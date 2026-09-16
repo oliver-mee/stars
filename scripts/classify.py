@@ -91,6 +91,19 @@ MANUAL = {
     "marchoag/Claude-Code-Setup-Wizard-MD": ["skills-plugins"],
     "o-gi/claude-code-commands": ["skills-plugins"],
     "eyaltoledano/claude-task-master": ["skills-plugins"],
+    "OpenCut-app/OpenCut": ["design"],
+    "browser-use/video-use": ["design"],
+    "modelscope/3D-Speaker": ["voice"],
+    "jgraph/drawio": ["design"],
+    "GurYN/vibe-slides": ["design"],
+    "pipipi-pikachu/PPTist": ["design"],
+    "wuwentao/midea_ac_lan": ["automation"],
+    "plastic-labs/paperclip-honcho": ["memory"],
+    "NousResearch/hermes-paperclip-adapter": ["harness"],
+    "y0usaf/jev-lm": ["models"],
+    "Lakr233/vphone-cli": ["mobile-desktop"],
+    "Gitlawb/openclaude": ["harness"],
+    "MoonshotAI/kimi-cli": ["harness"],
 }
 
 

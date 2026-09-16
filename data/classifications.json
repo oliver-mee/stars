@@ -353,7 +353,7 @@
  "Gitlawb/openclaude": {
   "language": "TypeScript",
   "lists": [
-   "devtools"
+   "harness"
   ],
   "narrow": [],
   "pushed": "2026-09-15T23:39:56Z",
@@ -380,7 +380,7 @@
  "GurYN/vibe-slides": {
   "language": "TypeScript",
   "lists": [
-   "devtools"
+   "design"
   ],
   "narrow": [],
   "pushed": "2026-02-01T19:28:56Z",
@@ -473,7 +473,7 @@
  "Lakr233/vphone-cli": {
   "language": "Swift",
   "lists": [
-   "devtools"
+   "mobile-desktop"
   ],
   "narrow": [],
   "pushed": "2026-09-10T08:13:01Z",
@@ -549,7 +549,7 @@
  "MoonshotAI/kimi-cli": {
   "language": "Python",
   "lists": [
-   "devtools"
+   "harness"
   ],
   "narrow": [],
   "pushed": "2026-09-01T16:37:12Z",
@@ -587,7 +587,7 @@
  "NousResearch/hermes-paperclip-adapter": {
   "language": "TypeScript",
   "lists": [
-   "devtools"
+   "harness"
   ],
   "narrow": [
    "hermes"
@@ -621,7 +621,7 @@
  "OpenCut-app/OpenCut": {
   "language": "TypeScript",
   "lists": [
-   "devtools"
+   "design"
   ],
   "narrow": [],
   "pushed": "2026-08-10T16:38:36Z",
@@ -1491,7 +1491,7 @@
  "browser-use/video-use": {
   "language": "Python",
   "lists": [
-   "devtools"
+   "design"
   ],
   "narrow": [],
   "pushed": "2026-08-30T09:45:51Z",
@@ -2711,7 +2711,7 @@
  "jgraph/drawio": {
   "language": "JavaScript",
   "lists": [
-   "devtools"
+   "design"
   ],
   "narrow": [],
   "pushed": "2026-09-11T04:13:07Z",
@@ -3297,7 +3297,7 @@
  "modelscope/3D-Speaker": {
   "language": "Python",
   "lists": [
-   "devtools"
+   "voice"
   ],
   "narrow": [],
   "pushed": "2025-12-08T07:20:17Z",
@@ -3870,7 +3870,7 @@
  "pipipi-pikachu/PPTist": {
   "language": "Vue",
   "lists": [
-   "devtools"
+   "design"
   ],
   "narrow": [],
   "pushed": "2026-08-16T14:28:51Z",
@@ -3894,7 +3894,7 @@
  "plastic-labs/paperclip-honcho": {
   "language": "TypeScript",
   "lists": [
-   "devtools"
+   "memory"
   ],
   "narrow": [],
   "pushed": "2026-07-16T14:06:35Z",
@@ -4675,7 +4675,7 @@
  "wuwentao/midea_ac_lan": {
   "language": "Python",
   "lists": [
-   "devtools"
+   "automation"
   ],
   "narrow": [],
   "pushed": "2026-09-14T18:36:40Z",
@@ -4741,7 +4741,7 @@
  "y0usaf/jev-lm": {
   "language": "TypeScript",
   "lists": [
-   "devtools"
+   "models"
   ],
   "narrow": [],
   "pushed": "2026-09-16T06:35:43Z",
