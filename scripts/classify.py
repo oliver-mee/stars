@@ -16,7 +16,7 @@ BROAD_ORDER = [
     "skills-plugins", "mcp-servers", "harness", "memory", "models",
     "devtools", "automation", "selfhost", "design", "writing",
     "voice", "mobile-desktop", "privacy", "learning", "finance",
-    "work-fde", "collections",
+    "fde", "collections",
 ]
 
 RULES = [
@@ -36,7 +36,7 @@ RULES = [
     ("collections", ["awesome-", "curated", "collection", "list-of", "list_of"]),
     ("learning", ["learn", "course", "tutorial", "academy", "guide", "handbook", "roadmap", "textbook", "cookbook"]),
     ("finance", ["finance", "budget", "wealth", "invoice", "trading", "crypto", "money", "accounting", "bank"]),
-    ("work-fde", ["fde", "forward-deploy", "palantir", "engagement", "field-guide", "playbook"]),
+    ("fde", ["fde", "forward-deploy", "palantir", "engagement", "field-guide", "playbook"]),
 ]
 
 NARROW = [
@@ -48,7 +48,6 @@ NARROW = [
     ("shadcn", ["shadcn"]),
     ("local-first", ["local-first", "localfirst"]),
     ("context-engineering", ["context-engineering", "contextengineering"]),
-    ("fde", ["fde", "forward-deploy", "forwarddeploy"]),
 ]
 
 # full_name -> [broad buckets] for repos the rules miss or misfile

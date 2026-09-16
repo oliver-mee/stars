@@ -25,7 +25,7 @@ TITLES = {
     "privacy": "Privacy & Security",
     "learning": "Learning & Guides",
     "finance": "Finance & Ops",
-    "work-fde": "Work & FDE",
+    "fde": "FDE",
     "collections": "Collections",
 }
 
