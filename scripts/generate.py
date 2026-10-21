@@ -74,22 +74,17 @@ def main():
                 v.get("language") or None,
             ] if x)
             lines.append(f"- [{name}](https://github.com/{name}) ({meta}) — {v['why']}")
-            if v["narrow"]:
-                lines[-1] += f" [`{'` `'.join(v['narrow'])}`]"
         lines += ["", "_Generated from star export — see data/. Regenerate, don't hand-edit._", ""]
         text = "\n".join(line.rstrip() for line in lines)
         scrub(text, f"lists/{b}.md")
         (ROOT / f"lists/{b}.md").write_text(text)
 
     idx = ["# stars", "",
-           "My GitHub stars, filed into lists. One repo can live in several — broad buckets plus narrow tags.",
+           "My GitHub stars, filed into lists. One repo can appear in more than one bucket.",
            "", "## Buckets", ""]
-    for b in BROAD_ORDER:
+    for b in sorted(BROAD_ORDER, key=lambda bucket: (-len(by_bucket[bucket]), TITLES[bucket].casefold())):
         idx.append(f"- [{TITLES[b]}](lists/{b}.md) ({len(by_bucket[b])})")
-    idx += ["", "## Narrow tags",
-            "Cross-cutting: `openclaw` `codex` `opencode` `obsidian` `hermes` `shadcn` `local-first` `context-engineering` `fde`.",
-            "", "## Maintenance", "See [MAINTENANCE.md](MAINTENANCE.md) for the public-only refresh and review workflow.",
-            "", "_Generated — see scripts/. Private starred repos are excluded by policy._", ""]
+    idx += ["", "_Public repositories only._", ""]
     readme = "\n".join(idx)
     scrub(readme, "README.md")
     (ROOT / "README.md").write_text(readme)

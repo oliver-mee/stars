@@ -2,16 +2,16 @@
 
 23 starred repos. File a PR to fix a miscategorisation.
 
-- [ThibautMelen/agentic-ai-systems](https://github.com/ThibautMelen/agentic-ai-systems) (★323) — Agentic AI explained with chickens 🐔 every pattern a runnable, CI-checked file. [`context-engineering`]
-- [VoltAgent/awesome-agent-skills](https://github.com/VoltAgent/awesome-agent-skills) (★36076) — A curated collection of 1000+ agent skills from official dev teams and the community, compatible with Claude Code, Codex, Gemini CLI, Cursor, and more. [`codex` `opencode`]
-- [VoltAgent/awesome-openclaw-skills](https://github.com/VoltAgent/awesome-openclaw-skills) (★53243) — The awesome collection of OpenClaw skills. 5,400+ skills filtered and categorized from the official OpenClaw Skills Registry.🦞 [`openclaw`]
+- [ThibautMelen/agentic-ai-systems](https://github.com/ThibautMelen/agentic-ai-systems) (★323) — Agentic AI explained with chickens 🐔 every pattern a runnable, CI-checked file.
+- [VoltAgent/awesome-agent-skills](https://github.com/VoltAgent/awesome-agent-skills) (★36076) — A curated collection of 1000+ agent skills from official dev teams and the community, compatible with Claude Code, Codex, Gemini CLI, Cursor, and more.
+- [VoltAgent/awesome-openclaw-skills](https://github.com/VoltAgent/awesome-openclaw-skills) (★53243) — The awesome collection of OpenClaw skills. 5,400+ skills filtered and categorized from the official OpenClaw Skills Registry.🦞
 - [ai-for-developers/awesome-ai-coding-tools](https://github.com/ai-for-developers/awesome-ai-coding-tools) (★2179) — A curated list of AI-powered coding tools
 - [alvinreal/awesome-opensource-ai](https://github.com/alvinreal/awesome-opensource-ai) (★4916 · Python) — Curated list of the best truly open-source AI projects, models, tools, and infrastructure. Daily updated.
-- [andyrewlee/awesome-agent-orchestrators](https://github.com/andyrewlee/awesome-agent-orchestrators) (★2240) — List of agent orchestrators [`codex` `opencode`]
+- [andyrewlee/awesome-agent-orchestrators](https://github.com/andyrewlee/awesome-agent-orchestrators) (★2240) — List of agent orchestrators
 - [anthropics/claude-cookbooks](https://github.com/anthropics/claude-cookbooks) (★53622 · Jupyter Notebook) — A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.
-- [awesome-opencode/awesome-opencode](https://github.com/awesome-opencode/awesome-opencode) (★10671 · JavaScript) — A curated list of awesome plugins, themes, agents, projects, and resources for https://opencode.ai [`opencode`]
+- [awesome-opencode/awesome-opencode](https://github.com/awesome-opencode/awesome-opencode) (★10671 · JavaScript) — A curated list of awesome plugins, themes, agents, projects, and resources for https://opencode.ai
 - [binhnguyennus/awesome-scalability](https://github.com/binhnguyennus/awesome-scalability) (★74874) — The Patterns of Scalable, Reliable, and Performant Large-Scale Systems
-- [birobirobiro/awesome-shadcn-ui](https://github.com/birobirobiro/awesome-shadcn-ui) (★20669 · TypeScript) — A curated list of awesome things related to shadcn/ui. [`shadcn`]
+- [birobirobiro/awesome-shadcn-ui](https://github.com/birobirobiro/awesome-shadcn-ui) (★20669 · TypeScript) — A curated list of awesome things related to shadcn/ui.
 - [enescingoz/awesome-n8n-templates](https://github.com/enescingoz/awesome-n8n-templates) (★26034) — 280+ free n8n automation templates — ready-to-use workflows for Gmail, Telegram, Slack, Discord, WhatsApp, Google Drive, Notion, OpenAI, and more. AI agents, RA
 - [f/prompts.chat](https://github.com/f/prompts.chat) (★173708 · HTML) — f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete pr
 - [github/awesome-copilot](https://github.com/github/awesome-copilot) (★40234 · JavaScript) — Community-contributed instructions, agents, skills, and configurations to help you make the most of GitHub Copilot.
