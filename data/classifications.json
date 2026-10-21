@@ -7,20 +7,10 @@
    "privacy"
   ],
   "narrow": [],
-  "pushed": "2026-09-15T00:15:35Z",
-  "stars": 1024,
+  "node_id": "R_kgDOM0DT_A",
+  "pushed": "2026-10-19T18:04:02Z",
+  "stars": 1076,
   "why": "An ergonomic, privacy-aware Rust HTTP Client"
- },
- "1weiho/open-slide": {
-  "language": "TypeScript",
-  "lists": [
-   "devtools",
-   "design"
-  ],
-  "narrow": [],
-  "pushed": "2026-09-14T13:34:15Z",
-  "stars": 7587,
-  "why": "A slide framework built for agents."
  },
  "2anki/2anki.net": {
   "language": "TypeScript",
@@ -29,8 +19,9 @@
    "writing"
   ],
   "narrow": [],
-  "pushed": "2026-09-16T08:09:10Z",
-  "stars": 326,
+  "node_id": "MDEwOlJlcG9zaXRvcnkyNTY1NTk2Nzc=",
+  "pushed": "2026-10-20T13:11:53Z",
+  "stars": 328,
   "why": "Server to create Anki flashcards faster, easier and better today \u2b50\ufe0f"
  },
  "Abloatai/ablo": {
@@ -39,9 +30,21 @@
    "harness"
   ],
   "narrow": [],
-  "pushed": "2026-09-15T18:18:59Z",
-  "stars": 33,
+  "node_id": "R_kgDOSJWRhw",
+  "pushed": "2026-10-19T23:34:15Z",
+  "stars": 34,
   "why": "Collaboration infrastructure for AI agents"
+ },
+ "Agent-Card/ai-catalog": {
+  "language": "Python",
+  "lists": [
+   "devtools"
+  ],
+  "narrow": [],
+  "node_id": "R_kgDOQLxARw",
+  "pushed": "2026-10-08T17:37:13Z",
+  "stars": 234,
+  "why": "Working repository for common AI Card standard"
  },
  "AgriciDaniel/claude-ads": {
   "language": "Python",
@@ -51,8 +54,9 @@
    "privacy"
   ],
   "narrow": [],
-  "pushed": "2026-09-11T21:07:34Z",
-  "stars": 9313,
+  "node_id": "R_kgDORN3Amw",
+  "pushed": "2026-10-17T01:35:42Z",
+  "stars": 10250,
   "why": "Claude-first paid-media operations skill for Claude Code across 12 ad platforms (Google, Meta, YouTube, LinkedIn, TikTok, Microsoft, Apple, Amazon, Reddit, Pint"
  },
  "AgriciDaniel/claude-obsidian": {
@@ -65,8 +69,9 @@
   "narrow": [
    "obsidian"
   ],
-  "pushed": "2026-09-10T17:44:23Z",
-  "stars": 14982,
+  "node_id": "R_kgDOR76PpQ",
+  "pushed": "2026-10-18T17:55:37Z",
+  "stars": 15676,
   "why": "Self-organizing AI second brain for Obsidian + Claude Code. Drop any source and Claude reads, links, and files it into one connected knowledge graph of plain Ma"
  },
  "AlexsJones/llmfit": {
@@ -77,9 +82,33 @@
    "devtools"
   ],
   "narrow": [],
-  "pushed": "2026-09-16T06:52:06Z",
-  "stars": 36651,
+  "node_id": "R_kgDORQ6nQA",
+  "pushed": "2026-10-20T06:18:21Z",
+  "stars": 38174,
   "why": "Hundreds of models & providers. One command to find what runs on your hardware."
+ },
+ "AlexxIT/XiaomiGateway3": {
+  "language": "Python",
+  "lists": [
+   "automation",
+   "selfhost"
+  ],
+  "narrow": [],
+  "node_id": "MDEwOlJlcG9zaXRvcnkyOTE0ODQ3MDA=",
+  "pushed": "2026-10-15T09:33:30Z",
+  "stars": 2799,
+  "why": "Home Assistant custom component for control Xiaomi Multimode Gateway (aka Gateway 3), Xiaomi Multimode Gateway 2, Aqara Hub E1 on default firmwares over LAN"
+ },
+ "AlfieJones/theme-toggles": {
+  "language": "TypeScript",
+  "lists": [
+   "design"
+  ],
+  "narrow": [],
+  "node_id": "MDEwOlJlcG9zaXRvcnkzODQ2Nzk5Njk=",
+  "pushed": "2026-09-23T23:34:54Z",
+  "stars": 825,
+  "why": "Animated theme toggles for switching between light and dark modes."
  },
  "AndorinaAI/Andorina-WhatsApp-Agent-for-Hermes": {
   "language": "Python",
@@ -93,8 +122,9 @@
   "narrow": [
    "hermes"
   ],
-  "pushed": "2026-09-14T18:57:28Z",
-  "stars": 65,
+  "node_id": "R_kgDOSX3nKw",
+  "pushed": "2026-09-22T16:07:07Z",
+  "stars": 64,
   "why": "Turn Hermes into an autonomous WhatsApp manager. Take full control of your messaging. Forget typing: schedule messages, send voice notes, share PC files, and se"
  },
  "Anil-matcha/Open-Generative-AI": {
@@ -104,8 +134,9 @@
    "selfhost"
   ],
   "narrow": [],
-  "pushed": "2026-09-15T18:52:09Z",
-  "stars": 28591,
+  "node_id": "R_kgDOJg7yeg",
+  "pushed": "2026-10-19T19:58:17Z",
+  "stars": 31068,
   "why": "Unrestricted Open-source alternative to AI video platforms \u2014 Free AI image & video generation studio with 600+ models (Flux, Midjourney, Kling, Sora, Veo). No c"
  },
  "AnthonyDavidAdams/zero-employee-company-book": {
@@ -115,8 +146,9 @@
    "writing"
   ],
   "narrow": [],
+  "node_id": "R_kgDORnT_Lg",
   "pushed": "2026-04-14T17:22:12Z",
-  "stars": 585,
+  "stars": 730,
   "why": "Headcount Zero: How to Build an AI-Run Company with Paperclip"
  },
  "Antonytm/figma-mcp-server": {
@@ -127,8 +159,9 @@
    "design"
   ],
   "narrow": [],
+  "node_id": "R_kgDOQO-d0g",
   "pushed": "2026-09-14T13:44:16Z",
-  "stars": 172,
+  "stars": 175,
   "why": "No upstream description."
  },
  "AprilNEA/OpenLogi": {
@@ -139,8 +172,9 @@
   "narrow": [
    "local-first"
   ],
-  "pushed": "2026-09-16T08:12:42Z",
-  "stars": 21264,
+  "node_id": "R_kgDOSmXwow",
+  "pushed": "2026-10-21T01:32:17Z",
+  "stars": 23870,
   "why": "\u26a1\ufe0fA native, local-first alternative to Logitech Options+, written in Rust \ud83e\udd80 \u2014 remap buttons, DPI, and SmartShift over HID++. No account, no telemetry."
  },
  "AvdLee/SwiftUI-Agent-Skill": {
@@ -150,8 +184,9 @@
    "devtools"
   ],
   "narrow": [],
-  "pushed": "2026-09-14T09:09:53Z",
-  "stars": 3554,
+  "node_id": "R_kgDOQ-WCJA",
+  "pushed": "2026-10-06T06:57:28Z",
+  "stars": 3729,
   "why": "Add expert SwiftUI Best Practices guidance to your AI coding tool (Agent Skills open format)."
  },
  "Blaizzy/mlx-audio": {
@@ -161,8 +196,9 @@
    "voice"
   ],
   "narrow": [],
-  "pushed": "2026-09-15T14:06:53Z",
-  "stars": 7898,
+  "node_id": "R_kgDONVx8zg",
+  "pushed": "2026-10-20T17:55:05Z",
+  "stars": 8076,
   "why": "A text-to-speech (TTS), speech-to-text (STT) and speech-to-speech (STS) library built on Apple's MLX framework, providing efficient speech analysis on Apple Sil"
  },
  "BlockRunAI/ClawRouter": {
@@ -173,8 +209,9 @@
   "narrow": [
    "openclaw"
   ],
-  "pushed": "2026-09-16T03:11:44Z",
-  "stars": 6603,
+  "node_id": "R_kgDORH1ybg",
+  "pushed": "2026-10-21T01:06:33Z",
+  "stars": 6631,
   "why": "The agent-native LLM router for autonomous agents. Every frontier model behind one wallet, <1ms local routing, USDC payments on Base & Solana via x402."
  },
  "BloopAI/vibe-kanban": {
@@ -185,8 +222,9 @@
   "narrow": [
    "codex"
   ],
-  "pushed": "2026-09-16T09:08:50Z",
-  "stars": 28096,
+  "node_id": "R_kgDOO7s21A",
+  "pushed": "2026-09-19T06:52:48Z",
+  "stars": 28410,
   "why": "Get 10X more out of Claude Code, Codex or any coding agent"
  },
  "CloakHQ/CloakBrowser": {
@@ -196,8 +234,9 @@
    "automation"
   ],
   "narrow": [],
-  "pushed": "2026-09-13T20:13:16Z",
-  "stars": 31495,
+  "node_id": "R_kgDORV6yrg",
+  "pushed": "2026-10-20T18:53:24Z",
+  "stars": 32357,
   "why": "Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 30/30 tests passed."
  },
  "D4Vinci/Scrapling": {
@@ -208,8 +247,9 @@
    "selfhost"
   ],
   "narrow": [],
-  "pushed": "2026-09-14T19:47:52Z",
-  "stars": 81271,
+  "node_id": "R_kgDOM_t66Q",
+  "pushed": "2026-10-19T15:42:52Z",
+  "stars": 88890,
   "why": "\ud83d\udd77\ufe0f An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl! Don't be shy, join here: https://discord.gg/EMgGbDceN"
  },
  "Dan-Cleary/fdestack": {
@@ -221,8 +261,9 @@
    "fde"
   ],
   "narrow": [],
+  "node_id": "R_kgDOShV_sQ",
   "pushed": "2026-05-19T15:20:05Z",
-  "stars": 38,
+  "stars": 48,
   "why": "Claude Code skill pack for forward-deployed engineers \u2014 customer context, discovery, scope, value framing, POC, integration. Git-backed, no service deps."
  },
  "DanielHashmi/Q4_learning": {
@@ -238,9 +279,35 @@
   "narrow": [
    "context-engineering"
   ],
-  "pushed": "2026-09-16T08:57:48Z",
-  "stars": 21,
+  "node_id": "R_kgDOOnzBoQ",
+  "pushed": "2026-09-30T10:07:36Z",
+  "stars": 24,
   "why": "This repository serves as the comprehensive workspace for Quarter 4-5 academic endeavors, encompassing assignments, technical documentation, experimental implem"
+ },
+ "DavidHDev/react-bits": {
+  "language": "JavaScript",
+  "lists": [
+   "design"
+  ],
+  "narrow": [],
+  "node_id": "R_kgDOMf15Pg",
+  "pushed": "2026-10-19T07:37:02Z",
+  "stars": 49808,
+  "why": "The largest open-source library of animated, interactive, and customizable React & Next.js components for building standout web products and experiences. Built "
+ },
+ "Dicklesworthstone/coding_agent_session_search": {
+  "language": "Rust",
+  "lists": [
+   "memory",
+   "devtools"
+  ],
+  "narrow": [
+   "codex"
+  ],
+  "node_id": "R_kgDOQZ8ZBA",
+  "pushed": "2026-10-21T01:23:17Z",
+  "stars": 1188,
+  "why": "Unified TUI and CLI to index and search your local coding agent session history across 11+ providers (Codex, Claude, Gemini, Cursor, Aider, etc.)"
  },
  "DietrichGebert/ponytail": {
   "language": "JavaScript",
@@ -248,8 +315,9 @@
    "skills-plugins"
   ],
   "narrow": [],
-  "pushed": "2026-09-14T14:34:56Z",
-  "stars": 139806,
+  "node_id": "R_kgDOS4HNrw",
+  "pushed": "2026-10-18T01:55:14Z",
+  "stars": 169733,
   "why": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote."
  },
  "DrewThomasson/ebook2audiobook": {
@@ -261,8 +329,9 @@
    "mobile-desktop"
   ],
   "narrow": [],
-  "pushed": "2026-09-11T20:30:08Z",
-  "stars": 20190,
+  "node_id": "R_kgDOLIVTjQ",
+  "pushed": "2026-10-06T03:55:10Z",
+  "stars": 20383,
   "why": "Generate audiobooks from e-books, voice cloning & 1158+ languages!"
  },
  "EbookFoundation/free-programming-books": {
@@ -271,8 +340,9 @@
    "writing"
   ],
   "narrow": [],
-  "pushed": "2026-09-15T15:54:40Z",
-  "stars": 396926,
+  "node_id": "MDEwOlJlcG9zaXRvcnkxMzQ5MTg5NQ==",
+  "pushed": "2026-10-20T13:00:21Z",
+  "stars": 399684,
   "why": ":books: Freely available programming books"
  },
  "Egonex-AI/Understand-Anything": {
@@ -286,8 +356,9 @@
    "codex",
    "opencode"
   ],
-  "pushed": "2026-09-12T05:31:43Z",
-  "stars": 83016,
+  "node_id": "R_kgDORnUjiw",
+  "pushed": "2026-10-12T10:24:59Z",
+  "stars": 87255,
   "why": "Graphs that teach > graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude C"
  },
  "EveryInc/compound-engineering-plugin": {
@@ -298,8 +369,9 @@
   "narrow": [
    "codex"
   ],
-  "pushed": "2026-09-16T03:25:42Z",
-  "stars": 25099,
+  "node_id": "R_kgDOP_gZVQ",
+  "pushed": "2026-10-21T01:20:44Z",
+  "stars": 25628,
   "why": "Official Compound Engineering plugin for Claude Code, Codex, Cursor, and more"
  },
  "EveryInc/proof-sdk": {
@@ -308,8 +380,9 @@
    "devtools"
   ],
   "narrow": [],
+  "node_id": "R_kgDORjr6RA",
   "pushed": "2026-08-27T21:34:51Z",
-  "stars": 1102,
+  "stars": 1123,
   "why": "Proof SDK: open-source collaborative editor, provenance model, and agent HTTP bridge"
  },
  "Forward-Future/loopy": {
@@ -323,8 +396,9 @@
   "narrow": [
    "codex"
   ],
+  "node_id": "R_kgDOS4uk2w",
   "pushed": "2026-09-11T03:57:03Z",
-  "stars": 3140,
+  "stars": 3198,
   "why": "A library of practical AI-agent loops and an installable skill for finding, adapting, and designing repeatable agent workflows."
  },
  "GENWAY-AI/clawatch": {
@@ -335,6 +409,7 @@
   "narrow": [
    "openclaw"
   ],
+  "node_id": "R_kgDORidXsA",
   "pushed": "2026-04-13T21:38:38Z",
   "stars": 26,
   "why": "Open source observability for OpenClaw agents. Real-time monitoring, cost tracking & management, and smart alerts. Free forever."
@@ -346,19 +421,10 @@
    "devtools"
   ],
   "narrow": [],
-  "pushed": "2026-09-05T18:08:42Z",
-  "stars": 19,
+  "node_id": "R_kgDOUJQkFg",
+  "pushed": "2026-10-18T08:19:43Z",
+  "stars": 62,
   "why": "Reference architecture, contracts, skills, and fixtures for safe evaluator-driven self-improving ecosystems."
- },
- "Gitlawb/openclaude": {
-  "language": "TypeScript",
-  "lists": [
-   "harness"
-  ],
-  "narrow": [],
-  "pushed": "2026-09-15T23:39:56Z",
-  "stars": 33332,
-  "why": "runs anywhere. uses anything"
  },
  "Graphify-Labs/graphify": {
   "language": "Python",
@@ -373,8 +439,9 @@
    "openclaw",
    "codex"
   ],
-  "pushed": "2026-09-15T17:58:19Z",
-  "stars": 118168,
+  "node_id": "R_kgDOR4-pDw",
+  "pushed": "2026-10-20T16:16:19Z",
+  "stars": 130291,
   "why": "Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini"
  },
  "GurYN/vibe-slides": {
@@ -383,6 +450,7 @@
    "design"
   ],
   "narrow": [],
+  "node_id": "R_kgDORGNboQ",
   "pushed": "2026-02-01T19:28:56Z",
   "stars": 4,
   "why": "Vibe Slides is a \"Vibe Coding\" application for presentation creation. It enables users to create professional PowerPoint presentations by describing what they w"
@@ -395,8 +463,9 @@
    "finance"
   ],
   "narrow": [],
-  "pushed": "2026-09-16T07:51:22Z",
-  "stars": 33528,
+  "node_id": "R_kgDOR2y1_A",
+  "pushed": "2026-10-20T13:36:51Z",
+  "stars": 36050,
   "why": "\"Vibe-Trading: Your Personal Trading Agent\""
  },
  "HKUDS/nanobot": {
@@ -411,8 +480,9 @@
   "narrow": [
    "openclaw"
   ],
-  "pushed": "2026-09-16T08:42:18Z",
-  "stars": 48209,
+  "node_id": "R_kgDORF9GhA",
+  "pushed": "2026-10-20T20:03:36Z",
+  "stars": 49224,
   "why": "Ultra-lightweight, open-source, self-hosted personal AI agent framework in Python with WebUI, tools, memory, MCP, multi-agent workflows, automation, and chat ap"
  },
  "HemachandranD/notionwiki": {
@@ -422,21 +492,22 @@
    "writing"
   ],
   "narrow": [],
+  "node_id": "R_kgDOTRSO6A",
   "pushed": "2026-07-20T09:32:06Z",
   "stars": 4,
   "why": "Notion Workspace Memory for your AI Assistant, Inspired from LLM Wiki"
  },
- "Jamie-BitFlight/claude_skills": {
+ "HexRaysSA/ida-mcp": {
   "language": "Python",
   "lists": [
-   "skills-plugins"
+   "mcp-servers",
+   "privacy"
   ],
-  "narrow": [
-   "codex"
-  ],
-  "pushed": "2026-09-16T09:41:26Z",
-  "stars": 66,
-  "why": "Plugins for Anthropic's Claude Code, Codex, Cursor and more"
+  "narrow": [],
+  "node_id": "R_kgDOUGAyjg",
+  "pushed": "2026-10-08T20:24:11Z",
+  "stars": 1318,
+  "why": "Official Hex-Rays IDA MCP Server."
  },
  "JanGiese/notion_todo": {
   "language": "Python",
@@ -445,6 +516,7 @@
    "writing"
   ],
   "narrow": [],
+  "node_id": "R_kgDOKrCE7g",
   "pushed": "2024-06-03T21:20:17Z",
   "stars": 24,
   "why": "ToDo Integration for Notion and HomeAssistant"
@@ -456,8 +528,9 @@
    "selfhost"
   ],
   "narrow": [],
-  "pushed": "2026-09-16T07:52:54Z",
-  "stars": 105864,
+  "node_id": "R_kgDOR5h10Q",
+  "pushed": "2026-10-20T23:44:10Z",
+  "stars": 113870,
   "why": "\ud83e\udea8 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman."
  },
  "JustVugg/colibri": {
@@ -466,8 +539,9 @@
    "models"
   ],
   "narrow": [],
-  "pushed": "2026-09-15T21:33:15Z",
-  "stars": 34436,
+  "node_id": "R_kgDOTKgHjQ",
+  "pushed": "2026-10-21T01:00:47Z",
+  "stars": 43073,
   "why": "Run frontier MoE models on hardware you already own \u2014 pure C, zero deps, experts streamed from disk. Tiny engine, immense model. \ud83d\udc26"
  },
  "Lakr233/vphone-cli": {
@@ -476,8 +550,9 @@
    "mobile-desktop"
   ],
   "narrow": [],
-  "pushed": "2026-09-10T08:13:01Z",
-  "stars": 13094,
+  "node_id": "R_kgDORZbd0w",
+  "pushed": "2026-10-20T13:48:55Z",
+  "stars": 15797,
   "why": "No upstream description."
  },
  "Leonxlnx/taste-skill": {
@@ -489,8 +564,9 @@
   "narrow": [
    "codex"
   ],
-  "pushed": "2026-08-24T15:23:56Z",
-  "stars": 87538,
+  "node_id": "R_kgDORUQ5bw",
+  "pushed": "2026-10-20T22:04:30Z",
+  "stars": 99880,
   "why": "Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop"
  },
  "Leseratte10/acsm-calibre-plugin": {
@@ -499,12 +575,13 @@
    "skills-plugins"
   ],
   "narrow": [],
-  "pushed": "2026-07-26T13:30:22Z",
-  "stars": 1305,
+  "node_id": "MDEwOlJlcG9zaXRvcnk0MDgxNDU3MjQ=",
+  "pushed": "2026-09-23T12:47:16Z",
+  "stars": 1349,
   "why": "Calibre plugin for ACSM->EPUB and ACSM->PDF conversion."
  },
  "Li-Evan/Bloom": {
-  "language": "Python",
+  "language": "JavaScript",
   "lists": [
    "skills-plugins",
    "selfhost",
@@ -513,8 +590,9 @@
    "learning"
   ],
   "narrow": [],
-  "pushed": "2026-06-23T14:08:21Z",
-  "stars": 262,
+  "node_id": "R_kgDORjZqbA",
+  "pushed": "2026-10-20T02:47:46Z",
+  "stars": 290,
   "why": "Hire a private AI tutor for anything \u2014 it reads how you actually learn and teaches the next lesson just for you. Bloom's 2-Sigma research as a Claude Code skill"
  },
  "MTG/essentia": {
@@ -523,8 +601,9 @@
    "voice"
   ],
   "narrow": [],
-  "pushed": "2026-08-27T18:31:38Z",
-  "stars": 3723,
+  "node_id": "MDEwOlJlcG9zaXRvcnkxMDQ1Njk0Mg==",
+  "pushed": "2026-10-14T23:34:35Z",
+  "stars": 3776,
   "why": "C++ library for audio and music analysis, description and synthesis, including Python bindings"
  },
  "Manavarya09/design-extract": {
@@ -542,8 +621,9 @@
   "narrow": [
    "shadcn"
   ],
-  "pushed": "2026-09-16T05:31:33Z",
-  "stars": 4102,
+  "node_id": "R_kgDOSDPnXA",
+  "pushed": "2026-10-19T20:45:34Z",
+  "stars": 4275,
   "why": "Extract any website's complete design system with one command. DTCG tokens, semantic+primitive+composite, MCP server for Claude Code/Cursor/Windsurf, multi-plat"
  },
  "MoonshotAI/kimi-cli": {
@@ -552,9 +632,32 @@
    "harness"
   ],
   "narrow": [],
-  "pushed": "2026-09-01T16:37:12Z",
-  "stars": 11377,
+  "node_id": "R_kgDOQC-g8g",
+  "pushed": "2026-09-22T09:42:54Z",
+  "stars": 11415,
   "why": "Kimi Code CLI is your next CLI agent."
+ },
+ "NandhaKishorM/laya": {
+  "language": "Python",
+  "lists": [
+   "models"
+  ],
+  "narrow": [],
+  "node_id": "R_kgDOUfqq7Q",
+  "pushed": "2026-10-19T09:40:14Z",
+  "stars": 33711,
+  "why": "Non-autoregressive System 1 decision engine. Typed choice, score and yes/no decisions over any text in a single forward pass, in 100+ languages, with a router t"
+ },
+ "NationalSecurityAgency/ghidra": {
+  "language": "Java",
+  "lists": [
+   "privacy"
+  ],
+  "narrow": [],
+  "node_id": "MDEwOlJlcG9zaXRvcnkxNzMyMjg0MzY=",
+  "pushed": "2026-10-20T12:16:20Z",
+  "stars": 92167,
+  "why": "Ghidra is a software reverse engineering (SRE) framework"
  },
  "NevaMind-AI/memU": {
   "language": "Python",
@@ -567,8 +670,9 @@
   "narrow": [
    "openclaw"
   ],
-  "pushed": "2026-09-14T08:30:50Z",
-  "stars": 14409,
+  "node_id": "R_kgDOPUcc1w",
+  "pushed": "2026-10-21T01:15:04Z",
+  "stars": 14551,
   "why": "Personal memory across agents"
  },
  "NousResearch/hermes-agent": {
@@ -580,8 +684,9 @@
    "codex",
    "hermes"
   ],
-  "pushed": "2026-09-16T09:41:31Z",
-  "stars": 246008,
+  "node_id": "R_kgDOPRF1Gw",
+  "pushed": "2026-10-21T01:31:32Z",
+  "stars": 255600,
   "why": "The agent that grows with you"
  },
  "NousResearch/hermes-paperclip-adapter": {
@@ -592,8 +697,9 @@
   "narrow": [
    "hermes"
   ],
+  "node_id": "R_kgDORjxIgg",
   "pushed": "2026-04-04T05:44:23Z",
-  "stars": 1886,
+  "stars": 1992,
   "why": "Paperclip adapter for Hermes Agent \u2014 run Hermes as a managed employee in a Paperclip company"
  },
  "OneUptime/oneuptime": {
@@ -603,8 +709,9 @@
    "selfhost"
   ],
   "narrow": [],
-  "pushed": "2026-09-16T09:15:30Z",
-  "stars": 7610,
+  "node_id": "MDEwOlJlcG9zaXRvcnkzODA3NDQ4NjY=",
+  "pushed": "2026-10-21T01:01:28Z",
+  "stars": 7752,
   "why": "Complete open-source monitoring and observability platform."
  },
  "Open-LLM-VTuber/Open-LLM-VTuber": {
@@ -614,8 +721,9 @@
    "voice"
   ],
   "narrow": [],
+  "node_id": "R_kgDOKxW6xA",
   "pushed": "2026-05-15T07:18:04Z",
-  "stars": 13778,
+  "stars": 14214,
   "why": "Talk to any LLM with hands-free voice interaction, voice interruption, and Live2D avatar running locally across platforms"
  },
  "OpenCut-app/OpenCut": {
@@ -624,12 +732,13 @@
    "design"
   ],
   "narrow": [],
-  "pushed": "2026-08-10T16:38:36Z",
-  "stars": 89553,
+  "node_id": "R_kgDOO_yqIA",
+  "pushed": "2026-09-24T09:24:44Z",
+  "stars": 95504,
   "why": "The open-source CapCut alternative"
  },
  "OthmanAdi/planning-with-files": {
-  "language": "Shell",
+  "language": "Python",
   "lists": [
    "skills-plugins",
    "harness",
@@ -643,8 +752,9 @@
    "hermes",
    "context-engineering"
   ],
-  "pushed": "2026-09-16T09:09:47Z",
-  "stars": 26928,
+  "node_id": "R_kgDOQy5Vlw",
+  "pushed": "2026-10-20T13:29:56Z",
+  "stars": 27552,
   "why": "Persistent file-based planning for AI coding agents and long-running tasks. Crash-proof markdown plans, session recovery after /clear and compaction, per-turn r"
  },
  "PacificStudio/openase": {
@@ -654,9 +764,22 @@
    "selfhost"
   ],
   "narrow": [],
+  "node_id": "R_kgDORrdWVw",
   "pushed": "2026-08-09T09:05:00Z",
-  "stars": 267,
+  "stars": 269,
   "why": "Ticket-Driven Automated Software Engineering. OpenASE is an all-in-one platform that turns tickets into working code \u2014 AI agents automatically pick up tickets, "
+ },
+ "Panniantong/Agent-Reach": {
+  "language": "Python",
+  "lists": [
+   "devtools",
+   "automation"
+  ],
+  "narrow": [],
+  "node_id": "R_kgDORXS4VA",
+  "pushed": "2026-10-20T11:24:28Z",
+  "stars": 100312,
+  "why": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu \u2014 one CLI, zero API fees."
  },
  "Piebald-AI/claude-code-system-prompts": {
   "language": "JavaScript",
@@ -665,8 +788,9 @@
    "privacy"
   ],
   "narrow": [],
-  "pushed": "2026-09-15T19:49:45Z",
-  "stars": 12689,
+  "node_id": "R_kgDOQYZtxg",
+  "pushed": "2026-10-20T22:43:24Z",
+  "stars": 12951,
   "why": "All parts of Claude Code's system prompt, 27 builtin tool descriptions, sub agent prompts (Plan/Explore/Task), utility prompts (CLAUDE.md, compact,  statusline,"
  },
  "QwenLM/qwen-code": {
@@ -677,8 +801,9 @@
    "devtools"
   ],
   "narrow": [],
-  "pushed": "2026-09-16T09:38:58Z",
-  "stars": 27891,
+  "node_id": "R_kgDOPB-92Q",
+  "pushed": "2026-10-21T01:29:17Z",
+  "stars": 28608,
   "why": "An open-source AI coding agent that lives in your terminal."
  },
  "RAIT-09/obsidian-agent-client": {
@@ -692,8 +817,9 @@
    "opencode",
    "obsidian"
   ],
-  "pushed": "2026-09-14T06:09:46Z",
-  "stars": 2410,
+  "node_id": "R_kgDOPyQLsw",
+  "pushed": "2026-10-15T06:31:44Z",
+  "stars": 2452,
   "why": "Bring AI agents into Obsidian via Agent Client Protocol (ACP), such as Claude Code, Codex and Gemini CLI."
  },
  "Rbillon59/hass-n8n": {
@@ -702,8 +828,9 @@
    "automation"
   ],
   "narrow": [],
-  "pushed": "2026-09-15T11:35:05Z",
-  "stars": 219,
+  "node_id": "MDEwOlJlcG9zaXRvcnkzNTU2MDM2NzU=",
+  "pushed": "2026-10-20T18:47:53Z",
+  "stars": 220,
   "why": "Home assistant addon to host a n8n.io instance"
  },
  "Rbillon59/home-assistant-addons": {
@@ -712,7 +839,8 @@
    "automation"
   ],
   "narrow": [],
-  "pushed": "2026-09-15T12:55:05Z",
+  "node_id": "MDEwOlJlcG9zaXRvcnkzMjA3MTEzOTE=",
+  "pushed": "2026-10-20T19:01:44Z",
   "stars": 106,
   "why": "Repository of self made addons"
  },
@@ -729,8 +857,9 @@
   "narrow": [
    "codex"
   ],
-  "pushed": "2026-09-13T13:41:35Z",
-  "stars": 432,
+  "node_id": "R_kgDORyfrTg",
+  "pushed": "2026-10-18T15:58:35Z",
+  "stars": 469,
   "why": "More than a skill manager \u2014 manage skills, MCP servers, plugins, hooks, CLIs, configs, memory & rules across every AI coding agent. \ud83c\udf1f Star if you like it!"
  },
  "Rich627/whatsapp-claude-plugin": {
@@ -744,8 +873,9 @@
    "mobile-desktop"
   ],
   "narrow": [],
-  "pushed": "2026-09-16T02:34:18Z",
-  "stars": 90,
+  "node_id": "R_kgDORv5Jyw",
+  "pushed": "2026-10-19T08:12:21Z",
+  "stars": 109,
   "why": "Claude Code WhatsApp channel plugin \u2014 run AI directly from WhatsApp, voice transcription, remote tool approval, access control. No API keys, no Docker, just a l"
  },
  "Rikorose/DeepFilterNet": {
@@ -755,8 +885,9 @@
    "learning"
   ],
   "narrow": [],
+  "node_id": "R_kgDOGMZlTg",
   "pushed": "2024-10-17T08:35:11Z",
-  "stars": 4715,
+  "stars": 4860,
   "why": "Noise supression using deep filtering"
  },
  "SaladDay/cc-switch-cli": {
@@ -767,8 +898,9 @@
   "narrow": [
    "codex"
   ],
-  "pushed": "2026-09-15T03:57:28Z",
-  "stars": 5093,
+  "node_id": "R_kgDOQbUM0Q",
+  "pushed": "2026-10-16T13:32:10Z",
+  "stars": 5350,
   "why": "\u2b50\ufe0f A cross-platform CLI All-in-One assistant tool for Claude Code, Codex & Gemini CLI."
  },
  "Shelpuk-AI-Technology-Consulting/kindly-web-search-mcp-server": {
@@ -784,8 +916,9 @@
    "codex",
    "hermes"
   ],
-  "pushed": "2026-09-16T09:35:19Z",
-  "stars": 387,
+  "node_id": "R_kgDOQypVrA",
+  "pushed": "2026-10-19T19:18:01Z",
+  "stars": 400,
   "why": "Kindly Web Search MCP Server: Web search + robust content retrieval for AI coding tools (Claude Code, Codex, Cursor, GitHub Copilot, Gemini, etc.) and AI agents"
  },
  "Significant-Gravitas/AutoGPT": {
@@ -795,8 +928,9 @@
    "devtools"
   ],
   "narrow": [],
-  "pushed": "2026-09-16T09:33:52Z",
-  "stars": 187376,
+  "node_id": "R_kgDOJKSTjA",
+  "pushed": "2026-10-21T01:30:39Z",
+  "stars": 187678,
   "why": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters."
  },
  "SilentVoid13/Templater": {
@@ -807,8 +941,9 @@
   "narrow": [
    "obsidian"
   ],
-  "pushed": "2026-08-05T05:45:24Z",
-  "stars": 5280,
+  "node_id": "MDEwOlJlcG9zaXRvcnkzMTAwNDgxNzA=",
+  "pushed": "2026-10-11T19:06:23Z",
+  "stars": 5360,
   "why": "A template plugin for obsidian"
  },
  "Soju06/codex-lb": {
@@ -821,8 +956,9 @@
    "codex",
    "opencode"
   ],
-  "pushed": "2026-09-15T22:33:22Z",
-  "stars": 3120,
+  "node_id": "R_kgDOQ1HZ7g",
+  "pushed": "2026-10-20T11:52:12Z",
+  "stars": 3359,
   "why": "Codex/ChatGPT multiple account load balancer & proxy with usage tracking, dashboard, and OpenCode-compatible endpoints"
  },
  "TakaGoto/rag-learning-academy": {
@@ -833,9 +969,24 @@
    "learning"
   ],
   "narrow": [],
+  "node_id": "R_kgDORtAWfg",
   "pushed": "2026-04-03T15:49:32Z",
-  "stars": 20,
+  "stars": 24,
   "why": "A structured, multi-agent Claude Code learning environment for mastering Retrieval-Augmented Generation (RAG)"
+ },
+ "TheSmokeDev/hermes-talk": {
+  "language": "Python",
+  "lists": [
+   "voice"
+  ],
+  "narrow": [
+   "codex",
+   "hermes"
+  ],
+  "node_id": "R_kgDOTrCfpA",
+  "pushed": "2026-10-19T05:17:48Z",
+  "stars": 78,
+  "why": "Hermes Talk: realtime duplex voice for Hermes Agent. Rides your ChatGPT or X Premium subscription, no API key needed. OpenAI, Grok, Gemini. Terminal, Discord, d"
  },
  "ThibautMelen/agentic-ai-systems": {
   "language": null,
@@ -852,9 +1003,21 @@
   "narrow": [
    "context-engineering"
   ],
+  "node_id": "R_kgDOQcuVjA",
   "pushed": "2026-07-11T10:18:31Z",
-  "stars": 308,
+  "stars": 323,
   "why": "Agentic AI explained with chickens \ud83d\udc14 every pattern a runnable, CI-checked file."
+ },
+ "Twigpine/openclaude": {
+  "language": "TypeScript",
+  "lists": [
+   "harness"
+  ],
+  "narrow": [],
+  "node_id": "R_kgDOR2fj6A",
+  "pushed": "2026-10-19T05:18:24Z",
+  "stars": 34047,
+  "why": "runs anywhere. uses anything"
  },
  "VinayakHyde/claude-anki-flashcard-rules": {
   "language": null,
@@ -862,8 +1025,9 @@
    "mcp-servers"
   ],
   "narrow": [],
+  "node_id": "R_kgDOSnVd0A",
   "pushed": "2026-05-25T16:49:07Z",
-  "stars": 6,
+  "stars": 7,
   "why": "Opinionated rules for generating high-quality Anki flashcards with Claude Code + Anki MCP. Covers general, math (4-layer architecture with custom note types), c"
  },
  "VoltAgent/awesome-agent-skills": {
@@ -877,8 +1041,9 @@
    "codex",
    "opencode"
   ],
-  "pushed": "2026-09-15T07:12:04Z",
-  "stars": 34405,
+  "node_id": "R_kgDOQKmL8Q",
+  "pushed": "2026-10-20T14:56:48Z",
+  "stars": 36076,
   "why": "A curated collection of 1000+ agent skills from official dev teams and the community, compatible with Claude Code, Codex, Gemini CLI, Cursor, and more."
  },
  "VoltAgent/awesome-openclaw-skills": {
@@ -891,8 +1056,9 @@
   "narrow": [
    "openclaw"
   ],
-  "pushed": "2026-09-14T09:56:58Z",
-  "stars": 52604,
+  "node_id": "R_kgDORA0Gfg",
+  "pushed": "2026-10-19T05:54:13Z",
+  "stars": 53243,
   "why": "The awesome collection of OpenClaw skills. 5,400+ skills filtered and categorized from the official OpenClaw Skills Registry.\ud83e\udd9e"
  },
  "Wei-Shaw/claude-relay-service": {
@@ -904,9 +1070,21 @@
   "narrow": [
    "codex"
   ],
-  "pushed": "2026-09-16T01:32:43Z",
-  "stars": 12620,
+  "node_id": "R_kgDOPMNOiA",
+  "pushed": "2026-10-20T21:10:15Z",
+  "stars": 12720,
   "why": "CRS-\u81ea\u5efaClaude Code\u955c\u50cf\uff0c\u4e00\u7ad9\u5f0f\u5f00\u6e90\u4e2d\u8f6c\u670d\u52a1\uff0c\u8ba9 Claude\u3001OpenAI\u3001Gemini\u3001Droid \u8ba2\u9605\u7edf\u4e00\u63a5\u5165\uff0c\u652f\u6301\u62fc\u8f66\u5171\u4eab\uff0c\u66f4\u9ad8\u6548\u5206\u644a\u6210\u672c\uff0c\u539f\u751f\u5de5\u5177\u65e0\u7f1d\u4f7f\u7528\u3002"
+ },
+ "WhiskeySockets/Baileys": {
+  "language": "JavaScript",
+  "lists": [
+   "automation"
+  ],
+  "narrow": [],
+  "node_id": "R_kgDOGqo7GA",
+  "pushed": "2026-10-20T01:48:26Z",
+  "stars": 11407,
+  "why": "Socket-based TS/JavaScript API for WhatsApp Web"
  },
  "WhosClaw/nanoclaw-web-ui": {
   "language": "JavaScript",
@@ -914,6 +1092,7 @@
    "automation"
   ],
   "narrow": [],
+  "node_id": "R_kgDORcXmbQ",
   "pushed": "2026-03-11T02:14:02Z",
   "stars": 6,
   "why": "A modern, responsive web-based chat interface for nanoclaw."
@@ -924,8 +1103,9 @@
    "selfhost"
   ],
   "narrow": [],
+  "node_id": "R_kgDOONKfsA",
   "pushed": "2026-09-02T03:45:13Z",
-  "stars": 1263,
+  "stars": 1286,
   "why": "High Performance LLM Reverse Proxy"
  },
  "Yeachan-Heo/oh-my-claudecode": {
@@ -937,8 +1117,9 @@
   "narrow": [
    "opencode"
   ],
-  "pushed": "2026-09-16T09:39:05Z",
-  "stars": 39194,
+  "node_id": "R_kgDOQ2bIeQ",
+  "pushed": "2026-10-20T17:51:09Z",
+  "stars": 40123,
   "why": "Teams-first Multi-agent orchestration for Claude Code"
  },
  "Yesterday-AI/paperclip-plugin-company-wizard": {
@@ -949,8 +1130,9 @@
    "devtools"
   ],
   "narrow": [],
+  "node_id": "R_kgDORhfzAw",
   "pushed": "2026-04-22T09:19:54Z",
-  "stars": 173,
+  "stars": 192,
   "why": "Bootstrap AI agent companies from modular templates."
  },
  "Z4nzu/hackingtool": {
@@ -960,8 +1142,9 @@
    "privacy"
   ],
   "narrow": [],
-  "pushed": "2026-08-23T16:54:04Z",
-  "stars": 79557,
+  "node_id": "MDEwOlJlcG9zaXRvcnkyNTQ4MzI3OTk=",
+  "pushed": "2026-10-15T13:32:22Z",
+  "stars": 81179,
   "why": "ALL IN ONE Hacking Tool For Hackers"
  },
  "Zie619/n8n-workflows": {
@@ -970,8 +1153,9 @@
    "automation"
   ],
   "narrow": [],
+  "node_id": "R_kgDOOpypRA",
   "pushed": "2026-06-24T14:16:03Z",
-  "stars": 56633,
+  "stars": 57031,
   "why": "all of the workflows of n8n i could find (also from the site itself)"
  },
  "a-bonus/google-docs-mcp": {
@@ -983,8 +1167,9 @@
    "mobile-desktop"
   ],
   "narrow": [],
-  "pushed": "2026-08-31T18:45:37Z",
-  "stars": 661,
+  "node_id": "R_kgDOOZZ2GA",
+  "pushed": "2026-10-11T23:21:51Z",
+  "stars": 676,
   "why": "The Ultimate Google Docs, Sheets, Drive, Gmail, & Google Calendar MCP Server. This MCP (primarily for use in Claude Desktop) gains full access to your google su"
  },
  "a-rich/DJ-Tools": {
@@ -993,8 +1178,9 @@
    "voice"
   ],
   "narrow": [],
+  "node_id": "MDEwOlJlcG9zaXRvcnkzNjA0MDQ3NDU=",
   "pushed": "2026-07-04T18:31:59Z",
-  "stars": 146,
+  "stars": 147,
   "why": "DJ tools for downloading, processing, and sharing music / rekordbox data."
  },
  "ace-step/ACE-Step-1.5": {
@@ -1003,8 +1189,9 @@
    "voice"
   ],
   "narrow": [],
-  "pushed": "2026-09-03T02:46:44Z",
-  "stars": 12735,
+  "node_id": "R_kgDOPpe8ZA",
+  "pushed": "2026-10-11T14:11:22Z",
+  "stars": 13850,
   "why": "The most powerful local music generation model that outperforms almost all commercial alternatives, supporting Mac, AMD, Intel, and CUDA devices."
  },
  "activeloopai/hivemind": {
@@ -1017,8 +1204,9 @@
    "openclaw",
    "codex"
   ],
-  "pushed": "2026-09-15T23:15:37Z",
-  "stars": 1616,
+  "node_id": "R_kgDOR5LKog",
+  "pushed": "2026-10-19T17:49:20Z",
+  "stars": 1629,
   "why": "Hivemind turns your traces into reusable skills across agents"
  },
  "addisonjames/timing-notion-sync": {
@@ -1028,6 +1216,7 @@
    "mobile-desktop"
   ],
   "narrow": [],
+  "node_id": "R_kgDOPNQxVw",
   "pushed": "2026-02-03T00:00:11Z",
   "stars": 2,
   "why": "macOS tool to sync Timing.app data to Notion every 15 minutes"
@@ -1045,8 +1234,9 @@
    "codex",
    "opencode"
   ],
-  "pushed": "2026-09-15T19:33:00Z",
-  "stars": 259628,
+  "node_id": "R_kgDOQ77-1A",
+  "pushed": "2026-10-20T23:08:28Z",
+  "stars": 284932,
   "why": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor "
  },
  "agentic-community/mcp-gateway-registry": {
@@ -1059,8 +1249,9 @@
    "privacy"
   ],
   "narrow": [],
-  "pushed": "2026-09-15T17:09:31Z",
-  "stars": 919,
+  "node_id": "R_kgDOOyzsTw",
+  "pushed": "2026-10-21T01:28:11Z",
+  "stars": 1003,
   "why": "Enterprise-ready MCP Gateway & Registry that centralizes AI development tools with secure OAuth authentication, dynamic tool discovery, and unified access for b"
  },
  "agentplugins/agent-plugins-spec": {
@@ -1070,8 +1261,9 @@
    "mcp-servers"
   ],
   "narrow": [],
-  "pushed": "2026-08-19T16:34:23Z",
-  "stars": 1289,
+  "node_id": "R_kgDOR4eh-A",
+  "pushed": "2026-09-28T19:00:06Z",
+  "stars": 1393,
   "why": "Agent Plugins Specification v1.0.0 \u2014 A minimal standard for packaging agent extensions into distributable plugins"
  },
  "ai-for-developers/awesome-ai-coding-tools": {
@@ -1083,8 +1275,9 @@
    "collections"
   ],
   "narrow": [],
-  "pushed": "2026-04-25T10:30:08Z",
-  "stars": 2077,
+  "node_id": "R_kgDOPC3Z8Q",
+  "pushed": "2026-09-18T23:41:23Z",
+  "stars": 2179,
   "why": "A curated list of AI-powered coding tools"
  },
  "ajeetdsouza/zoxide": {
@@ -1095,8 +1288,9 @@
    "selfhost"
   ],
   "narrow": [],
-  "pushed": "2026-09-14T20:37:22Z",
-  "stars": 39499,
+  "node_id": "MDEwOlJlcG9zaXRvcnkyNDUxNjY3MjA=",
+  "pushed": "2026-10-18T00:08:44Z",
+  "stars": 40222,
   "why": "A smarter cd command. Supports all major shells."
  },
  "akitaonrails/ai-memory": {
@@ -1106,8 +1300,9 @@
    "devtools"
   ],
   "narrow": [],
-  "pushed": "2026-09-16T02:16:20Z",
-  "stars": 6966,
+  "node_id": "R_kgDOSka2Jw",
+  "pushed": "2026-10-20T20:00:24Z",
+  "stars": 11925,
   "why": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors"
  },
  "alchaincyf/nuwa-skill": {
@@ -1116,8 +1311,9 @@
    "skills-plugins"
   ],
   "narrow": [],
-  "pushed": "2026-08-25T03:02:26Z",
-  "stars": 32747,
+  "node_id": "R_kgDOR6DzSw",
+  "pushed": "2026-10-17T09:04:27Z",
+  "stars": 35272,
   "why": "\u4f60\u60f3\u84b8\u998f\u7684\u4e0b\u4e00\u4e2a\u5458\u5de5\uff0c\u4f55\u5fc5\u662f\u540c\u4e8b\u3002\u84b8\u998f\u4efb\u4f55\u4eba\u7684\u601d\u7ef4\u65b9\u5f0f\u2014\u2014\u5fc3\u667a\u6a21\u578b\u3001\u51b3\u7b56\u542f\u53d1\u5f0f\u3001\u8868\u8fbeDNA\u3002Distill how anyone thinks."
  },
  "alvinreal/awesome-opensource-ai": {
@@ -1128,8 +1324,9 @@
    "collections"
   ],
   "narrow": [],
-  "pushed": "2026-09-15T07:02:48Z",
-  "stars": 4734,
+  "node_id": "R_kgDORvnVvw",
+  "pushed": "2026-10-20T07:05:09Z",
+  "stars": 4916,
   "why": "Curated list of the best truly open-source AI projects, models, tools, and infrastructure. Daily updated."
  },
  "andyrewlee/awesome-agent-orchestrators": {
@@ -1143,8 +1340,9 @@
    "codex",
    "opencode"
   ],
-  "pushed": "2026-09-14T18:17:02Z",
-  "stars": 1930,
+  "node_id": "R_kgDOQ9K4dg",
+  "pushed": "2026-10-17T11:54:55Z",
+  "stars": 2240,
   "why": "List of agent orchestrators"
  },
  "anomalyco/models.dev": {
@@ -1153,8 +1351,9 @@
    "models"
   ],
   "narrow": [],
-  "pushed": "2026-09-16T09:29:05Z",
-  "stars": 6875,
+  "node_id": "R_kgDOO2M_dQ",
+  "pushed": "2026-10-21T00:59:17Z",
+  "stars": 7317,
   "why": "An open-source database of AI models."
  },
  "anomalyco/opencode": {
@@ -1165,8 +1364,9 @@
   "narrow": [
    "opencode"
   ],
-  "pushed": "2026-09-16T08:19:39Z",
-  "stars": 207779,
+  "node_id": "R_kgDOOiiGLw",
+  "pushed": "2026-10-21T01:29:37Z",
+  "stars": 218961,
   "why": "The open source coding agent."
  },
  "anthropics/claude-code-action": {
@@ -1175,8 +1375,9 @@
    "devtools"
   ],
   "narrow": [],
-  "pushed": "2026-09-15T20:24:56Z",
-  "stars": 8885,
+  "node_id": "R_kgDOOsuZhg",
+  "pushed": "2026-10-20T20:53:13Z",
+  "stars": 9592,
   "why": "No upstream description."
  },
  "anthropics/claude-cookbooks": {
@@ -1187,9 +1388,21 @@
    "collections"
   ],
   "narrow": [],
-  "pushed": "2026-09-03T22:18:29Z",
-  "stars": 52731,
+  "node_id": "R_kgDOKHhOfA",
+  "pushed": "2026-10-17T00:28:09Z",
+  "stars": 53622,
   "why": "A collection of notebooks/recipes showcasing some fun and effective ways of using Claude."
+ },
+ "anthropics/knowledge-work-plugins": {
+  "language": "Python",
+  "lists": [
+   "skills-plugins"
+  ],
+  "narrow": [],
+  "node_id": "R_kgDOQ_-q4g",
+  "pushed": "2026-10-20T23:09:26Z",
+  "stars": 30806,
+  "why": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork"
  },
  "anthropics/prompt-eng-interactive-tutorial": {
   "language": "Jupyter Notebook",
@@ -1197,8 +1410,9 @@
    "learning"
   ],
   "narrow": [],
+  "node_id": "R_kgDOLo10PQ",
   "pushed": "2026-08-28T05:31:39Z",
-  "stars": 38194,
+  "stars": 38675,
   "why": "Anthropic's Interactive Prompt Engineering Tutorial"
  },
  "api-evangelist/google-appsheet": {
@@ -1207,7 +1421,8 @@
    "devtools"
   ],
   "narrow": [],
-  "pushed": "2026-09-12T18:21:02Z",
+  "node_id": "R_kgDORmdOvw",
+  "pushed": "2026-10-20T07:21:11Z",
   "stars": 1,
   "why": "Google AppSheet \u2014 independent third-party profile of a public API surface, by API Evangelist. The Google AppSheet API enables programmatic access to AppSheet ap"
  },
@@ -1218,8 +1433,9 @@
    "mobile-desktop"
   ],
   "narrow": [],
-  "pushed": "2026-09-15T16:36:18Z",
-  "stars": 49974,
+  "node_id": "R_kgDOOzc9Sg",
+  "pushed": "2026-10-19T22:04:31Z",
+  "stars": 50813,
   "why": "A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon."
  },
  "apple/password-manager-resources": {
@@ -1228,12 +1444,24 @@
    "privacy"
   ],
   "narrow": [],
-  "pushed": "2026-09-14T14:08:46Z",
-  "stars": 4848,
+  "node_id": "MDEwOlJlcG9zaXRvcnkyNDg1OTkzNjg=",
+  "pushed": "2026-10-16T02:04:49Z",
+  "stars": 4907,
   "why": "A place for creators and users of password managers to collaborate on resources to make password management better."
  },
+ "ards-project/ard-spec": {
+  "language": "Python",
+  "lists": [
+   "devtools"
+  ],
+  "narrow": [],
+  "node_id": "R_kgDOSiHzwA",
+  "pushed": "2026-10-12T03:00:29Z",
+  "stars": 482,
+  "why": "Agentic Resource Discovery (ARD) specification"
+ },
  "asgeirtj/system_prompts_leaks": {
-  "language": "JavaScript",
+  "language": "Python",
   "lists": [
    "automation",
    "design"
@@ -1241,8 +1469,9 @@
   "narrow": [
    "codex"
   ],
-  "pushed": "2026-09-15T16:46:47Z",
-  "stars": 67290,
+  "node_id": "R_kgDOOjqi0Q",
+  "pushed": "2026-10-19T20:12:22Z",
+  "stars": 69943,
   "why": "Extracted system prompts from Anthropic - Claude Fable 5.1, Opus 5, Claude Design, Claude Code. OpenAI - ChatGPT GPT-6-Astra, Codex. Google - Gemini 3.8 Flash, "
  },
  "authelia/authelia": {
@@ -1254,8 +1483,9 @@
    "finance"
   ],
   "narrow": [],
-  "pushed": "2026-09-16T06:59:55Z",
-  "stars": 28986,
+  "node_id": "MDEwOlJlcG9zaXRvcnk3NTc4NTI0MA==",
+  "pushed": "2026-10-20T23:39:42Z",
+  "stars": 29364,
   "why": "The Single Sign-On Multi-Factor portal for web apps. OpenID Certified\u2122 and Post-Quantum Cryptography Ready."
  },
  "avelikiy/great_cto": {
@@ -1265,8 +1495,9 @@
    "harness"
   ],
   "narrow": [],
-  "pushed": "2026-09-16T06:48:09Z",
-  "stars": 93,
+  "node_id": "R_kgDOR6Gi9g",
+  "pushed": "2026-10-20T15:38:25Z",
+  "stars": 104,
   "why": "You already have the agent. This is everything around it. great_cto runs Claude Code as a pipeline of 70 specialist agents \u2014 an independent model checks each st"
  },
  "awesome-opencode/awesome-opencode": {
@@ -1279,8 +1510,9 @@
   "narrow": [
    "opencode"
   ],
+  "node_id": "R_kgDOP0STIQ",
   "pushed": "2026-07-03T14:10:38Z",
-  "stars": 10250,
+  "stars": 10671,
   "why": "A curated list of awesome plugins, themes, agents, projects, and resources for https://opencode.ai"
  },
  "ayghri/i-have-adhd": {
@@ -1289,8 +1521,9 @@
    "skills-plugins"
   ],
   "narrow": [],
-  "pushed": "2026-09-15T20:56:47Z",
-  "stars": 46558,
+  "node_id": "R_kgDOScw2eQ",
+  "pushed": "2026-10-19T19:46:23Z",
+  "stars": 58038,
   "why": "A skill to stop your coding agent from burying the answer. ADHD-friendly output."
  },
  "basicmachines-co/basic-memory": {
@@ -1305,8 +1538,9 @@
    "obsidian",
    "local-first"
   ],
-  "pushed": "2026-09-16T03:44:02Z",
-  "stars": 3977,
+  "node_id": "R_kgDONYA3wQ",
+  "pushed": "2026-10-20T21:18:56Z",
+  "stars": 4295,
   "why": "AI conversations that actually remember. Never re-explain your project to your AI again. Join our Discord: https://discord.gg/tyvKNccgqN"
  },
  "beeper/beepy": {
@@ -1315,8 +1549,9 @@
    "mobile-desktop"
   ],
   "narrow": [],
+  "node_id": "R_kgDOH8DT0g",
   "pushed": "2023-08-30T06:50:59Z",
-  "stars": 647,
+  "stars": 648,
   "why": "Beepy"
  },
  "beeper/cli": {
@@ -1325,8 +1560,9 @@
    "devtools"
   ],
   "narrow": [],
-  "pushed": "2026-06-04T14:10:08Z",
-  "stars": 40,
+  "node_id": "R_kgDORAFDOg",
+  "pushed": "2026-09-25T17:23:49Z",
+  "stars": 53,
   "why": "One CLI for all your chats"
  },
  "benjaminezequiel/keep-the-rhythm": {
@@ -1338,8 +1574,9 @@
   "narrow": [
    "obsidian"
   ],
+  "node_id": "R_kgDONiWzLQ",
   "pushed": "2026-08-29T10:35:48Z",
-  "stars": 111,
+  "stars": 112,
   "why": "An Obsidian plugin to visualize how much you write with a heatmap."
  },
  "bergside/typeui": {
@@ -1352,9 +1589,22 @@
   "narrow": [
    "codex"
   ],
+  "node_id": "R_kgDORdJWRA",
   "pushed": "2026-07-04T10:11:58Z",
-  "stars": 1936,
+  "stars": 2103,
   "why": "Build better UI with AI"
+ },
+ "bethington/ghidra-mcp": {
+  "language": "Java",
+  "lists": [
+   "mcp-servers",
+   "privacy"
+  ],
+  "narrow": [],
+  "node_id": "R_kgDOPmzXZA",
+  "pushed": "2026-10-16T01:17:04Z",
+  "stars": 5821,
+  "why": "Ghidra MCP Server \u2014 200+ MCP tools for AI-powered reverse engineering. GUI plugin + headless server, lazy tool loading, convention enforcement, batch operations"
  },
  "bgarciamoura/obsidian-notion-bases-plugin": {
   "language": "TypeScript",
@@ -1365,8 +1615,9 @@
   "narrow": [
    "obsidian"
   ],
+  "node_id": "R_kgDORk5ypQ",
   "pushed": "2026-09-02T16:14:00Z",
-  "stars": 141,
+  "stars": 151,
   "why": "Turn any folder into a Notion-style database \u2014 7 views, 17 column types, formulas, relations, rollups, and subtasks. All stored in plain Markdown frontmatter."
  },
  "binhnguyennus/awesome-scalability": {
@@ -1377,8 +1628,9 @@
    "collections"
   ],
   "narrow": [],
+  "node_id": "MDEwOlJlcG9zaXRvcnkxMTU0Nzg4MjA=",
   "pushed": "2026-01-04T03:51:47Z",
-  "stars": 73984,
+  "stars": 74874,
   "why": "The Patterns of Scalable, Reliable, and Performant Large-Scale Systems"
  },
  "birobirobiro/awesome-shadcn-ui": {
@@ -1390,8 +1642,9 @@
   "narrow": [
    "shadcn"
   ],
-  "pushed": "2026-09-14T03:21:53Z",
-  "stars": 20508,
+  "node_id": "R_kgDOLOYCoQ",
+  "pushed": "2026-10-20T06:46:02Z",
+  "stars": 20669,
   "why": "A curated list of awesome things related to shadcn/ui."
  },
  "bitjaru/styleseed": {
@@ -1405,9 +1658,33 @@
    "codex",
    "shadcn"
   ],
-  "pushed": "2026-09-16T07:37:34Z",
-  "stars": 955,
+  "node_id": "R_kgDOR7qEXw",
+  "pushed": "2026-10-14T05:36:41Z",
+  "stars": 984,
   "why": "Open-source design-method engine for Claude Code, Codex & Cursor. 23 agent skills for fixed design judgment, multiple grammars, semantic palettes, reference com"
+ },
+ "bitwarden/agent-access": {
+  "language": "Rust",
+  "lists": [
+   "devtools",
+   "privacy"
+  ],
+  "narrow": [],
+  "node_id": "R_kgDOQrdS_g",
+  "pushed": "2026-10-20T16:04:52Z",
+  "stars": 178,
+  "why": "Agent Access is an open protocol, CLI tool, and SDK to provide agents with credentials without exposing their entire vault"
+ },
+ "bitwarden/ai-plugins": {
+  "language": "TypeScript",
+  "lists": [
+   "skills-plugins"
+  ],
+  "narrow": [],
+  "node_id": "R_kgDOQGqB-A",
+  "pushed": "2026-10-20T18:56:11Z",
+  "stars": 159,
+  "why": "AI plugin marketplace."
  },
  "bitwarden/clients": {
   "language": "TypeScript",
@@ -1415,8 +1692,9 @@
    "privacy"
   ],
   "narrow": [],
-  "pushed": "2026-09-16T09:14:26Z",
-  "stars": 13791,
+  "node_id": "MDEwOlJlcG9zaXRvcnk1MzUzODg5OQ==",
+  "pushed": "2026-10-20T23:57:59Z",
+  "stars": 14025,
   "why": "Bitwarden client apps (web, browser extension, desktop, and cli)."
  },
  "blacksmithgu/datacore": {
@@ -1427,8 +1705,9 @@
   "narrow": [
    "obsidian"
   ],
+  "node_id": "R_kgDOIrdkpw",
   "pushed": "2026-06-22T17:51:06Z",
-  "stars": 2236,
+  "stars": 2238,
   "why": "Work-in-progress successor to Dataview with a focus on UX and speed."
  },
  "blacksmithgu/obsidian-dataview": {
@@ -1440,8 +1719,9 @@
   "narrow": [
    "obsidian"
   ],
+  "node_id": "MDEwOlJlcG9zaXRvcnkzMjkyMDI3Mjc=",
   "pushed": "2025-11-17T20:51:35Z",
-  "stars": 9341,
+  "stars": 9402,
   "why": "A data index and query language over Markdown files, for https://obsidian.md/."
  },
  "blader/humanizer": {
@@ -1453,8 +1733,9 @@
   "narrow": [
    "codex"
   ],
-  "pushed": "2026-09-06T20:26:10Z",
-  "stars": 48887,
+  "node_id": "R_kgDOQ8AnQQ",
+  "pushed": "2026-10-16T19:12:03Z",
+  "stars": 58925,
   "why": "Agent skill that removes signs of AI-generated writing from text"
  },
  "block/buzz": {
@@ -1463,8 +1744,9 @@
    "harness"
   ],
   "narrow": [],
-  "pushed": "2026-09-16T09:41:20Z",
-  "stars": 33126,
+  "node_id": "R_kgDORgXb2g",
+  "pushed": "2026-10-21T01:03:51Z",
+  "stars": 36192,
   "why": "A hive mind communication platform"
  },
  "bmad-code-org/BMAD-METHOD": {
@@ -1473,8 +1755,9 @@
    "harness"
   ],
   "narrow": [],
-  "pushed": "2026-09-16T04:51:08Z",
-  "stars": 53076,
+  "node_id": "R_kgDOOY4eVg",
+  "pushed": "2026-10-20T03:24:19Z",
+  "stars": 54383,
   "why": "Breakthrough Method for Agile Ai Driven Development"
  },
  "borq168/radar-forge": {
@@ -1483,7 +1766,8 @@
    "automation"
   ],
   "narrow": [],
-  "pushed": "2026-08-20T00:46:18Z",
+  "node_id": "R_kgDOSKIqmA",
+  "pushed": "2026-10-01T08:10:16Z",
   "stars": 23,
   "why": "No upstream description."
  },
@@ -1496,8 +1780,9 @@
    "codex",
    "opencode"
   ],
-  "pushed": "2026-09-16T02:42:56Z",
-  "stars": 441,
+  "node_id": "R_kgDOQP_-VQ",
+  "pushed": "2026-10-20T23:57:51Z",
+  "stars": 450,
   "why": "The operations layer for agentic engineering \u2014 portable skills and contracts connecting intent, agents, software factories, and independent judgment."
  },
  "botiverse/agent-vault": {
@@ -1506,9 +1791,22 @@
    "privacy"
   ],
   "narrow": [],
+  "node_id": "R_kgDORTm9LQ",
   "pushed": "2026-02-19T13:28:47Z",
-  "stars": 438,
+  "stars": 443,
   "why": "Keep your secrets hidden from AI agents."
+ },
+ "browser-use/jev-ultrafast": {
+  "language": "Python",
+  "lists": [
+   "automation",
+   "models"
+  ],
+  "narrow": [],
+  "node_id": "R_kgDOUeBQeg",
+  "pushed": "2026-09-30T01:24:38Z",
+  "stars": 23342,
+  "why": "Fastest and cheapest web agent"
  },
  "browser-use/video-use": {
   "language": "Python",
@@ -1516,8 +1814,9 @@
    "design"
   ],
   "narrow": [],
-  "pushed": "2026-08-30T09:45:51Z",
-  "stars": 24950,
+  "node_id": "R_kgDOSAP_Zw",
+  "pushed": "2026-10-08T22:17:01Z",
+  "stars": 29430,
   "why": "Edit videos with coding agents"
  },
  "buildomator/buildomator": {
@@ -1530,8 +1829,9 @@
   "narrow": [
    "context-engineering"
   ],
-  "pushed": "2026-09-15T22:06:00Z",
-  "stars": 88,
+  "node_id": "R_kgDOR7WxHg",
+  "pushed": "2026-10-20T10:30:45Z",
+  "stars": 96,
   "why": "A structured plan/execute/verify coding workflow for Claude Code: atomic commits, MCP-backed project state, ~92% lower per-turn token overhead, cross-session me"
  },
  "bytedance/deer-flow": {
@@ -1545,8 +1845,9 @@
    "voice"
   ],
   "narrow": [],
-  "pushed": "2026-09-16T09:14:38Z",
-  "stars": 82522,
+  "node_id": "R_kgDOOlwd1Q",
+  "pushed": "2026-10-21T01:13:55Z",
+  "stars": 84212,
   "why": "An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message ga"
  },
  "caiovicentino/eoq-quantization": {
@@ -1555,6 +1856,7 @@
    "models"
   ],
   "narrow": [],
+  "node_id": "R_kgDORza-Xw",
   "pushed": "2026-09-04T00:18:30Z",
   "stars": 46,
   "why": "EOQ: Entropy-Optimal Quantization for LLMs. 11-41% smaller than GGUF Q4_K_M with near-FP16 perplexity."
@@ -1566,6 +1868,7 @@
    "models"
   ],
   "narrow": [],
+  "node_id": "R_kgDOR02lGQ",
   "pushed": "2026-04-13T19:16:57Z",
   "stars": 36,
   "why": "PolarEngine: vLLM plugin for PolarQuant quantized LLM inference \u2014 75% FP16 speed at 2.3x less VRAM"
@@ -1578,8 +1881,9 @@
    "finance"
   ],
   "narrow": [],
-  "pushed": "2026-09-16T02:48:50Z",
-  "stars": 674,
+  "node_id": "R_kgDOQTOk7g",
+  "pushed": "2026-09-20T16:04:03Z",
+  "stars": 716,
   "why": "\ud83e\udd16 AI-Powered MCP Server for Polymarket - Enable Claude to trade prediction markets with 45 tools, real-time monitoring, and enterprise-grade safety features"
  },
  "calesthio/OpenMontage": {
@@ -1591,8 +1895,9 @@
    "voice"
   ],
   "narrow": [],
-  "pushed": "2026-09-06T05:02:34Z",
-  "stars": 59436,
+  "node_id": "R_kgDORz_BDQ",
+  "pushed": "2026-10-16T15:07:33Z",
+  "stars": 70320,
   "why": "World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI c"
  },
  "caliber-ai-org/ai-setup": {
@@ -1605,8 +1910,9 @@
   "narrow": [
    "codex"
   ],
-  "pushed": "2026-07-26T12:08:51Z",
-  "stars": 1272,
+  "node_id": "R_kgDORjnhEw",
+  "pushed": "2026-09-24T08:29:46Z",
+  "stars": 1309,
   "why": "Continuously sync your AI setups with one command. Codebase tailor suited agent skills, MCPs and config files for Claude Code, Cursor, and Codex."
  },
  "calibrain/shelfmark": {
@@ -1615,8 +1921,9 @@
    "selfhost"
   ],
   "narrow": [],
-  "pushed": "2026-09-15T04:11:57Z",
-  "stars": 3896,
+  "node_id": "R_kgDONegUcg",
+  "pushed": "2026-10-20T06:33:55Z",
+  "stars": 4045,
   "why": "No upstream description."
  },
  "career-ops-hq/career-ops": {
@@ -1629,8 +1936,9 @@
    "codex",
    "opencode"
   ],
-  "pushed": "2026-09-16T04:55:37Z",
-  "stars": 71771,
+  "node_id": "R_kgDOR50T8g",
+  "pushed": "2026-10-20T20:20:20Z",
+  "stars": 75923,
   "why": "Open-source AI job search: scan job portals, evaluate listings into a structured A-H report with a global 1-5 score, tailor your CV, track applications \u2014 runs l"
  },
  "careerhackeralex/visualize": {
@@ -1640,8 +1948,9 @@
    "devtools"
   ],
   "narrow": [],
+  "node_id": "R_kgDORZPsQg",
   "pushed": "2026-03-06T09:01:08Z",
-  "stars": 227,
+  "stars": 243,
   "why": "Turn any idea into a beautiful HTML visualization \u2014 with one prompt. A Claude Code skill."
  },
  "cathrynlavery/diagram-design": {
@@ -1654,8 +1963,9 @@
   "narrow": [
    "codex"
   ],
-  "pushed": "2026-09-15T20:39:25Z",
-  "stars": 40360,
+  "node_id": "R_kgDOSEljpA",
+  "pushed": "2026-10-20T02:07:06Z",
+  "stars": 59002,
   "why": "38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop."
  },
  "ccusage/ccusage": {
@@ -1664,8 +1974,9 @@
    "devtools"
   ],
   "narrow": [],
-  "pushed": "2026-09-16T01:57:45Z",
-  "stars": 18576,
+  "node_id": "R_kgDOOyw9fQ",
+  "pushed": "2026-10-20T17:17:37Z",
+  "stars": 19100,
   "why": "npx ccusage"
  },
  "cephos-ai/deploykit": {
@@ -1676,6 +1987,7 @@
    "fde"
   ],
   "narrow": [],
+  "node_id": "R_kgDOTSqQYA",
   "pushed": "2026-07-30T22:34:26Z",
   "stars": 7,
   "why": "Agent-native, open-source deployment tooling for those who want to deploy better"
@@ -1688,8 +2000,9 @@
   "narrow": [
    "shadcn"
   ],
+  "node_id": "R_kgDONgXMlw",
   "pushed": "2025-02-10T21:26:26Z",
-  "stars": 570,
+  "stars": 577,
   "why": "React/shadcn full calendar"
  },
  "chenglou/pretext": {
@@ -1698,8 +2011,9 @@
    "devtools"
   ],
   "narrow": [],
-  "pushed": "2026-09-16T06:18:25Z",
-  "stars": 50370,
+  "node_id": "R_kgDORhFMww",
+  "pushed": "2026-10-15T17:09:24Z",
+  "stars": 50857,
   "why": "Fast, accurate & comprehensive text measurement & layout"
  },
  "chhoumann/quickadd": {
@@ -1710,8 +2024,9 @@
   "narrow": [
    "obsidian"
   ],
-  "pushed": "2026-09-14T13:01:28Z",
-  "stars": 2361,
+  "node_id": "MDEwOlJlcG9zaXRvcnkzNzUzODkyNjY=",
+  "pushed": "2026-10-19T12:55:48Z",
+  "stars": 2382,
   "why": "QuickAdd for Obsidian"
  },
  "christophe-garon/Linkedin-Post-Scraper": {
@@ -1720,8 +2035,9 @@
    "automation"
   ],
   "narrow": [],
+  "node_id": "MDEwOlJlcG9zaXRvcnkzMTQ0NDU1NTE=",
   "pushed": "2023-11-27T11:22:43Z",
-  "stars": 83,
+  "stars": 85,
   "why": "Scrapes post data from company pages"
  },
  "chrysb/alphaclaw": {
@@ -1734,8 +2050,9 @@
   "narrow": [
    "openclaw"
   ],
-  "pushed": "2026-09-10T16:14:15Z",
-  "stars": 1473,
+  "node_id": "R_kgDORYSokQ",
+  "pushed": "2026-10-16T21:31:17Z",
+  "stars": 1475,
   "why": "The ultimate setup harness for OpenClaw. Deploy in minutes. Stay running for months. No CLI required."
  },
  "cjpais/Handy": {
@@ -1745,8 +2062,9 @@
    "mobile-desktop"
   ],
   "narrow": [],
-  "pushed": "2026-09-15T05:29:10Z",
-  "stars": 31738,
+  "node_id": "R_kgDON4t-Ng",
+  "pushed": "2026-10-20T12:10:55Z",
+  "stars": 34224,
   "why": "A free, open source, and extensible speech-to-text application that works completely offline."
  },
  "cloudflare/agentic-inbox": {
@@ -1756,8 +2074,9 @@
    "selfhost"
   ],
   "narrow": [],
+  "node_id": "R_kgDOR-lJvg",
   "pushed": "2026-04-23T21:04:17Z",
-  "stars": 7680,
+  "stars": 8395,
   "why": "A self-hosted email client with an AI agent, running entirely on Cloudflare Workers"
  },
  "code-yeongyu/oh-my-openagent": {
@@ -1771,8 +2090,9 @@
    "codex",
    "opencode"
   ],
-  "pushed": "2026-09-16T08:53:16Z",
-  "stars": 69088,
+  "node_id": "R_kgDOQheEEQ",
+  "pushed": "2026-10-21T01:08:24Z",
+  "stars": 70233,
   "why": "OmO: Just type \"mass ulw\" keyword with your prompt. Now you are the master of graph engineering."
  },
  "codexu/note-gen": {
@@ -1788,9 +2108,25 @@
    "codex",
    "local-first"
   ],
-  "pushed": "2026-09-14T08:25:37Z",
-  "stars": 12809,
+  "node_id": "R_kgDOMfzuXw",
+  "pushed": "2026-10-19T10:42:34Z",
+  "stars": 12902,
   "why": "Capture first. Organize later. A local-first Markdown app that turns scattered records into clear notes with AI."
+ },
+ "coipond/coi": {
+  "language": "Go",
+  "lists": [
+   "selfhost",
+   "privacy"
+  ],
+  "narrow": [
+   "codex",
+   "opencode"
+  ],
+  "node_id": "R_kgDOQ1QaTA",
+  "pushed": "2026-10-20T15:55:12Z",
+  "stars": 757,
+  "why": "Give each AI agent its own isolated machine with root, Docker, and systemd. Active defense detects and stops threats automatically."
  },
  "creamlike1024/EasyLPAC": {
   "language": "Go",
@@ -1798,8 +2134,9 @@
    "design"
   ],
   "narrow": [],
+  "node_id": "R_kgDOLCeyHw",
   "pushed": "2026-08-23T11:27:28Z",
-  "stars": 753,
+  "stars": 774,
   "why": "lpac GUI Frontend"
  },
  "crynta/terax-ai": {
@@ -1810,8 +2147,9 @@
    "mobile-desktop"
   ],
   "narrow": [],
-  "pushed": "2026-09-14T14:43:48Z",
-  "stars": 9205,
+  "node_id": "R_kgDOSI5lEg",
+  "pushed": "2026-10-19T10:46:50Z",
+  "stars": 9325,
   "why": "Lightweight (7MB) Terminal-first AI-native dev workspace"
  },
  "cso1z/Feishu-MCP": {
@@ -1822,8 +2160,9 @@
    "devtools"
   ],
   "narrow": [],
-  "pushed": "2026-08-17T07:09:20Z",
-  "stars": 738,
+  "node_id": "R_kgDOOJcWiQ",
+  "pushed": "2026-10-17T12:19:46Z",
+  "stars": 740,
   "why": "Feishu / Lark \u98de\u4e66\u6587\u6863\u4e0e\u4efb\u52a1\u7ba1\u7406\u5de5\u5177\uff0c\u652f\u6301 MCP \u670d\u52a1\u5668\u548c CLI + Skill \u4e24\u79cd\u4f7f\u7528\u65b9\u5f0f\uff0c\u53ef\u65e0\u7f1d\u96c6\u6210 Cursor\u3001Claude Code\u3001Cline \u7b49 AI \u7f16\u7801\u5de5\u5177"
  },
  "czlonkowski/n8n-mcp": {
@@ -1835,8 +2174,9 @@
    "mobile-desktop"
   ],
   "narrow": [],
-  "pushed": "2026-09-14T10:13:47Z",
-  "stars": 22895,
+  "node_id": "R_kgDOO3qbaQ",
+  "pushed": "2026-10-19T10:07:26Z",
+  "stars": 23110,
   "why": "A MCP for Claude Desktop / Claude Code / Windsurf / Cursor to build n8n workflows for you"
  },
  "czlonkowski/n8n-skills": {
@@ -1846,8 +2186,9 @@
    "automation"
   ],
   "narrow": [],
-  "pushed": "2026-09-03T12:01:31Z",
-  "stars": 6239,
+  "node_id": "R_kgDOQFmuYA",
+  "pushed": "2026-10-15T21:35:32Z",
+  "stars": 6489,
   "why": "n8n skillset for Claude Code to build flawless n8n workflows"
  },
  "czottmann/obsidian-actions-uri": {
@@ -1859,8 +2200,9 @@
   "narrow": [
    "obsidian"
   ],
+  "node_id": "R_kgDOICHZZg",
   "pushed": "2026-05-29T18:14:13Z",
-  "stars": 203,
+  "stars": 206,
   "why": "A plugin for Obsidian (https://obsidian.md) that adds additional `x-callback-url` endpoints to the app for common actions \u2014 it's a clean, super-charged addition"
  },
  "dani-garcia/vaultwarden": {
@@ -1869,8 +2211,9 @@
    "selfhost"
   ],
   "narrow": [],
-  "pushed": "2026-09-13T14:43:47Z",
-  "stars": 67741,
+  "node_id": "MDEwOlJlcG9zaXRvcnkxMjE4OTg3MTc=",
+  "pushed": "2026-10-16T09:51:32Z",
+  "stars": 69364,
   "why": "Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs"
  },
  "danielpetho/fancy": {
@@ -1879,8 +2222,9 @@
    "design"
   ],
   "narrow": [],
+  "node_id": "R_kgDOMDytCg",
   "pushed": "2026-03-14T10:34:13Z",
-  "stars": 3136,
+  "stars": 3258,
   "why": "No upstream description."
  },
  "davehenke/rekordbox-mcp": {
@@ -1889,24 +2233,22 @@
    "mcp-servers"
   ],
   "narrow": [],
+  "node_id": "R_kgDOPefstg",
   "pushed": "2026-04-15T10:56:13Z",
-  "stars": 103,
+  "stars": 119,
   "why": "Open Source MCP for Rekordbox DJ"
  },
- "davidahmann/applied-ai-field-guide": {
-  "language": "JavaScript",
+ "davila7/claude-code-templates": {
+  "language": "Python",
   "lists": [
-   "devtools",
-   "automation",
-   "selfhost",
-   "privacy",
-   "learning",
-   "fde"
+   "skills-plugins",
+   "devtools"
   ],
   "narrow": [],
-  "pushed": "2026-09-15T19:29:53Z",
-  "stars": 108,
-  "why": "The Applied AI Field Guide: fieldwork, value, engineering, and operations for AI that works beyond the demo."
+  "node_id": "R_kgDOPGh7XA",
+  "pushed": "2026-10-20T20:41:47Z",
+  "stars": 32794,
+  "why": "CLI tool for configuring and monitoring Claude Code"
  },
  "debpalash/VoiceStudio": {
   "language": "Python",
@@ -1921,8 +2263,9 @@
   "narrow": [
    "local-first"
   ],
-  "pushed": "2026-09-16T07:45:36Z",
-  "stars": 31591,
+  "node_id": "R_kgDOR-gPKw",
+  "pushed": "2026-10-21T00:18:25Z",
+  "stars": 79019,
   "why": "VoiceStudio is the open-source, fully-local ElevenLabs alternative \u2014 voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation i"
  },
  "decolua/9router": {
@@ -1935,8 +2278,9 @@
   "narrow": [
    "codex"
   ],
-  "pushed": "2026-09-10T17:11:20Z",
-  "stars": 28989,
+  "node_id": "R_kgDOQzxPKw",
+  "pushed": "2026-10-15T14:53:12Z",
+  "stars": 31129,
   "why": "Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to FREE Claude/GPT/Gemini via 40+ providers. Auto-fallback, RTK -40% t"
  },
  "deer-flow/llm-space": {
@@ -1949,8 +2293,9 @@
   "narrow": [
    "local-first"
   ],
-  "pushed": "2026-09-13T08:39:55Z",
-  "stars": 1896,
+  "node_id": "R_kgDOTHOzFA",
+  "pushed": "2026-10-12T08:54:10Z",
+  "stars": 2039,
   "why": "A desktop app to prototype agent ideas, inspect every harness step, replay failures, and evaluate performance, all in one place. Local-first, cloud-ready for ma"
  },
  "dexloom/vibe-kanban-indie": {
@@ -1961,8 +2306,9 @@
   "narrow": [
    "codex"
   ],
+  "node_id": "R_kgDOScMfVg",
   "pushed": "2026-08-18T13:30:19Z",
-  "stars": 69,
+  "stars": 73,
   "why": "Get 10X more out of Claude Code, Codex or any coding agent"
  },
  "dgtlmoon/changedetection.io": {
@@ -1973,8 +2319,9 @@
    "writing"
   ],
   "narrow": [],
-  "pushed": "2026-09-15T07:43:43Z",
-  "stars": 34297,
+  "node_id": "MDEwOlJlcG9zaXRvcnkzMzM0ODMxMTY=",
+  "pushed": "2026-10-19T10:32:32Z",
+  "stars": 35155,
   "why": "Best and simplest tool for website change detection, web page monitoring, and website change alerts. Perfect for tracking content changes, price drops, restock "
  },
  "diegosouzapw/OmniRoute": {
@@ -1990,8 +2337,9 @@
    "codex",
    "opencode"
   ],
-  "pushed": "2026-09-16T09:18:38Z",
-  "stars": 66771,
+  "node_id": "R_kgDORPf6yg",
+  "pushed": "2026-10-21T01:20:17Z",
+  "stars": 78988,
   "why": "Never stop coding. Free MIT AI gateway: one endpoint, 352 providers (150+ free), 1200+ models Kimi, Claude, GPT, Gemini, GLM, DeepSeek, MiniMax. Works with Clau"
  },
  "digitalsamba/claude-code-video-toolkit": {
@@ -2005,8 +2353,9 @@
   "narrow": [
    "openclaw"
   ],
-  "pushed": "2026-09-14T15:47:39Z",
-  "stars": 2084,
+  "node_id": "R_kgDOQlwGwQ",
+  "pushed": "2026-10-19T16:19:44Z",
+  "stars": 2293,
   "why": "AI-native video production toolkit for Claude Code"
  },
  "dinoBOLT/Gemini-Watermark-Remover": {
@@ -2015,8 +2364,9 @@
    "privacy"
   ],
   "narrow": [],
+  "node_id": "R_kgDOQj6_vA",
   "pushed": "2025-12-11T19:36:26Z",
-  "stars": 370,
+  "stars": 369,
   "why": "An AI powered extension to get rid of the Gemini watermark"
  },
  "dlundqvist/xone": {
@@ -2025,8 +2375,9 @@
    "mobile-desktop"
   ],
   "narrow": [],
+  "node_id": "R_kgDOJZXREg",
   "pushed": "2026-03-24T21:26:15Z",
-  "stars": 971,
+  "stars": 991,
   "why": "Linux kernel driver for Xbox One and Xbox Series X|S accessories"
  },
  "dograh-hq/dograh": {
@@ -2038,8 +2389,9 @@
    "voice"
   ],
   "narrow": [],
-  "pushed": "2026-09-15T23:03:03Z",
-  "stars": 5665,
+  "node_id": "R_kgDOPsf3zQ",
+  "pushed": "2026-10-20T21:38:09Z",
+  "stars": 5916,
   "why": "Open source voice AI platform. Self-hosted alternative to Vapi and Retell. On Prem, BYOK across  Speech to Speech or LLM/STT/TTS, with a visual workflow builder"
  },
  "donnemartin/system-design-primer": {
@@ -2049,9 +2401,35 @@
    "learning"
   ],
   "narrow": [],
+  "node_id": "MDEwOlJlcG9zaXRvcnk4MzIyMjQ0MQ==",
   "pushed": "2026-09-15T01:10:09Z",
-  "stars": 370274,
+  "stars": 374931,
   "why": "Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards."
+ },
+ "dylan-buck/Hermes-iOS": {
+  "language": "Swift",
+  "lists": [
+   "mcp-servers",
+   "mobile-desktop"
+  ],
+  "narrow": [
+   "hermes"
+  ],
+  "node_id": "R_kgDOR2FZ-Q",
+  "pushed": "2026-10-02T19:00:23Z",
+  "stars": 107,
+  "why": "Hermes agents don't have iPhones. Now yours does. This app gives Hermes camera, mic, health data, location, and notifications. All available in one MCP tool."
+ },
+ "dylanljones/pyrekordbox": {
+  "language": "Python",
+  "lists": [
+   "voice"
+  ],
+  "narrow": [],
+  "node_id": "R_kgDOHJ0iHw",
+  "pushed": "2026-10-19T20:17:03Z",
+  "stars": 498,
+  "why": "Inofficial Python package for interacting with the database and other files (XML, ANLZ, MySettings) of Pioneers Rekordbox DJ software"
  },
  "e1n00r/tinyserve": {
   "language": "Python",
@@ -2060,8 +2438,9 @@
    "models"
   ],
   "narrow": [],
+  "node_id": "R_kgDORsIscA",
   "pushed": "2026-04-07T08:27:56Z",
-  "stars": 22,
+  "stars": 23,
   "why": "30 tok/s for 20B MoE on 8 GB VRAM. Flat throughput to 32K context. Native MXFP4 + GGUF Q4_K/Q5_K/Q6_K via ggml CUDA kernels \u2014 zero dequant. Expert offloading fo"
  },
  "earendil-works/pi": {
@@ -2071,8 +2450,9 @@
    "devtools"
   ],
   "narrow": [],
-  "pushed": "2026-09-16T09:15:17Z",
-  "stars": 106079,
+  "node_id": "R_kgDOPbFNkw",
+  "pushed": "2026-10-21T01:03:12Z",
+  "stars": 116718,
   "why": "AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI"
  },
  "ecano08/deployops-ai": {
@@ -2086,6 +2466,7 @@
    "fde"
   ],
   "narrow": [],
+  "node_id": "R_kgDOT6gBbA",
   "pushed": "2026-08-24T19:01:57Z",
   "stars": 2,
   "why": "AI-powered FDE platform for customer deployments, RAG, secure integrations, human-in-the-loop workflows, evaluations, and observability."
@@ -2099,9 +2480,24 @@
    "finance"
   ],
   "narrow": [],
-  "pushed": "2026-09-15T10:35:55Z",
-  "stars": 111,
+  "node_id": "R_kgDORiDTpg",
+  "pushed": "2026-10-20T10:34:57Z",
+  "stars": 120,
   "why": "Claude Code plugin that tracks token usage, identifies wasted context, and saves 30-50% on API costs. Heatmaps, ROI reports, budget alerts, efficiency scores, g"
+ },
+ "elie222/inbox-zero": {
+  "language": "TypeScript",
+  "lists": [
+   "automation",
+   "selfhost"
+  ],
+  "narrow": [
+   "shadcn"
+  ],
+  "node_id": "R_kgDOJ6x1uQ",
+  "pushed": "2026-10-21T01:02:48Z",
+  "stars": 12712,
+  "why": "The world's best AI personal assistant for email. Open source app to help you reach inbox zero fast."
  },
  "enescingoz/awesome-n8n-templates": {
   "language": null,
@@ -2113,8 +2509,9 @@
    "collections"
   ],
   "narrow": [],
+  "node_id": "R_kgDOOmy-aA",
   "pushed": "2026-09-12T13:00:32Z",
-  "stars": 25392,
+  "stars": 26034,
   "why": "280+ free n8n automation templates \u2014 ready-to-use workflows for Gmail, Telegram, Slack, Discord, WhatsApp, Google Drive, Notion, OpenAI, and more. AI agents, RA"
  },
  "ericlitman/open-pstack": {
@@ -2125,8 +2522,9 @@
   "narrow": [
    "codex"
   ],
-  "pushed": "2026-09-10T23:07:10Z",
-  "stars": 281,
+  "node_id": "R_kgDOUCtHVA",
+  "pushed": "2026-10-16T23:21:19Z",
+  "stars": 509,
   "why": "pstack for Claude Code and Codex, tracking Cursor pstack upstream"
  },
  "ericshwu/PolarQuant": {
@@ -2135,6 +2533,7 @@
    "models"
   ],
   "narrow": [],
+  "node_id": "R_kgDOOsl06g",
   "pushed": "2026-04-02T02:34:54Z",
   "stars": 46,
   "why": "Official Implementation For PolarQuant"
@@ -2151,8 +2550,9 @@
   "narrow": [
    "obsidian"
   ],
-  "pushed": "2026-09-15T23:08:35Z",
-  "stars": 4470,
+  "node_id": "R_kgDORvZ3aQ",
+  "pushed": "2026-10-20T21:59:01Z",
+  "stars": 4836,
   "why": "Persistent memory for Claude Code and 6 other CLI agents, stored as plain markdown in your Obsidian vault. Stop re-explaining your projects, decisions and peopl"
  },
  "every-app/open-seo": {
@@ -2164,8 +2564,9 @@
    "privacy"
   ],
   "narrow": [],
-  "pushed": "2026-09-12T03:16:08Z",
-  "stars": 18826,
+  "node_id": "R_kgDORanENg",
+  "pushed": "2026-10-20T06:48:09Z",
+  "stars": 24328,
   "why": "Open source alternative to Semrush and Ahrefs"
  },
  "excalidraw/excalidraw": {
@@ -2174,8 +2575,9 @@
    "design"
   ],
   "narrow": [],
-  "pushed": "2026-09-16T09:29:44Z",
-  "stars": 132096,
+  "node_id": "MDEwOlJlcG9zaXRvcnkyMzEyODM0NTI=",
+  "pushed": "2026-10-20T18:25:58Z",
+  "stars": 134285,
   "why": "Virtual whiteboard for sketching hand-drawn like diagrams"
  },
  "eyaltoledano/claude-task-master": {
@@ -2184,8 +2586,9 @@
    "skills-plugins"
   ],
   "narrow": [],
+  "node_id": "R_kgDOODKOXw",
   "pushed": "2026-04-28T13:27:12Z",
-  "stars": 28077,
+  "stars": 28257,
   "why": "An AI-powered task-management system you can drop into Cursor, Lovable, Windsurf, Roo, and others."
  },
  "f/prompts.chat": {
@@ -2197,8 +2600,9 @@
    "collections"
   ],
   "narrow": [],
-  "pushed": "2026-09-09T10:27:05Z",
-  "stars": 170451,
+  "node_id": "R_kgDOIj6G7A",
+  "pushed": "2026-10-20T06:48:50Z",
+  "stars": 173708,
   "why": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source \u2014 self-host for your organization with complete pr"
  },
  "farion1231/cc-switch": {
@@ -2215,8 +2619,9 @@
    "opencode",
    "hermes"
   ],
-  "pushed": "2026-09-15T04:33:49Z",
-  "stars": 133133,
+  "node_id": "R_kgDOPYG9FA",
+  "pushed": "2026-10-20T15:35:52Z",
+  "stars": 146825,
   "why": "A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode, OpenClaw, Grok Build & Hermes Agent. Only official website: ccswitch.io"
  },
  "farzaa/clicky": {
@@ -2225,8 +2630,9 @@
    "devtools"
   ],
   "narrow": [],
+  "node_id": "R_kgDOR7wBPw",
   "pushed": "2026-04-28T19:33:33Z",
-  "stars": 7563,
+  "stars": 7737,
   "why": "No upstream description."
  },
  "fastxyz/skill-optimizer": {
@@ -2238,8 +2644,9 @@
    "devtools"
   ],
   "narrow": [],
+  "node_id": "R_kgDORf8RHQ",
   "pushed": "2026-05-28T17:39:51Z",
-  "stars": 79,
+  "stars": 81,
   "why": "Benchmark, evaluate, and optimize skills to ensure reliable performance across all LLMs"
  },
  "firecrawl/firecrawl": {
@@ -2250,8 +2657,9 @@
    "writing"
   ],
   "narrow": [],
-  "pushed": "2026-09-16T08:28:29Z",
-  "stars": 181060,
+  "node_id": "R_kgDOLunVBg",
+  "pushed": "2026-10-21T01:27:12Z",
+  "stars": 193501,
   "why": "The context API to search, scrape, and interact with the web at scale. \ud83d\udd25"
  },
  "firefly-iii/firefly-iii": {
@@ -2262,8 +2670,9 @@
    "finance"
   ],
   "narrow": [],
-  "pushed": "2026-09-16T07:48:08Z",
-  "stars": 24639,
+  "node_id": "MDEwOlJlcG9zaXRvcnkyMTI5ODQ0Ng==",
+  "pushed": "2026-10-19T03:14:57Z",
+  "stars": 24952,
   "why": "Firefly III: a personal finances manager"
  },
  "first-tree-ai/first-tree-legacy": {
@@ -2277,6 +2686,7 @@
    "codex",
    "context-engineering"
   ],
+  "node_id": "R_kgDORwx-iQ",
   "pushed": "2026-05-21T10:36:50Z",
   "stars": 47,
   "why": "A Git-native knowledge layer for your team \u2014 and a set of tool suite that keeps it alive."
@@ -2290,8 +2700,9 @@
    "openclaw",
    "hermes"
   ],
-  "pushed": "2026-09-16T07:57:48Z",
-  "stars": 29980,
+  "node_id": "R_kgDOR6Xyow",
+  "pushed": "2026-10-21T01:31:59Z",
+  "stars": 31037,
   "why": "Garry's Opinionated OpenClaw/Hermes Agent Brain"
  },
  "gcampton/Agent-Pixels": {
@@ -2302,8 +2713,9 @@
    "privacy"
   ],
   "narrow": [],
+  "node_id": "R_kgDOSQlKcw",
   "pushed": "2026-06-08T19:15:26Z",
-  "stars": 106,
+  "stars": 131,
   "why": "Agent-Pixels is a paperclip plugin implementation of 'Pixel-Agents' the VSCode extension by Pablo De Lucca (7k Stars). The plugin features new \"Security Cameras"
  },
  "ggml-org/llama.cpp": {
@@ -2312,8 +2724,9 @@
    "models"
   ],
   "narrow": [],
-  "pushed": "2026-09-16T09:29:04Z",
-  "stars": 128395,
+  "node_id": "R_kgDOJH_K4A",
+  "pushed": "2026-10-21T01:26:48Z",
+  "stars": 131859,
   "why": "LLM inference in C/C++"
  },
  "ggml-org/whisper.cpp": {
@@ -2323,8 +2736,9 @@
    "voice"
   ],
   "narrow": [],
-  "pushed": "2026-09-15T10:42:26Z",
-  "stars": 53696,
+  "node_id": "R_kgDOIEMdig",
+  "pushed": "2026-10-19T14:14:00Z",
+  "stars": 54517,
   "why": "Port of OpenAI's Whisper model in C/C++"
  },
  "ghostfolio/ghostfolio": {
@@ -2334,8 +2748,9 @@
    "finance"
   ],
   "narrow": [],
-  "pushed": "2026-09-14T18:26:15Z",
-  "stars": 9300,
+  "node_id": "MDEwOlJlcG9zaXRvcnkzNTc2NzE4MjQ=",
+  "pushed": "2026-10-20T18:09:19Z",
+  "stars": 9546,
   "why": "Open Source Wealth Management Software. Angular + NestJS + Prisma + Nx + TypeScript \ud83e\udd0d"
  },
  "gitbrent/PptxGenJS": {
@@ -2345,8 +2760,9 @@
    "design"
   ],
   "narrow": [],
+  "node_id": "MDEwOlJlcG9zaXRvcnk1MjMyMjQyNQ==",
   "pushed": "2025-11-28T20:17:14Z",
-  "stars": 6170,
+  "stars": 6294,
   "why": "Build PowerPoint presentations with JavaScript. Works with Node, React, web browsers, and more."
  },
  "githnm/composoft": {
@@ -2356,6 +2772,7 @@
    "fde"
   ],
   "narrow": [],
+  "node_id": "R_kgDOSOwmSg",
   "pushed": "2026-05-05T09:13:38Z",
   "stars": 2,
   "why": "how AI-native companies can build composable per-customer software"
@@ -2368,8 +2785,9 @@
    "collections"
   ],
   "narrow": [],
-  "pushed": "2026-09-16T04:47:11Z",
-  "stars": 39061,
+  "node_id": "R_kgDOO6BQUQ",
+  "pushed": "2026-10-21T00:42:53Z",
+  "stars": 40234,
   "why": "Community-contributed instructions, agents, skills, and configurations to help you make the most of GitHub Copilot."
  },
  "glifocat/nanoclaw-docs": {
@@ -2379,7 +2797,8 @@
    "privacy"
   ],
   "narrow": [],
-  "pushed": "2026-09-09T22:43:55Z",
+  "node_id": "R_kgDORmbVqg",
+  "pushed": "2026-10-20T17:07:48Z",
   "stars": 3,
   "why": "Documentation for NanoClaw \u2014 a lightweight, secure AI assistant that runs Claude agents in isolated containers with multi-messenger support"
  },
@@ -2390,7 +2809,8 @@
    "mobile-desktop"
   ],
   "narrow": [],
-  "pushed": "2026-09-12T00:03:37Z",
+  "node_id": "R_kgDORWBJ0Q",
+  "pushed": "2026-09-20T11:23:06Z",
   "stars": 2,
   "why": "NanoClaw fork \u2014 customizations, upstream contributions and experimentation"
  },
@@ -2400,8 +2820,9 @@
    "devtools"
   ],
   "narrow": [],
-  "pushed": "2026-09-15T19:53:00Z",
-  "stars": 1722,
+  "node_id": "MDEwOlJlcG9zaXRvcnkxMjI3NTYzODM=",
+  "pushed": "2026-10-20T19:16:52Z",
+  "stars": 1731,
   "why": "A Matrix client written in Go."
  },
  "google-ai-edge/LiteRT-LM": {
@@ -2411,8 +2832,9 @@
    "selfhost"
   ],
   "narrow": [],
-  "pushed": "2026-09-16T09:16:22Z",
-  "stars": 6460,
+  "node_id": "R_kgDOOZnjNg",
+  "pushed": "2026-10-21T01:31:30Z",
+  "stars": 6701,
   "why": "LiteRT-LM is Google's production-ready, high-performance, open-source inference framework for deploying Large Language Models on edge devices."
  },
  "gouwsxander/slop-detector": {
@@ -2421,8 +2843,9 @@
    "writing"
   ],
   "narrow": [],
+  "node_id": "R_kgDOQE5pHA",
   "pushed": "2025-12-16T21:41:24Z",
-  "stars": 61,
+  "stars": 62,
   "why": "End-to-end implementation of an AI writing detector"
  },
  "grooverLab/fable": {
@@ -2437,8 +2860,9 @@
   "narrow": [
    "local-first"
   ],
+  "node_id": "R_kgDOS4xTEg",
   "pushed": "2026-08-10T12:31:43Z",
-  "stars": 12,
+  "stars": 18,
   "why": "High-fidelity transcript memory for Claude Code \u2014 index every session, recall byte-identical, search, prune, compose. Local-first, stdlib-only, MCP."
  },
  "gsd-build/get-shit-done": {
@@ -2449,8 +2873,9 @@
   "narrow": [
    "context-engineering"
   ],
+  "node_id": "R_kgDOQojJXw",
   "pushed": "2026-05-31T17:46:54Z",
-  "stars": 64527,
+  "stars": 64264,
   "why": "A light-weight and powerful meta-prompting, context engineering and spec-driven development system for Claude Code by T\u00c2CHES."
  },
  "gsd-build/gsd-2": {
@@ -2461,8 +2886,9 @@
   "narrow": [
    "context-engineering"
   ],
+  "node_id": "R_kgDORj5hbw",
   "pushed": "2026-05-22T23:08:59Z",
-  "stars": 7775,
+  "stars": 7768,
   "why": "A powerful meta-prompting, context engineering and spec-driven development system that enables agents to work for long periods of time autonomously without losi"
  },
  "gsxdsm/awesome-paperclip": {
@@ -2473,8 +2899,9 @@
    "collections"
   ],
   "narrow": [],
+  "node_id": "R_kgDORi9UmQ",
   "pushed": "2026-05-15T21:52:34Z",
-  "stars": 876,
+  "stars": 973,
   "why": "Collection of the best Paperclip plugins"
  },
  "gxjansen/claude-code-meter": {
@@ -2483,6 +2910,7 @@
    "mobile-desktop"
   ],
   "narrow": [],
+  "node_id": "R_kgDORQwTgQ",
   "pushed": "2026-05-19T13:42:05Z",
   "stars": 92,
   "why": "macOS desktop widget showing Claude Code usage limits (5-hour and 7-day windows) in real time. Built for Ubersicht."
@@ -2493,8 +2921,9 @@
    "models"
   ],
   "narrow": [],
+  "node_id": "R_kgDOKCVu7w",
   "pushed": "2025-06-19T00:00:06Z",
-  "stars": 122,
+  "stars": 124,
   "why": "No upstream description."
  },
  "haierkeys/fast-note-sync-service": {
@@ -2503,8 +2932,9 @@
    "selfhost"
   ],
   "narrow": [],
+  "node_id": "R_kgDOOKXDxQ",
   "pushed": "2026-08-14T17:15:46Z",
-  "stars": 2321,
+  "stars": 2452,
   "why": "High-performance, low-latency note synchronization, online management, and remote REST API service platform."
  },
  "hamr0/beeperbox": {
@@ -2515,8 +2945,9 @@
    "selfhost"
   ],
   "narrow": [],
-  "pushed": "2026-07-13T21:41:13Z",
-  "stars": 26,
+  "node_id": "R_kgDOSBQXVQ",
+  "pushed": "2026-09-30T20:10:47Z",
+  "stars": 30,
   "why": "Plug your AI agent into 50+ messengers (WhatsApp, iMessage, Signal, Telegram, Slack\u2026) through one MCP endpoint. Two modes: a self-contained Docker container (he"
  },
  "hasanyilmaz/operon": {
@@ -2529,8 +2960,9 @@
    "obsidian",
    "local-first"
   ],
-  "pushed": "2026-09-15T22:04:02Z",
-  "stars": 216,
+  "node_id": "R_kgDOSia0mw",
+  "pushed": "2026-10-20T16:10:52Z",
+  "stars": 262,
   "why": "Task management system for humans and agents in Obsidian."
  },
  "hcengineering/platform": {
@@ -2540,8 +2972,9 @@
    "writing"
   ],
   "narrow": [],
-  "pushed": "2026-08-27T13:24:38Z",
-  "stars": 27692,
+  "node_id": "MDEwOlJlcG9zaXRvcnkzOTIwNzMyNDM=",
+  "pushed": "2026-10-19T06:40:36Z",
+  "stars": 27945,
   "why": "Huly \u2014 All-in-One Project Management Platform (alternative to Linear, Jira, Slack, Notion, Motion)"
  },
  "hesreallyhim/awesome-claude-code": {
@@ -2553,8 +2986,9 @@
    "collections"
   ],
   "narrow": [],
-  "pushed": "2026-09-16T09:10:55Z",
-  "stars": 54143,
+  "node_id": "R_kgDOOcZjGQ",
+  "pushed": "2026-10-21T00:24:30Z",
+  "stars": 56119,
   "why": "A hand-picked collection of the finest of resources for the most awesome of agents, Claude Code, the undisputed champion of coding companions, from the unstoppa"
  },
  "hex/claude-sessions": {
@@ -2565,8 +2999,9 @@
    "mobile-desktop"
   ],
   "narrow": [],
-  "pushed": "2026-09-15T08:55:39Z",
-  "stars": 41,
+  "node_id": "R_kgDOQb1sFw",
+  "pushed": "2026-10-20T11:39:37Z",
+  "stars": 50,
   "why": "Session manager for Claude Code with automatic documentation and artifact tracking"
  },
  "heygen-com/hyperframes": {
@@ -2576,9 +3011,22 @@
    "devtools"
   ],
   "narrow": [],
-  "pushed": "2026-09-16T09:26:38Z",
-  "stars": 50533,
+  "node_id": "R_kgDORi26-Q",
+  "pushed": "2026-10-21T01:28:52Z",
+  "stars": 68528,
   "why": "Write HTML. Render video. Built for agents."
+ },
+ "home-assistant/core": {
+  "language": "Python",
+  "lists": [
+   "automation",
+   "selfhost"
+  ],
+  "narrow": [],
+  "node_id": "MDEwOlJlcG9zaXRvcnkxMjg4ODk5Mw==",
+  "pushed": "2026-10-21T00:35:41Z",
+  "stars": 91617,
+  "why": ":house_with_garden: Open source home automation that puts local control and privacy first."
  },
  "homeassistant-ai/ha-mcp": {
   "language": "Python",
@@ -2590,8 +3038,9 @@
    "collections"
   ],
   "narrow": [],
-  "pushed": "2026-09-16T00:06:07Z",
-  "stars": 4741,
+  "node_id": "R_kgDOPvq5vQ",
+  "pushed": "2026-10-20T22:52:45Z",
+  "stars": 5155,
   "why": "The Unofficial and Awesome Home Assistant MCP Server"
  },
  "howardpen9/hermes-gbrain-bridge": {
@@ -2607,8 +3056,9 @@
    "codex",
    "hermes"
   ],
+  "node_id": "R_kgDOR_rSug",
   "pushed": "2026-04-13T07:01:54Z",
-  "stars": 66,
+  "stars": 69,
   "why": "Convert Hermes / OpenClaw agent memory (JSONL sessions, MEMORY.md) to markdown for gBrain ingest"
  },
  "hudovisk/react-optimize": {
@@ -2617,12 +3067,13 @@
    "design"
   ],
   "narrow": [],
+  "node_id": "MDEwOlJlcG9zaXRvcnkxNTY5MDE4NDU=",
   "pushed": "2023-04-26T08:57:31Z",
   "stars": 189,
   "why": "ReactJS A/B testing with Google Optimize"
  },
  "huytieu/COG-second-brain": {
-  "language": "HTML",
+  "language": "Python",
   "lists": [
    "skills-plugins",
    "harness",
@@ -2634,9 +3085,22 @@
    "codex",
    "obsidian"
   ],
-  "pushed": "2026-09-14T08:14:01Z",
-  "stars": 1195,
+  "node_id": "R_kgDOQCsuiw",
+  "pushed": "2026-10-02T14:09:34Z",
+  "stars": 1305,
   "why": "Self-evolving second brain with 33 AI skills, 10 agents, and people CRM. Closed-loop harness: a V-model verification lifecycle where the worker never grades its"
+ },
+ "hypit-ai/hypit": {
+  "language": "TypeScript",
+  "lists": [
+   "automation",
+   "design"
+  ],
+  "narrow": [],
+  "node_id": "R_kgDOTne_vw",
+  "pushed": "2026-10-19T03:45:35Z",
+  "stars": 24310,
+  "why": "Clone any viral video with AI agents. Not just a script, the whole workflow: swap the face, the words, the B-roll, ship 100 variants in one command, and get you"
  },
  "ibelick/prompt-kit": {
   "language": "TypeScript",
@@ -2646,8 +3110,9 @@
   "narrow": [
    "shadcn"
   ],
-  "pushed": "2026-03-12T17:00:34Z",
-  "stars": 3074,
+  "node_id": "R_kgDON3U6DA",
+  "pushed": "2026-09-28T13:33:31Z",
+  "stars": 3127,
   "why": "Core building blocks for AI apps.  High-quality, accessible, and customizable components for AI interfaces."
  },
  "iconify/iconify": {
@@ -2657,8 +3122,9 @@
    "design"
   ],
   "narrow": [],
-  "pushed": "2026-09-15T23:31:26Z",
-  "stars": 6323,
+  "node_id": "MDEwOlJlcG9zaXRvcnk4MjgxOTg0NA==",
+  "pushed": "2026-10-20T10:24:17Z",
+  "stars": 6372,
   "why": "Universal icon framework. One syntax for FontAwesome, Material Design Icons, DashIcons, Feather Icons, EmojiOne, Noto Emoji and many other open source icon sets"
  },
  "iiroak/Kindle-Filler-Disk": {
@@ -2667,8 +3133,9 @@
    "mobile-desktop"
   ],
   "narrow": [],
+  "node_id": "R_kgDOOsPuiA",
   "pushed": "2026-07-08T01:58:15Z",
-  "stars": 448,
+  "stars": 490,
   "why": "No upstream description."
  },
  "ikawrakow/ik_llama.cpp": {
@@ -2677,8 +3144,9 @@
    "models"
   ],
   "narrow": [],
-  "pushed": "2026-09-16T06:18:22Z",
-  "stars": 3229,
+  "node_id": "R_kgDOMOvJbA",
+  "pushed": "2026-10-20T22:06:37Z",
+  "stars": 3315,
   "why": "llama.cpp fork with additional SOTA quants and improved performance"
  },
  "imMamdouhaboammar/chatgpt-codex-plugin-autopilot": {
@@ -2693,8 +3161,9 @@
   "narrow": [
    "codex"
   ],
+  "node_id": "R_kgDOTzd0GQ",
   "pushed": "2026-09-10T05:50:37Z",
-  "stars": 26,
+  "stars": 77,
   "why": "Self-hosting ChatGPT/Codex Plugin autopilot \u2014 copy-in, repo-owned. Converts agentic repos into validated, deterministically packaged Plugins."
  },
  "inbusiness23/fde-skill": {
@@ -2708,9 +3177,21 @@
   "narrow": [
    "codex"
   ],
+  "node_id": "R_kgDOTgLGFg",
   "pushed": "2026-07-22T12:33:09Z",
   "stars": 2,
   "why": "Privacy-safe forward-deployed engineering skills for Claude Code, Codex, and AGENTS.md-compatible agents"
+ },
+ "innovatorssoft/Baileys": {
+  "language": "JavaScript",
+  "lists": [
+   "automation"
+  ],
+  "narrow": [],
+  "node_id": "R_kgDOQYxH6g",
+  "pushed": "2026-10-20T04:43:57Z",
+  "stars": 55,
+  "why": "WhatsApp API Modification By Innovators Soft"
  },
  "iptv-org/iptv": {
   "language": "TypeScript",
@@ -2718,8 +3199,9 @@
    "collections"
   ],
   "narrow": [],
-  "pushed": "2026-09-16T07:13:38Z",
-  "stars": 138744,
+  "node_id": "MDEwOlJlcG9zaXRvcnkxNTc2MTY4ODA=",
+  "pushed": "2026-10-21T00:16:21Z",
+  "stars": 141718,
   "why": "Collection of publicly available IPTV channels from all over the world"
  },
  "jamesmurdza/awesome-ai-devtools": {
@@ -2728,8 +3210,9 @@
    "collections"
   ],
   "narrow": [],
+  "node_id": "R_kgDOKC7vxw",
   "pushed": "2026-08-27T15:25:27Z",
-  "stars": 3941,
+  "stars": 3984,
   "why": "Curated list of AI-powered developer tools."
  },
  "janeczku/calibre-web": {
@@ -2739,9 +3222,21 @@
    "mobile-desktop"
   ],
   "narrow": [],
-  "pushed": "2026-09-05T18:10:52Z",
-  "stars": 18185,
+  "node_id": "MDEwOlJlcG9zaXRvcnk0MDA4OTU3OA==",
+  "pushed": "2026-10-10T05:40:20Z",
+  "stars": 18425,
   "why": ":books: Web app for browsing, reading and downloading eBooks stored in a Calibre database"
+ },
+ "jaredpalmer/kev": {
+  "language": "Python",
+  "lists": [
+   "models"
+  ],
+  "narrow": [],
+  "node_id": "R_kgDOUfXmpg",
+  "pushed": "2026-10-20T14:23:59Z",
+  "stars": 9376,
+  "why": "Jev-like family of decision models built on top of Qwen3.5/3.8 you can train and run on your own"
  },
  "jaydubya818/AI-FDE-Agent": {
   "language": "Python",
@@ -2752,7 +3247,8 @@
    "fde"
   ],
   "narrow": [],
-  "pushed": "2026-09-14T18:13:33Z",
+  "node_id": "R_kgDOT4pubQ",
+  "pushed": "2026-10-18T17:04:05Z",
   "stars": 2,
   "why": "Forward-deployed AI engineering platform that turns enterprise evidence into verified workflows, implementation plans, and measurable automation."
  },
@@ -2763,6 +3259,7 @@
    "voice"
   ],
   "narrow": [],
+  "node_id": "R_kgDOREoKpA",
   "pushed": "2026-07-16T21:50:40Z",
   "stars": 19,
   "why": "An agent skill to extract and process transcripts from Apple Voice Memos into useful summaries."
@@ -2773,8 +3270,9 @@
    "writing"
   ],
   "narrow": [],
-  "pushed": "2026-09-16T06:18:25Z",
-  "stars": 46299,
+  "node_id": "MDEwOlJlcG9zaXRvcnk1NzE3NzA=",
+  "pushed": "2026-10-20T16:49:23Z",
+  "stars": 46656,
   "why": "Universal markup converter"
  },
  "jgraph/drawio": {
@@ -2783,8 +3281,9 @@
    "design"
   ],
   "narrow": [],
-  "pushed": "2026-09-11T04:13:07Z",
-  "stars": 8153,
+  "node_id": "MDEwOlJlcG9zaXRvcnk2NzUwODQyOA==",
+  "pushed": "2026-10-18T10:53:15Z",
+  "stars": 8897,
   "why": "draw.io is a JavaScript, client-side editor for general diagramming."
  },
  "jgraph/drawio-mcp": {
@@ -2793,8 +3292,9 @@
    "mcp-servers"
   ],
   "narrow": [],
-  "pushed": "2026-08-03T20:10:27Z",
-  "stars": 5434,
+  "node_id": "R_kgDORHBdKQ",
+  "pushed": "2026-10-20T17:13:22Z",
+  "stars": 5670,
   "why": "No upstream description."
  },
  "jmckinley/claude-code-resources": {
@@ -2805,6 +3305,7 @@
    "learning"
   ],
   "narrow": [],
+  "node_id": "R_kgDOQOBXbQ",
   "pushed": "2026-01-14T02:36:34Z",
   "stars": 176,
   "why": "Complete guide and automation for Claude Code"
@@ -2816,8 +3317,9 @@
    "automation"
   ],
   "narrow": [],
-  "pushed": "2026-09-14T23:04:35Z",
-  "stars": 11055,
+  "node_id": "R_kgDORBW6qA",
+  "pushed": "2026-10-16T20:27:20Z",
+  "stars": 11757,
   "why": "Stealth headless browser for AI agents \u2014 bypass Cloudflare, bot detection, and anti-scraping. Drop-in Puppeteer/Playwright replacement."
  },
  "jordanbaird/Ice": {
@@ -2827,8 +3329,9 @@
    "mobile-desktop"
   ],
   "narrow": [],
-  "pushed": "2025-09-20T20:28:17Z",
-  "stars": 29646,
+  "node_id": "R_kgDOKDkfRg",
+  "pushed": "2026-10-06T20:43:59Z",
+  "stars": 29829,
   "why": "Powerful menu bar manager for macOS"
  },
  "jordanrendric/claude-video-vision": {
@@ -2841,8 +3344,9 @@
    "voice"
   ],
   "narrow": [],
-  "pushed": "2026-08-07T02:28:19Z",
-  "stars": 1305,
+  "node_id": "R_kgDOR2NMxA",
+  "pushed": "2026-10-14T21:23:24Z",
+  "stars": 1391,
   "why": "Give Claude the ability to watch and understand videos \u2014 Claude Code plugin with frame extraction and multimodal audio analysis"
  },
  "jorgenclaw/ai-privacy-hardening-guide": {
@@ -2853,6 +3357,7 @@
    "learning"
   ],
   "narrow": [],
+  "node_id": "R_kgDORhV0iw",
   "pushed": "2026-03-11T15:22:45Z",
   "stars": 6,
   "why": "Comprehensive guide to AI-assisted privacy hardening - OSINT audits, data broker removal, de-Googling, and ongoing maintenance"
@@ -2869,8 +3374,9 @@
    "voice"
   ],
   "narrow": [],
-  "pushed": "2026-04-28T04:39:07Z",
-  "stars": 113,
+  "node_id": "R_kgDORsMwMw",
+  "pushed": "2026-10-19T19:37:30Z",
+  "stars": 137,
   "why": "Supercharged Claude Code Official Telegram plugin \u2014 threading, voice messages 2 ways, stickers, GIFs, reactions, MarkdownV2 & more. Drop-in replacement."
  },
  "k2-fsa/sherpa-onnx": {
@@ -2883,8 +3389,9 @@
    "mobile-desktop"
   ],
   "narrow": [],
-  "pushed": "2026-09-14T06:37:21Z",
-  "stars": 14796,
+  "node_id": "R_kgDOH6w6Yw",
+  "pushed": "2026-10-20T11:08:04Z",
+  "stars": 15407,
   "why": "Speech-to-text, text-to-speech, speaker diarization, speech enhancement, source separation, and VAD using next-gen Kaldi with onnxruntime without Internet conne"
  },
  "kalil0321/reverse-api-engineer": {
@@ -2895,21 +3402,10 @@
    "automation"
   ],
   "narrow": [],
-  "pushed": "2026-08-30T14:40:26Z",
-  "stars": 1158,
+  "node_id": "R_kgDOQtyyfg",
+  "pushed": "2026-09-23T21:15:42Z",
+  "stars": 1521,
   "why": "The agent that turns websites into APIs!"
- },
- "kentcdodds/kody": {
-  "language": "TypeScript",
-  "lists": [
-   "mcp-servers",
-   "memory",
-   "automation"
-  ],
-  "narrow": [],
-  "pushed": "2026-09-16T09:20:58Z",
-  "stars": 633,
-  "why": "\ud83d\udc28 Your assistant's home \u2014 the memory, keys, code, and automations your AI agent keeps, portable across every MCP host. Built on Cloudflare Workers."
  },
  "kepano/obsidian-skills": {
   "language": null,
@@ -2926,9 +3422,38 @@
    "obsidian",
    "hermes"
   ],
+  "node_id": "R_kgDOQyvZCA",
   "pushed": "2026-09-15T14:43:57Z",
-  "stars": 48414,
+  "stars": 49828,
   "why": "Agent skills for Obsidian. Teach your agent to use Obsidian CLI and open formats including Markdown, Bases, JSON Canvas."
+ },
+ "kerpopule/hermes-jev-skills": {
+  "language": "Python",
+  "lists": [
+   "skills-plugins",
+   "memory"
+  ],
+  "narrow": [
+   "codex",
+   "hermes"
+  ],
+  "node_id": "R_kgDOUgnmpw",
+  "pushed": "2026-10-20T10:24:56Z",
+  "stars": 1146,
+  "why": "Jev-powered model routing, memory, compaction, skill selection, computer and browser use for Hermes agents (also Claude Code and Codex)"
+ },
+ "kitze/skillbox": {
+  "language": "TypeScript",
+  "lists": [
+   "skills-plugins",
+   "mcp-servers",
+   "selfhost"
+  ],
+  "narrow": [],
+  "node_id": "R_kgDOUfHI4A",
+  "pushed": "2026-10-09T11:12:48Z",
+  "stars": 271,
+  "why": "Self-hosted, versioned skills library for AI agents. MCP, scoped clients, and optional Jev recommendations."
  },
  "knowledgetrailsai/OASIS": {
   "language": null,
@@ -2942,9 +3467,23 @@
   "narrow": [
    "context-engineering"
   ],
+  "node_id": "R_kgDOTp8H3Q",
   "pushed": "2026-09-06T03:12:49Z",
-  "stars": 2,
+  "stars": 3,
   "why": "No upstream description."
+ },
+ "kody-hq/kody": {
+  "language": "TypeScript",
+  "lists": [
+   "mcp-servers",
+   "memory",
+   "automation"
+  ],
+  "narrow": [],
+  "node_id": "R_kgDORq1joQ",
+  "pushed": "2026-10-21T00:47:57Z",
+  "stars": 831,
+  "why": "\ud83d\udc28 Your assistant's home \u2014 the memory, keys, code, and automations your AI agent keeps, portable across every MCP host. Built on Cloudflare Workers."
  },
  "koreader/koreader": {
   "language": "Lua",
@@ -2953,8 +3492,9 @@
    "mobile-desktop"
   ],
   "narrow": [],
-  "pushed": "2026-09-16T09:16:31Z",
-  "stars": 29726,
+  "node_id": "MDEwOlJlcG9zaXRvcnk4OTg2MjE3",
+  "pushed": "2026-10-20T20:12:34Z",
+  "stars": 30476,
   "why": "An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats, running on Cervantes, Kindle, Kobo, PocketBook and Android devices"
  },
  "kunchenguid/firstmate": {
@@ -2963,8 +3503,9 @@
    "harness"
   ],
   "narrow": [],
-  "pushed": "2026-09-16T02:21:22Z",
-  "stars": 6098,
+  "node_id": "R_kgDOS4Me3Q",
+  "pushed": "2026-10-20T22:18:21Z",
+  "stars": 8109,
   "why": "Talk to one agent. Ship with a crew."
  },
  "lalalune/outreachr": {
@@ -2975,8 +3516,9 @@
   "narrow": [
    "local-first"
   ],
-  "pushed": "2026-09-14T16:18:47Z",
-  "stars": 262,
+  "node_id": "R_kgDOTqACEw",
+  "pushed": "2026-10-19T16:35:31Z",
+  "stars": 287,
   "why": "Local-first, open-source investor fundraising CRM for founders"
  },
  "larksuite/cli": {
@@ -2987,8 +3529,9 @@
    "writing"
   ],
   "narrow": [],
-  "pushed": "2026-09-16T09:00:09Z",
-  "stars": 17229,
+  "node_id": "R_kgDORwLoCw",
+  "pushed": "2026-10-20T11:25:27Z",
+  "stars": 17747,
   "why": "The official Lark/\u98de\u4e66 CLI tool, maintained by the larksuite team \u2014 built for humans and AI Agents. Covers core business domains including Messenger, Docs, Base, "
  },
  "larksuite/lark-openapi-mcp": {
@@ -2997,8 +3540,9 @@
    "mcp-servers"
   ],
   "narrow": [],
+  "node_id": "R_kgDOOafZMA",
   "pushed": "2025-08-14T05:39:18Z",
-  "stars": 831,
+  "stars": 845,
   "why": "\u98de\u4e66/Lark\u5b98\u65b9 OpenAPI MCP"
  },
  "leoMirandaa/shadcn-landing-page": {
@@ -3009,8 +3553,9 @@
   "narrow": [
    "shadcn"
   ],
+  "node_id": "R_kgDOLNPdlA",
   "pushed": "2024-10-09T06:25:39Z",
-  "stars": 1983,
+  "stars": 1982,
   "why": "Free Landing page template using Shadcn, React, Typescript and Tailwind"
  },
  "liamcain/obsidian-calendar-plugin": {
@@ -3021,8 +3566,9 @@
   "narrow": [
    "obsidian"
   ],
+  "node_id": "MDEwOlJlcG9zaXRvcnkyODg4ODAyODk=",
   "pushed": "2024-06-22T12:57:09Z",
-  "stars": 2266,
+  "stars": 2281,
   "why": "Simple calendar widget for Obsidian."
  },
  "liamcain/obsidian-periodic-notes": {
@@ -3033,8 +3579,9 @@
   "narrow": [
    "obsidian"
   ],
+  "node_id": "MDEwOlJlcG9zaXRvcnkzMzU4NjE4MTg=",
   "pushed": "2024-08-23T22:56:22Z",
-  "stars": 1360,
+  "stars": 1362,
   "why": "Create/manage your daily, weekly, and monthly notes in Obsidian"
  },
  "lidge-jun/opencodex": {
@@ -3048,8 +3595,9 @@
    "codex",
    "opencode"
   ],
-  "pushed": "2026-09-16T07:59:14Z",
-  "stars": 14830,
+  "node_id": "R_kgDOS-0Giw",
+  "pushed": "2026-10-20T04:06:12Z",
+  "stars": 17693,
   "why": "Universal provider proxy for OpenAI Codex & Claude Code \u2014 use any LLM (Claude, Gemini, Grok, DeepSeek, Ollama\u2026) with Codex CLI, App, SDK, and Claude Code"
  },
  "livekit/agents": {
@@ -3059,8 +3607,9 @@
    "voice"
   ],
   "narrow": [],
-  "pushed": "2026-09-16T09:17:00Z",
-  "stars": 14222,
+  "node_id": "R_kgDOKiqzdw",
+  "pushed": "2026-10-20T21:19:56Z",
+  "stars": 14869,
   "why": "A framework for building realtime voice AI agents \ud83e\udd16\ud83c\udf99\ufe0f\ud83d\udcf9"
  },
  "logancyang/obsidian-copilot": {
@@ -3071,9 +3620,22 @@
   "narrow": [
    "obsidian"
   ],
-  "pushed": "2026-09-16T07:06:07Z",
-  "stars": 7722,
+  "node_id": "R_kgDOJQx8VA",
+  "pushed": "2026-10-20T23:30:14Z",
+  "stars": 7864,
   "why": "THE Copilot in Obsidian"
+ },
+ "longbridge/gpui-kit": {
+  "language": "Rust",
+  "lists": [
+   "design",
+   "mobile-desktop"
+  ],
+  "narrow": [],
+  "node_id": "R_kgDOMI8ZRg",
+  "pushed": "2026-10-20T14:10:21Z",
+  "stars": 18423,
+  "why": "Rust GUI components for building fantastic cross-platform desktop application by using GPUI."
  },
  "looplj/axonhub": {
   "language": "Go",
@@ -3084,9 +3646,21 @@
    "codex",
    "opencode"
   ],
-  "pushed": "2026-09-16T05:02:19Z",
-  "stars": 5238,
+  "node_id": "R_kgDOPsykrQ",
+  "pushed": "2026-10-20T22:56:55Z",
+  "stars": 5375,
   "why": "\u26a1\ufe0f Open-source AI Gateway \u2014 Use any SDK to call 100+ LLMs. Built-in failover, load balancing, cost control & end-to-end tracing."
+ },
+ "lovablelabs/oj": {
+  "language": "Rust",
+  "lists": [
+   "design"
+  ],
+  "narrow": [],
+  "node_id": "R_kgDOTyo56w",
+  "pushed": "2026-10-20T21:15:59Z",
+  "stars": 608,
+  "why": "Experimental next generation frontend tooling."
  },
  "lucasrosati/claude-code-memory-setup": {
   "language": "Python",
@@ -3096,8 +3670,9 @@
   "narrow": [
    "obsidian"
   ],
-  "pushed": "2026-09-11T03:56:03Z",
-  "stars": 985,
+  "node_id": "R_kgDOSA4Cuw",
+  "pushed": "2026-10-07T20:22:25Z",
+  "stars": 1038,
   "why": "Up to 71.5x fewer tokens per session on Claude Code with Obsidian + Graphify. Persistent memory, codebase knowledge graphs, and chat import pipeline. \ud83c\udde7\ud83c\uddf7 PT-BR i"
  },
  "lucaswalter/n8n-ai-automations": {
@@ -3108,8 +3683,9 @@
    "collections"
   ],
   "narrow": [],
+  "node_id": "R_kgDOOzW51Q",
   "pushed": "2026-03-02T20:09:37Z",
-  "stars": 1626,
+  "stars": 1668,
   "why": "Collection of n8n workflows, n8n templates, AI automations, and AI agents created for The Recap AI YouTube channel and the AI Automation Mastery free Skool comm"
  },
  "luongnv89/claude-howto": {
@@ -3119,8 +3695,9 @@
    "learning"
   ],
   "narrow": [],
-  "pushed": "2026-09-06T09:04:15Z",
-  "stars": 41512,
+  "node_id": "R_kgDOQRdSAA",
+  "pushed": "2026-10-20T12:23:14Z",
+  "stars": 42104,
   "why": "A visual, example-driven guide to Claude Code \u2014 from basic concepts to advanced agents, with copy-paste templates that bring immediate value."
  },
  "m-bain/whisperX": {
@@ -3129,8 +3706,9 @@
    "voice"
   ],
   "narrow": [],
-  "pushed": "2026-08-30T15:40:47Z",
-  "stars": 24061,
+  "node_id": "R_kgDOIlaj4w",
+  "pushed": "2026-10-18T16:53:35Z",
+  "stars": 24736,
   "why": "WhisperX:  Automatic Speech Recognition with Word-level Timestamps (& Diarization)"
  },
  "macro-inc/macro": {
@@ -3141,19 +3719,21 @@
    "writing"
   ],
   "narrow": [],
-  "pushed": "2026-09-16T01:13:40Z",
-  "stars": 4331,
+  "node_id": "R_kgDOQRzRpg",
+  "pushed": "2026-10-21T01:31:18Z",
+  "stars": 4785,
   "why": "Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM \u2014 @-linked together with shared AI memory."
  },
  "majiayu000/claude-skill-registry": {
-  "language": "HTML",
+  "language": "Python",
   "lists": [
    "skills-plugins",
    "devtools"
   ],
   "narrow": [],
-  "pushed": "2026-09-16T05:15:54Z",
-  "stars": 611,
+  "node_id": "R_kgDOQuNOjg",
+  "pushed": "2026-10-20T10:51:59Z",
+  "stars": 684,
   "why": "The most comprehensive Claude Code skills registry | Web Search: https://majiayu000.github.io/claude-skill-registry-core/"
  },
  "makenotion/notion-cookbook": {
@@ -3164,8 +3744,9 @@
    "learning"
   ],
   "narrow": [],
-  "pushed": "2026-09-15T22:20:26Z",
-  "stars": 210,
+  "node_id": "R_kgDOQPMR4w",
+  "pushed": "2026-10-20T03:49:33Z",
+  "stars": 218,
   "why": "Hub for getting started with Notion, including documentation, customizable scripts, and quick-start guides."
  },
  "makenotion/notion-mcp-server": {
@@ -3176,8 +3757,9 @@
    "writing"
   ],
   "narrow": [],
-  "pushed": "2026-09-13T02:06:37Z",
-  "stars": 4634,
+  "node_id": "R_kgDOOGVohw",
+  "pushed": "2026-09-20T23:09:02Z",
+  "stars": 4673,
   "why": "Official Notion MCP Server"
  },
  "makenotion/workers-template": {
@@ -3186,8 +3768,9 @@
    "writing"
   ],
   "narrow": [],
+  "node_id": "R_kgDORNXjiw",
   "pushed": "2026-09-11T14:27:02Z",
-  "stars": 442,
+  "stars": 439,
   "why": "Template for new Workers"
  },
  "manaflow-ai/cmux": {
@@ -3202,8 +3785,9 @@
    "codex",
    "opencode"
   ],
-  "pushed": "2026-09-16T09:40:00Z",
-  "stars": 27144,
+  "node_id": "R_kgDORDHQWA",
+  "pushed": "2026-10-21T01:32:31Z",
+  "stars": 28307,
   "why": "Open source Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents. Built for multitasking, organization, and programmability."
  },
  "marchoag/Claude-Code-Setup-Wizard-MD": {
@@ -3214,8 +3798,9 @@
   "narrow": [
    "codex"
   ],
+  "node_id": "R_kgDOPkuCFQ",
   "pushed": "2026-06-07T19:11:25Z",
-  "stars": 68,
+  "stars": 70,
   "why": "Easily start and manage your Claude (and Codex!) projects, including a timer!"
  },
  "marcus-crane/october": {
@@ -3226,8 +3811,9 @@
    "mobile-desktop"
   ],
   "narrow": [],
+  "node_id": "MDEwOlJlcG9zaXRvcnkzNjI2ODkxMzI=",
   "pushed": "2025-09-29T07:44:27Z",
-  "stars": 241,
+  "stars": 243,
   "why": "A simple GUI for retrieving Kobo highlights and syncing them with Readwise"
  },
  "mattpocock/skills": {
@@ -3236,8 +3822,9 @@
    "skills-plugins"
   ],
   "narrow": [],
-  "pushed": "2026-09-15T14:29:06Z",
-  "stars": 263186,
+  "node_id": "R_kgDORHkddg",
+  "pushed": "2026-10-19T15:52:15Z",
+  "stars": 298710,
   "why": "Skills for Real Engineers. Straight from my .agents directory."
  },
  "maubot/maubot": {
@@ -3247,8 +3834,9 @@
    "automation"
   ],
   "narrow": [],
+  "node_id": "MDEwOlJlcG9zaXRvcnkxMzY3OTkzMTI=",
   "pushed": "2026-07-09T08:44:30Z",
-  "stars": 893,
+  "stars": 903,
   "why": "A plugin-based Matrix bot system."
  },
  "max-sixty/worktrunk": {
@@ -3261,8 +3849,9 @@
   "narrow": [
    "codex"
   ],
-  "pushed": "2026-09-16T08:30:34Z",
-  "stars": 7878,
+  "node_id": "R_kgDOQEkLnw",
+  "pushed": "2026-10-21T01:23:49Z",
+  "stars": 9341,
   "why": "Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows"
  },
  "mbailey/voicemode": {
@@ -3273,8 +3862,9 @@
    "voice"
   ],
   "narrow": [],
-  "pushed": "2026-09-15T03:41:01Z",
-  "stars": 1366,
+  "node_id": "R_kgDOO4MTNQ",
+  "pushed": "2026-10-17T02:30:40Z",
+  "stars": 1410,
   "why": "Natural voice conversations with Claude Code"
  },
  "mem0ai/mem0": {
@@ -3283,8 +3873,9 @@
    "memory"
   ],
   "narrow": [],
-  "pushed": "2026-09-15T21:19:16Z",
-  "stars": 65388,
+  "node_id": "R_kgDOJxtHSw",
+  "pushed": "2026-10-21T01:16:37Z",
+  "stars": 67542,
   "why": "The Memory Layer for AI Agents - Drop-in memory infrastructure for AI agents and apps. Context that persists. Built for production."
  },
  "memovai/openfde": {
@@ -3293,23 +3884,34 @@
    "fde"
   ],
   "narrow": [],
+  "node_id": "R_kgDOTZRu2w",
   "pushed": "2026-09-11T09:34:31Z",
-  "stars": 42,
+  "stars": 56,
   "why": "AI workspace for AI FDEs. Deliver AI solutions 100x faster."
  },
- "mensfeld/code-on-incus": {
-  "language": "Go",
+ "microsoft/CopilotStudioSamples": {
+  "language": "TypeScript",
   "lists": [
-   "selfhost",
-   "privacy"
+   "automation",
+   "learning"
   ],
-  "narrow": [
-   "codex",
-   "opencode"
+  "narrow": [],
+  "node_id": "MDEwOlJlcG9zaXRvcnkyMTgxNDcwOTk=",
+  "pushed": "2026-10-20T11:32:31Z",
+  "stars": 807,
+  "why": "No upstream description."
+ },
+ "microsoft/Power-CAT-Copilot-Studio-Kit": {
+  "language": "TypeScript",
+  "lists": [
+   "devtools",
+   "automation"
   ],
-  "pushed": "2026-09-15T18:55:39Z",
-  "stars": 706,
-  "why": "Give each AI agent its own isolated machine with root, Docker, and systemd. Active defense detects and stops threats automatically."
+  "narrow": [],
+  "node_id": "R_kgDOLzITqQ",
+  "pushed": "2026-10-15T07:34:34Z",
+  "stars": 470,
+  "why": "No upstream description."
  },
  "microsoft/markitdown": {
   "language": "Python",
@@ -3317,9 +3919,22 @@
    "writing"
   ],
   "narrow": [],
-  "pushed": "2026-09-16T00:16:34Z",
-  "stars": 184607,
+  "node_id": "R_kgDONO810w",
+  "pushed": "2026-10-20T23:32:33Z",
+  "stars": 191316,
   "why": "Python tool for converting files and office documents to Markdown."
+ },
+ "microsoft/powerplatform": {
+  "language": null,
+  "lists": [
+   "devtools",
+   "automation"
+  ],
+  "narrow": [],
+  "node_id": "R_kgDOMNMrOw",
+  "pushed": "2025-01-27T23:13:52Z",
+  "stars": 115,
+  "why": "The official repository for Power Platform tools and resources."
  },
  "microsoft/skills-for-copilot-studio": {
   "language": "JavaScript",
@@ -3328,8 +3943,9 @@
    "devtools"
   ],
   "narrow": [],
-  "pushed": "2026-09-11T20:45:00Z",
-  "stars": 447,
+  "node_id": "R_kgDOQ5Mh0Q",
+  "pushed": "2026-10-15T09:05:40Z",
+  "stars": 474,
   "why": "A skill for AI-coding tools to build and edit Microsoft Copilot Studio agents as YAML \u2014 with schema validation, templates, and AI-powered skills. Suited for Cla"
  },
  "mindfold-ai/Trellis": {
@@ -3341,9 +3957,34 @@
   "narrow": [
    "codex"
   ],
-  "pushed": "2026-09-11T18:03:19Z",
-  "stars": 14664,
+  "node_id": "R_kgDORBf_rw",
+  "pushed": "2026-09-29T12:35:32Z",
+  "stars": 14990,
   "why": "The best agent harness."
+ },
+ "mizorewww/laya-coreml": {
+  "language": "Python",
+  "lists": [
+   "models",
+   "mobile-desktop"
+  ],
+  "narrow": [],
+  "node_id": "R_kgDOUh3xfQ",
+  "pushed": "2026-10-20T08:21:34Z",
+  "stars": 1591,
+  "why": "Local Laya typed decisions on Apple Core ML and Neural Engine. Validated ports, ~5 ms short decisions on M3 Max, reproducible speed and energy benchmarks."
+ },
+ "mizorewww/laya-mlx": {
+  "language": "Python",
+  "lists": [
+   "models",
+   "mobile-desktop"
+  ],
+  "narrow": [],
+  "node_id": "R_kgDOUhaUgA",
+  "pushed": "2026-10-20T08:21:35Z",
+  "stars": 6989,
+  "why": "Native MLX runtime for Laya typed decision models \u2014 7\u201314 ms short decisions on M3 Max. No text generation, PyTorch, or cloud API."
  },
  "mksglu/context-mode": {
   "language": "TypeScript",
@@ -3359,8 +4000,9 @@
    "codex",
    "opencode"
   ],
-  "pushed": "2026-09-15T18:04:54Z",
-  "stars": 23150,
+  "node_id": "R_kgDORWiFDA",
+  "pushed": "2026-10-21T01:32:03Z",
+  "stars": 31370,
   "why": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and   enforces routing across 17 platforms via"
  },
  "mobile-shell/mosh": {
@@ -3369,8 +4011,9 @@
    "devtools"
   ],
   "narrow": [],
+  "node_id": "MDEwOlJlcG9zaXRvcnkxMjM0Nzgz",
   "pushed": "2026-03-22T20:20:13Z",
-  "stars": 14495,
+  "stars": 14580,
   "why": "Mobile Shell"
  },
  "modelscope/3D-Speaker": {
@@ -3379,8 +4022,9 @@
    "voice"
   ],
   "narrow": [],
+  "node_id": "R_kgDOJF04lA",
   "pushed": "2025-12-08T07:20:17Z",
-  "stars": 3139,
+  "stars": 3187,
   "why": "A Repository for Single- and Multi-modal Speaker Verification, Speaker Recognition and Speaker Diarization"
  },
  "modelscope/FunASR": {
@@ -3393,8 +4037,9 @@
    "voice"
   ],
   "narrow": [],
-  "pushed": "2026-09-16T04:55:18Z",
-  "stars": 20364,
+  "node_id": "R_kgDOIfjisw",
+  "pushed": "2026-10-20T15:48:57Z",
+  "stars": 20770,
   "why": "Open-source speech recognition toolkit for training, inference, streaming ASR, VAD, punctuation, speaker diarization pipelines, and OpenAI-compatible/MCP servin"
  },
  "mohankumarpaluru/oracle-freetier-instance-creation": {
@@ -3403,9 +4048,35 @@
    "selfhost"
   ],
   "narrow": [],
+  "node_id": "R_kgDOK3VnOA",
   "pushed": "2026-08-23T17:00:29Z",
-  "stars": 538,
+  "stars": 554,
   "why": "A script to create free instance"
+ },
+ "monteduro/killmyidea": {
+  "language": "TypeScript",
+  "lists": [
+   "finance"
+  ],
+  "narrow": [],
+  "node_id": "R_kgDOUepDsw",
+  "pushed": "2026-10-17T14:16:09Z",
+  "stars": 267,
+  "why": "Describe your startup idea. Jev decides: kill it, fix it or ship it."
+ },
+ "morluto/rea": {
+  "language": "TypeScript",
+  "lists": [
+   "devtools",
+   "privacy"
+  ],
+  "narrow": [
+   "codex"
+  ],
+  "node_id": "R_kgDOSB6hVQ",
+  "pushed": "2026-10-21T00:19:03Z",
+  "stars": 348330,
+  "why": "Reverse engineer anything with agents, from app behavior down to native binaries."
  },
  "mostlygeek/llama-swap": {
   "language": "Go",
@@ -3414,8 +4085,9 @@
    "selfhost"
   ],
   "narrow": [],
-  "pushed": "2026-09-15T08:18:11Z",
-  "stars": 5672,
+  "node_id": "R_kgDOM7P8-A",
+  "pushed": "2026-10-20T11:23:32Z",
+  "stars": 6031,
   "why": "Reliable model swapping for any local OpenAI/Anthropic compatible server - llama.cpp, vllm, etc"
  },
  "mrgoonie/claudekit-skills": {
@@ -3424,8 +4096,9 @@
    "skills-plugins"
   ],
   "narrow": [],
+  "node_id": "R_kgDOQHiX5g",
   "pushed": "2026-04-03T06:19:25Z",
-  "stars": 2215,
+  "stars": 2225,
   "why": "All powerful skills of ClaudeKit.cc!"
  },
  "msitarzewski/agency-agents": {
@@ -3434,8 +4107,9 @@
    "design"
   ],
   "narrow": [],
-  "pushed": "2026-09-12T16:57:21Z",
-  "stars": 152719,
+  "node_id": "R_kgDOQBjiAQ",
+  "pushed": "2026-10-19T16:48:24Z",
+  "stars": 162378,
   "why": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specializ"
  },
  "multica-ai/andrej-karpathy-skills": {
@@ -3444,9 +4118,22 @@
    "skills-plugins"
   ],
   "narrow": [],
+  "node_id": "R_kgDORCCMkQ",
   "pushed": "2026-04-20T10:05:04Z",
-  "stars": 213303,
+  "stars": 221540,
   "why": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls."
+ },
+ "multica-ai/multica": {
+  "language": "Go",
+  "lists": [
+   "harness",
+   "selfhost"
+  ],
+  "narrow": [],
+  "node_id": "R_kgDOQ5MB9g",
+  "pushed": "2026-10-20T11:09:13Z",
+  "stars": 53327,
+  "why": "Make humans and AI agents work as one team \u2014 open-source and self-hostable."
  },
  "mvanhorn/agentcookie": {
   "language": "Go",
@@ -3461,8 +4148,9 @@
    "openclaw",
    "hermes"
   ],
-  "pushed": "2026-09-14T14:52:52Z",
-  "stars": 832,
+  "node_id": "R_kgDOSfdP8g",
+  "pushed": "2026-10-15T14:25:01Z",
+  "stars": 856,
   "why": "Your agent runs on a Mac that isn't your daily driver. agentcookie keeps its sessions in sync with the Mac you actually browse on, continuously, encrypted over "
  },
  "mvanhorn/cli-printing-press": {
@@ -3472,8 +4160,9 @@
    "design"
   ],
   "narrow": [],
-  "pushed": "2026-09-16T08:53:15Z",
-  "stars": 4700,
+  "node_id": "R_kgDORunh1g",
+  "pushed": "2026-10-20T16:14:23Z",
+  "stars": 4839,
   "why": "Every API has a secret identity. This finds it, absorbs every feature from every competing tool, then builds the GOAT CLI \u2014 designed for AI agents first, with S"
  },
  "mvanhorn/last30days-skill": {
@@ -3484,8 +4173,9 @@
   "narrow": [
    "openclaw"
   ],
-  "pushed": "2026-09-15T14:28:22Z",
-  "stars": 62119,
+  "node_id": "R_kgDOQ__jdA",
+  "pushed": "2026-10-20T16:41:35Z",
+  "stars": 64881,
   "why": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary"
  },
  "mvanhorn/paperclip-plugin-acp": {
@@ -3497,8 +4187,9 @@
   "narrow": [
    "codex"
   ],
-  "pushed": "2026-09-10T03:56:51Z",
-  "stars": 70,
+  "node_id": "R_kgDORqh5Ig",
+  "pushed": "2026-10-18T06:01:41Z",
+  "stars": 81,
   "why": "ACP (Agent Client Protocol) runtime plugin for Paperclip - run Claude Code, Codex, and Gemini CLI from any chat platform"
  },
  "mvanhorn/paperclip-plugin-telegram": {
@@ -3509,8 +4200,9 @@
    "automation"
   ],
   "narrow": [],
-  "pushed": "2026-09-10T02:04:06Z",
-  "stars": 93,
+  "node_id": "R_kgDORpDNDg",
+  "pushed": "2026-10-18T05:39:40Z",
+  "stars": 102,
   "why": "Bidirectional Telegram bot plugin for Paperclip - push notifications, bot commands, inline approve/reject buttons, reply routing"
  },
  "mvanhorn/printing-press-library": {
@@ -3519,8 +4211,9 @@
    "devtools"
   ],
   "narrow": [],
-  "pushed": "2026-09-16T09:14:01Z",
-  "stars": 2018,
+  "node_id": "R_kgDORyzTrA",
+  "pushed": "2026-10-20T08:55:32Z",
+  "stars": 2071,
   "why": "Official library of CLIs generated by the CLI Printing Press. Endorsed, tested, and community-contributed."
  },
  "nailuoGG/anki-mcp-server": {
@@ -3532,8 +4225,9 @@
    "design"
   ],
   "narrow": [],
-  "pushed": "2026-07-21T03:33:59Z",
-  "stars": 252,
+  "node_id": "R_kgDON-do4Q",
+  "pushed": "2026-10-20T05:19:59Z",
+  "stars": 253,
   "why": "MCP server for Anki via AnkiConnect"
  },
  "nalexn/ViewInspector": {
@@ -3542,8 +4236,9 @@
    "devtools"
   ],
   "narrow": [],
-  "pushed": "2026-09-13T08:02:40Z",
-  "stars": 2631,
+  "node_id": "MDEwOlJlcG9zaXRvcnkyMjIxMDIyNTM=",
+  "pushed": "2026-10-15T14:51:27Z",
+  "stars": 2637,
   "why": "Runtime introspection and unit testing of SwiftUI views"
  },
  "nanocoai/nanoclaw": {
@@ -3557,8 +4252,9 @@
   "narrow": [
    "openclaw"
   ],
-  "pushed": "2026-09-16T09:23:20Z",
-  "stars": 30780,
+  "node_id": "R_kgDORFnVqQ",
+  "pushed": "2026-10-20T22:01:43Z",
+  "stars": 30980,
   "why": "A lightweight alternative to OpenClaw that runs in containers for security. Connects to WhatsApp, Telegram, Slack, Discord, Gmail and other messaging apps,, has"
  },
  "nashsu/llm_wiki": {
@@ -3569,8 +4265,9 @@
    "mobile-desktop"
   ],
   "narrow": [],
-  "pushed": "2026-08-25T06:42:02Z",
-  "stars": 19613,
+  "node_id": "R_kgDOR9A4kA",
+  "pushed": "2026-09-28T01:43:23Z",
+  "stars": 20834,
   "why": "LLM Wiki is a cross-platform desktop application that turns your documents into an organized, interlinked knowledge base \u2014 automatically. Instead of traditional"
  },
  "nesquena/hermes-webui": {
@@ -3581,8 +4278,9 @@
   "narrow": [
    "hermes"
   ],
-  "pushed": "2026-09-16T09:40:40Z",
-  "stars": 18381,
+  "node_id": "R_kgDOR1LuPA",
+  "pushed": "2026-10-21T01:24:12Z",
+  "stars": 19065,
   "why": "Hermes WebUI: The best way to use Hermes Agent from the web or from your phone!"
  },
  "nexu-io/open-design": {
@@ -3601,19 +4299,21 @@
    "hermes",
    "local-first"
   ],
-  "pushed": "2026-09-16T09:35:09Z",
-  "stars": 96462,
+  "node_id": "R_kgDOSOgY8g",
+  "pushed": "2026-10-21T01:24:56Z",
+  "stars": 102818,
   "why": "\ud83c\udfa8 Best DeepSeek Harness Design Plugin. The open-source Claude Design alternative. \ud83d\udda5\ufe0f Local-first desktop app. \ud83d\uddbc\ufe0f Your coding agent becomes the design engine: pr"
  },
- "nickallevato/paperclip-plica": {
+ "nickallevato/paperclip-tickler": {
   "language": "TypeScript",
   "lists": [
    "skills-plugins",
    "devtools"
   ],
   "narrow": [],
-  "pushed": "2026-09-13T09:34:08Z",
-  "stars": 3,
+  "node_id": "R_kgDOUO1XyA",
+  "pushed": "2026-10-20T10:01:04Z",
+  "stars": 14,
   "why": "Plica \u2014 cross-company Queue + Board HUD plugin for Paperclip"
  },
  "nspady/google-calendar-mcp": {
@@ -3622,8 +4322,9 @@
    "mcp-servers"
   ],
   "narrow": [],
-  "pushed": "2026-09-07T23:36:34Z",
-  "stars": 1189,
+  "node_id": "R_kgDONducEA",
+  "pushed": "2026-10-13T23:50:47Z",
+  "stars": 1201,
   "why": "MCP integration for Google Calendar to manage events."
  },
  "o-gi/claude-code-commands": {
@@ -3632,8 +4333,9 @@
    "skills-plugins"
   ],
   "narrow": [],
+  "node_id": "R_kgDOO85W4A",
   "pushed": "2025-06-23T21:46:39Z",
-  "stars": 50,
+  "stars": 49,
   "why": "No upstream description."
  },
  "obra/superpowers": {
@@ -3642,8 +4344,9 @@
    "skills-plugins"
   ],
   "narrow": [],
-  "pushed": "2026-09-14T18:42:08Z",
-  "stars": 287372,
+  "node_id": "R_kgDOP_gcWw",
+  "pushed": "2026-10-20T20:13:38Z",
+  "stars": 302619,
   "why": "An agentic skills framework & software development methodology that works."
  },
  "obsidian-tasks-group/obsidian-tasks": {
@@ -3654,8 +4357,9 @@
   "narrow": [
    "obsidian"
   ],
-  "pushed": "2026-09-09T23:08:52Z",
-  "stars": 4011,
+  "node_id": "MDEwOlJlcG9zaXRvcnkzNDk1Mzc2NTE=",
+  "pushed": "2026-10-21T00:15:40Z",
+  "stars": 4064,
   "why": "Task management for the Obsidian knowledge base."
  },
  "odysseus-dev/odysseus": {
@@ -3664,8 +4368,9 @@
    "selfhost"
   ],
   "narrow": [],
-  "pushed": "2026-09-13T21:53:34Z",
-  "stars": 87294,
+  "node_id": "R_kgDOStCJPg",
+  "pushed": "2026-10-20T15:37:57Z",
+  "stars": 94080,
   "why": "Self-hosted AI workspace."
  },
  "omacom/omarchy": {
@@ -3674,8 +4379,9 @@
    "mobile-desktop"
   ],
   "narrow": [],
-  "pushed": "2026-09-16T03:56:18Z",
-  "stars": 41390,
+  "node_id": "R_kgDOO0Cobg",
+  "pushed": "2026-10-20T21:46:13Z",
+  "stars": 45347,
   "why": "Beautiful, Modern & Opinionated Linux"
  },
  "one-ie/one": {
@@ -3688,8 +4394,9 @@
    "codex",
    "shadcn"
   ],
-  "pushed": "2026-09-14T10:48:36Z",
-  "stars": 129,
+  "node_id": "R_kgDONOKXIg",
+  "pushed": "2026-10-11T01:21:21Z",
+  "stars": 131,
   "why": "Make Your Ideas Real. Build Apps, Websites and AI Agents with Plain English with Astro, React, Shadcn and Cloudflare"
  },
  "onecli/onecli": {
@@ -3701,8 +4408,9 @@
    "privacy"
   ],
   "narrow": [],
-  "pushed": "2026-09-14T01:15:27Z",
-  "stars": 3485,
+  "node_id": "R_kgDORhbQPA",
+  "pushed": "2026-10-14T16:43:27Z",
+  "stars": 3582,
   "why": "Open-source sandboxed agent harness for teams. Giving every employee a secured personal agent."
  },
  "onlook-dev/onlook": {
@@ -3713,8 +4421,9 @@
    "mobile-desktop"
   ],
   "narrow": [],
+  "node_id": "R_kgDOMOGLrw",
   "pushed": "2026-08-25T01:06:22Z",
-  "stars": 26744,
+  "stars": 26972,
   "why": "The Cursor for Designers \u2022 An Open-Source AI-First Design tool \u2022 Visually build, style, and edit your React App with AI"
  },
  "open-gsd/gsd-core": {
@@ -3725,8 +4434,9 @@
   "narrow": [
    "context-engineering"
   ],
-  "pushed": "2026-09-16T09:26:45Z",
-  "stars": 9506,
+  "node_id": "R_kgDOSk3_ZA",
+  "pushed": "2026-10-21T01:30:46Z",
+  "stars": 10725,
   "why": "Git. Ship. Done - Core"
  },
  "open-gsd/gsd-pi": {
@@ -3737,8 +4447,9 @@
   "narrow": [
    "context-engineering"
   ],
-  "pushed": "2026-09-16T05:56:39Z",
-  "stars": 1237,
+  "node_id": "R_kgDOSk2dRQ",
+  "pushed": "2026-10-21T01:32:58Z",
+  "stars": 1330,
   "why": "A powerful meta-prompting, context engineering and spec-driven development system that enables agents to work for long periods of time autonomously without losi"
  },
  "open-gsd/gsd-spec-build-loop": {
@@ -3747,9 +4458,22 @@
    "skills-plugins"
   ],
   "narrow": [],
+  "node_id": "R_kgDOTkEnKQ",
   "pushed": "2026-09-09T00:42:49Z",
-  "stars": 19,
+  "stars": 24,
   "why": "GSD Loop - Spec/Build/Review - A Skill to keep your agent on a loop task until completion"
+ },
+ "open-slide/open-slide": {
+  "language": "TypeScript",
+  "lists": [
+   "devtools",
+   "design"
+  ],
+  "narrow": [],
+  "node_id": "R_kgDOSM7BHA",
+  "pushed": "2026-10-20T21:04:00Z",
+  "stars": 9319,
+  "why": "A slide framework built for agents."
  },
  "open-webui/open-webui": {
   "language": "Python",
@@ -3760,8 +4484,9 @@
    "selfhost"
   ],
   "narrow": [],
-  "pushed": "2026-09-16T04:34:26Z",
-  "stars": 152253,
+  "node_id": "R_kgDOKdDCcw",
+  "pushed": "2026-10-21T00:53:50Z",
+  "stars": 156304,
   "why": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)"
  },
  "openai/openai-agents-python": {
@@ -3771,8 +4496,9 @@
    "automation"
   ],
   "narrow": [],
-  "pushed": "2026-09-16T04:18:33Z",
-  "stars": 29484,
+  "node_id": "R_kgDOOGidpw",
+  "pushed": "2026-10-20T05:01:33Z",
+  "stars": 30186,
   "why": "A lightweight, powerful framework for multi-agent workflows"
  },
  "openchamber/openchamber": {
@@ -3783,8 +4509,9 @@
   "narrow": [
    "opencode"
   ],
-  "pushed": "2026-09-16T00:02:51Z",
-  "stars": 9913,
+  "node_id": "R_kgDOPt7VTQ",
+  "pushed": "2026-10-20T21:31:47Z",
+  "stars": 11942,
   "why": "Agentic Development Environment based on OpenCode AI agent"
  },
  "openclaw/clickclack": {
@@ -3796,8 +4523,9 @@
   "narrow": [
    "openclaw"
   ],
-  "pushed": "2026-09-15T07:16:43Z",
-  "stars": 207,
+  "node_id": "R_kgDOSXcUgw",
+  "pushed": "2026-10-21T01:28:18Z",
+  "stars": 309,
   "why": "ClickClackClaw - The chat app with claws."
  },
  "openclaw/gogcli": {
@@ -3808,8 +4536,9 @@
   "narrow": [
    "openclaw"
   ],
-  "pushed": "2026-09-15T06:19:37Z",
-  "stars": 8413,
+  "node_id": "R_kgDOQngEZw",
+  "pushed": "2026-10-20T18:38:42Z",
+  "stars": 8518,
   "why": "Google Workspace in your terminal."
  },
  "openclaw/notcrawl": {
@@ -3822,8 +4551,9 @@
    "openclaw",
    "local-first"
   ],
-  "pushed": "2026-09-15T06:31:57Z",
-  "stars": 132,
+  "node_id": "R_kgDOSJ-MvQ",
+  "pushed": "2026-10-20T23:25:53Z",
+  "stars": 135,
   "why": "Local-first Notion crawler into SQLite and normalized Markdown"
  },
  "oraios/serena": {
@@ -3837,8 +4567,9 @@
   "narrow": [
    "codex"
   ],
-  "pushed": "2026-09-16T00:25:21Z",
-  "stars": 29444,
+  "node_id": "R_kgDOONgOeg",
+  "pushed": "2026-10-20T08:47:27Z",
+  "stars": 30511,
   "why": "A powerful MCP toolkit for coding, providing semantic retrieval and editing capabilities  - the IDE for your agent"
  },
  "oven-sh/bun": {
@@ -3847,8 +4578,9 @@
    "design"
   ],
   "narrow": [],
-  "pushed": "2026-09-16T09:39:39Z",
-  "stars": 95972,
+  "node_id": "MDEwOlJlcG9zaXRvcnkzNTc3Mjg5Njk=",
+  "pushed": "2026-10-21T01:30:58Z",
+  "stars": 96321,
   "why": "Incredibly fast JavaScript runtime, bundler, test runner, and package manager \u2013 all in one"
  },
  "overwirehq/claude-code-telegram": {
@@ -3858,8 +4590,9 @@
    "automation"
   ],
   "narrow": [],
-  "pushed": "2026-09-11T18:11:56Z",
-  "stars": 2785,
+  "node_id": "R_kgDOO3Rs5Q",
+  "pushed": "2026-10-01T07:43:39Z",
+  "stars": 2815,
   "why": "A powerful Telegram bot that provides remote access to Claude Code, enabling developers to interact with their projects from anywhere with full AI assistance an"
  },
  "paperclipai/paperclip": {
@@ -3869,8 +4602,9 @@
    "mobile-desktop"
   ],
   "narrow": [],
-  "pushed": "2026-09-16T09:36:40Z",
-  "stars": 80797,
+  "node_id": "R_kgDORclPyA",
+  "pushed": "2026-10-21T01:33:04Z",
+  "stars": 105262,
   "why": "The open-source app everyone uses to manage agents at work"
  },
  "paperclipai/pr-reviewer": {
@@ -3879,9 +4613,22 @@
    "devtools"
   ],
   "narrow": [],
-  "pushed": "2026-07-10T01:00:52Z",
-  "stars": 14,
+  "node_id": "R_kgDORlJDnw",
+  "pushed": "2026-10-03T12:13:20Z",
+  "stars": 15,
   "why": "pr triage ui"
+ },
+ "pbakaus/impeccable": {
+  "language": "Rust",
+  "lists": [
+   "skills-plugins",
+   "design"
+  ],
+  "narrow": [],
+  "node_id": "R_kgDOQWgufQ",
+  "pushed": "2026-10-20T18:16:28Z",
+  "stars": 83862,
+  "why": "The design language that makes your AI harness better at design."
  },
  "penpot/penpot": {
   "language": "Clojure",
@@ -3889,8 +4636,9 @@
    "design"
   ],
   "narrow": [],
-  "pushed": "2026-09-16T08:22:14Z",
-  "stars": 60042,
+  "node_id": "MDEwOlJlcG9zaXRvcnk0ODc2OTI0MQ==",
+  "pushed": "2026-10-20T22:00:17Z",
+  "stars": 61434,
   "why": "Penpot: The open-source design platform for Product teams that need scalable collaboration."
  },
  "petergyang/no-ai-slop": {
@@ -3899,8 +4647,9 @@
    "writing"
   ],
   "narrow": [],
+  "node_id": "R_kgDOTP8OYw",
   "pushed": "2026-09-02T04:19:00Z",
-  "stars": 9981,
+  "stars": 12631,
   "why": "Removes 20+ patterns of AI slop from any piece of writing."
  },
  "peteromallet/desloppify": {
@@ -3909,8 +4658,9 @@
    "harness"
   ],
   "narrow": [],
+  "node_id": "R_kgDOROD60g",
   "pushed": "2026-05-13T20:17:05Z",
-  "stars": 3125,
+  "stars": 3187,
   "why": "Agent harness to make your slop code well-engineered and beautiful."
  },
  "philippb/claude-homeassistant": {
@@ -3919,8 +4669,9 @@
    "automation"
   ],
   "narrow": [],
+  "node_id": "R_kgDOPgsl-A",
   "pushed": "2026-02-08T18:57:21Z",
-  "stars": 388,
+  "stars": 392,
   "why": "Allows to program your home automations in plain english via Claude Code on your computer."
  },
  "pierpaolo28/Awesome-FDE-Roadmap": {
@@ -3932,8 +4683,9 @@
    "collections"
   ],
   "narrow": [],
+  "node_id": "R_kgDOQ552_w",
   "pushed": "2026-09-13T23:03:28Z",
-  "stars": 1140,
+  "stars": 1414,
   "why": "\ud83d\ude80 The definitive roadmap to becoming a Forward Deployment Engineer (FDE). Master AI Agents, Enterprise Data Architecture, and Strategic Consulting. Bridging the"
  },
  "pingdotgg/t3code": {
@@ -3942,8 +4694,9 @@
    "devtools"
   ],
   "narrow": [],
-  "pushed": "2026-09-16T09:31:33Z",
-  "stars": 22831,
+  "node_id": "R_kgDORLtfbQ",
+  "pushed": "2026-10-21T01:31:08Z",
+  "stars": 28871,
   "why": "No upstream description."
  },
  "pipipi-pikachu/PPTist": {
@@ -3952,8 +4705,9 @@
    "design"
   ],
   "narrow": [],
-  "pushed": "2026-08-16T14:28:51Z",
-  "stars": 9337,
+  "node_id": "MDEwOlJlcG9zaXRvcnkzMjAyOTk5MDA=",
+  "pushed": "2026-10-10T13:51:25Z",
+  "stars": 9408,
   "why": "PowerPoint-ist\uff08/'pau\u0259p\u0254intist/\uff09, An online presentation application that replicates most of the commonly used features of MS PowerPoint, allowing for the editin"
  },
  "plastic-labs/honcho": {
@@ -3966,8 +4720,9 @@
   "narrow": [
    "context-engineering"
   ],
-  "pushed": "2026-09-15T21:20:14Z",
-  "stars": 7194,
+  "node_id": "R_kgDOKR0qhg",
+  "pushed": "2026-10-20T22:08:15Z",
+  "stars": 7712,
   "why": "Memory library for building stateful agents"
  },
  "plastic-labs/paperclip-honcho": {
@@ -3976,9 +4731,22 @@
    "memory"
   ],
   "narrow": [],
-  "pushed": "2026-07-16T14:06:35Z",
+  "node_id": "R_kgDORsoACg",
+  "pushed": "2026-10-20T14:43:03Z",
   "stars": 17,
   "why": "No upstream description."
+ },
+ "pnp/powerplatform-samples": {
+  "language": null,
+  "lists": [
+   "automation",
+   "learning"
+  ],
+  "narrow": [],
+  "node_id": "MDEwOlJlcG9zaXRvcnkzMzE0MDAwMzE=",
+  "pushed": "2026-09-28T11:42:31Z",
+  "stars": 450,
+  "why": "The website for the PnP Power Platform samples gallery, including Power Apps, Power Automate, Power Virtual Agents, Portals, etc."
  },
  "postgres/postgres": {
   "language": "C",
@@ -3986,8 +4754,9 @@
    "selfhost"
   ],
   "narrow": [],
-  "pushed": "2026-09-16T09:40:22Z",
-  "stars": 22117,
+  "node_id": "MDEwOlJlcG9zaXRvcnk5Mjc0NDI=",
+  "pushed": "2026-10-21T00:33:05Z",
+  "stars": 22488,
   "why": "Mirror of the official PostgreSQL GIT repository. Note that this is just a *mirror* - we don't work with pull requests on github. To contribute, please see http"
  },
  "presenton/presenton": {
@@ -3996,8 +4765,9 @@
    "automation"
   ],
   "narrow": [],
-  "pushed": "2026-09-14T11:39:10Z",
-  "stars": 10229,
+  "node_id": "R_kgDOOnuTxQ",
+  "pushed": "2026-10-19T06:08:49Z",
+  "stars": 11243,
   "why": "Open-Source AI Presentation Generator and API (Gamma, Canva, Beautiful AI, Decktopus, Presentations AI Alternative)"
  },
  "prompt-security/clawsec": {
@@ -4011,8 +4781,9 @@
    "openclaw",
    "hermes"
   ],
-  "pushed": "2026-09-16T06:09:15Z",
-  "stars": 1104,
+  "node_id": "R_kgDORJkWvg",
+  "pushed": "2026-10-20T08:46:53Z",
+  "stars": 1125,
   "why": "A complete security skill suite for OpenClaw, Hermes, PicoClaw and NanoClaw agents (and variants). Protect your SOUL.md (etc') with drift detection, live securi"
  },
  "qarmin/czkawka": {
@@ -4023,8 +4794,9 @@
    "mobile-desktop"
   ],
   "narrow": [],
-  "pushed": "2026-09-09T19:48:14Z",
-  "stars": 33517,
+  "node_id": "MDEwOlJlcG9zaXRvcnkyOTIwNjU1Nzg=",
+  "pushed": "2026-09-16T17:34:11Z",
+  "stars": 34403,
   "why": "Multi functional app to find duplicates, empty folders, similar images etc."
  },
  "qdrant/fastembed": {
@@ -4033,8 +4805,9 @@
    "memory"
   ],
   "narrow": [],
-  "pushed": "2026-09-16T09:00:49Z",
-  "stars": 3203,
+  "node_id": "R_kgDOJ7ZVjQ",
+  "pushed": "2026-10-21T00:57:01Z",
+  "stars": 3248,
   "why": "Fast, Accurate, Lightweight Python library to make State of the Art Embedding"
  },
  "raullenchai/Rapid-MLX": {
@@ -4046,9 +4819,34 @@
    "mobile-desktop"
   ],
   "narrow": [],
-  "pushed": "2026-09-16T06:47:46Z",
-  "stars": 3759,
+  "node_id": "R_kgDORYKHzw",
+  "pushed": "2026-10-21T01:32:33Z",
+  "stars": 4002,
   "why": "The fastest local AI engine for Apple Silicon. 4.2x faster than Ollama, 0.08s cached TTFT, 100% tool calling. 17 tool parsers, prompt cache, reasoning separatio"
+ },
+ "readwiseio/readwise-skills": {
+  "language": "Python",
+  "lists": [
+   "skills-plugins",
+   "writing"
+  ],
+  "narrow": [],
+  "node_id": "R_kgDORaxkKg",
+  "pushed": "2026-06-19T05:27:11Z",
+  "stars": 323,
+  "why": "Agent skills for your Readwise and Reader data, powered by the Readwise MCP server/CLI.  Triage your inbox, quiz yourself on what you've read, build a personali"
+ },
+ "rehan-remade/universal-modder": {
+  "language": "Python",
+  "lists": [
+   "skills-plugins",
+   "devtools"
+  ],
+  "narrow": [],
+  "node_id": "R_kgDOU0THuw",
+  "pushed": "2026-10-21T00:54:47Z",
+  "stars": 8548,
+  "why": "Point Claude at any game. Skills, tools and the fal MCP that let Claude Code mod almost any PC game you own: recon, reverse engineering, fal-generated art/3D/au"
  },
  "rekordcloud/openkeyscan-analyzer": {
   "language": "Python",
@@ -4056,8 +4854,9 @@
    "voice"
   ],
   "narrow": [],
-  "pushed": "2026-03-04T11:21:54Z",
-  "stars": 43,
+  "node_id": "R_kgDOQNf1EQ",
+  "pushed": "2026-10-19T16:34:39Z",
+  "stars": 48,
   "why": "No upstream description."
  },
  "remotely-save/remotely-save": {
@@ -4066,8 +4865,9 @@
    "memory"
   ],
   "narrow": [],
+  "node_id": "R_kgDOGOyoqw",
   "pushed": "2024-11-10T10:16:22Z",
-  "stars": 8104,
+  "stars": 8237,
   "why": "Sync notes between local and cloud with smart conflict: S3 (Amazon S3/Cloudflare R2/Backblaze B2/...), Dropbox, webdav (NextCloud/InfiniCLOUD/Synology/...), One"
  },
  "remotion-dev/remotion": {
@@ -4077,8 +4877,9 @@
    "design"
   ],
   "narrow": [],
-  "pushed": "2026-09-16T09:36:13Z",
-  "stars": 59440,
+  "node_id": "MDEwOlJlcG9zaXRvcnkyNzQ0OTU0MjU=",
+  "pushed": "2026-10-20T15:40:33Z",
+  "stars": 65646,
   "why": "\ud83c\udfa5      Make videos programmatically with React"
  },
  "renezander030/agentic-task-system": {
@@ -4094,8 +4895,9 @@
    "obsidian",
    "context-engineering"
   ],
-  "pushed": "2026-09-13T17:03:54Z",
-  "stars": 12,
+  "node_id": "R_kgDOSSc5lA",
+  "pushed": "2026-10-18T17:04:34Z",
+  "stars": 17,
   "why": "CLI + MCP for agent context: a task layer over TickTick, Notion, GitHub, Obsidian & more (RRF retrieval, provenance, reviewed writes, undo) plus a knowledge-gra"
  },
  "renezander030/capcut-cli": {
@@ -4106,8 +4908,9 @@
    "automation"
   ],
   "narrow": [],
-  "pushed": "2026-09-14T05:17:08Z",
-  "stars": 476,
+  "node_id": "R_kgDOSBN_Fw",
+  "pushed": "2026-10-19T11:51:40Z",
+  "stars": 926,
   "why": "Independent, unofficial CLI to edit CapCut and JianYing (\u526a\u6620) projects \u2014 subtitles, timing, speed, volume, templates, cut long-form to shorts. No API needed, rea"
  },
  "rohitg00/agentmemory": {
@@ -4122,8 +4925,9 @@
    "codex",
    "hermes"
   ],
-  "pushed": "2026-09-14T06:11:28Z",
-  "stars": 28490,
+  "node_id": "R_kgDORYX6aQ",
+  "pushed": "2026-10-20T11:59:03Z",
+  "stars": 29718,
   "why": "#1 Persistent memory for AI coding agents based on real-world benchmarks"
  },
  "router-for-me/CLIProxyAPI": {
@@ -4135,8 +4939,9 @@
   "narrow": [
    "codex"
   ],
-  "pushed": "2026-09-16T03:30:07Z",
-  "stars": 52051,
+  "node_id": "R_kgDOPFM7Ew",
+  "pushed": "2026-10-21T00:08:21Z",
+  "stars": 55820,
   "why": "Wrap Antigravity, ChatGPT Codex, Claude Code, Grok Build as an OpenAI/Gemini/Claude/Codex compatible API service, allowing you to enjoy the free Gemini 3.1 Pro,"
  },
  "ruvnet/ruflo": {
@@ -4154,8 +4959,9 @@
    "codex",
    "hermes"
   ],
-  "pushed": "2026-09-16T07:56:16Z",
-  "stars": 72584,
+  "node_id": "R_kgDOO07yiQ",
+  "pushed": "2026-10-21T01:32:23Z",
+  "stars": 77867,
   "why": "\ud83c\udf0a The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive me"
  },
  "rxhanson/Rectangle": {
@@ -4164,8 +4970,9 @@
    "mobile-desktop"
   ],
   "narrow": [],
-  "pushed": "2026-09-14T01:45:04Z",
-  "stars": 29918,
+  "node_id": "MDEwOlJlcG9zaXRvcnkxOTMxNjI2Mjk=",
+  "pushed": "2026-10-20T18:10:58Z",
+  "stars": 30114,
   "why": "Move and resize windows on macOS with keyboard shortcuts and snap areas"
  },
  "sahib/rmlint": {
@@ -4174,8 +4981,9 @@
    "devtools"
   ],
   "narrow": [],
-  "pushed": "2026-09-14T08:35:00Z",
-  "stars": 2421,
+  "node_id": "MDEwOlJlcG9zaXRvcnk5NDI5MzE=",
+  "pushed": "2026-10-16T21:14:20Z",
+  "stars": 2445,
   "why": "Extremely fast tool to remove duplicates and other lint from your filesystem"
  },
  "satnaing/shadcn-admin": {
@@ -4186,8 +4994,9 @@
   "narrow": [
    "shadcn"
   ],
+  "node_id": "R_kgDOLJyqEQ",
   "pushed": "2026-09-10T22:30:37Z",
-  "stars": 14222,
+  "stars": 15826,
   "why": "Admin Dashboard UI built with Shadcn and Vite."
  },
  "sean-esk/second-brain-gtd": {
@@ -4199,8 +5008,9 @@
   "narrow": [
    "obsidian"
   ],
+  "node_id": "R_kgDOQJLiZA",
   "pushed": "2025-12-11T16:54:25Z",
-  "stars": 51,
+  "stars": 52,
   "why": "Second brain using obsidian, and claude code with skills for your assistant"
  },
  "searxng/searxng": {
@@ -4209,8 +5019,9 @@
    "privacy"
   ],
   "narrow": [],
-  "pushed": "2026-09-16T08:43:01Z",
-  "stars": 37201,
+  "node_id": "MDEwOlJlcG9zaXRvcnkzNTcyNDE3MzU=",
+  "pushed": "2026-10-19T21:33:04Z",
+  "stars": 38662,
   "why": "SearXNG is a free internet metasearch engine which aggregates results from various search services and databases. Users are neither tracked nor profiled."
  },
  "semantica-agi/semantica": {
@@ -4221,8 +5032,9 @@
   "narrow": [
    "context-engineering"
   ],
-  "pushed": "2026-09-16T09:42:04Z",
-  "stars": 12961,
+  "node_id": "R_kgDOPBmB5g",
+  "pushed": "2026-10-21T01:03:51Z",
+  "stars": 14157,
   "why": "Graph-Native Infrastructure for Context and Accountable AI Systems"
  },
  "shadcn-ui/ui": {
@@ -4233,8 +5045,9 @@
   "narrow": [
    "shadcn"
   ],
-  "pushed": "2026-09-12T13:26:36Z",
-  "stars": 123936,
+  "node_id": "R_kgDOIuCgEw",
+  "pushed": "2026-10-20T20:37:52Z",
+  "stars": 126054,
   "why": "Composable, accessible components with thoughtful defaults. Build your own component library with code you can customize, extend, and make your own."
  },
  "shadcnio/react-shadcn-components": {
@@ -4245,8 +5058,9 @@
   "narrow": [
    "shadcn"
   ],
+  "node_id": "R_kgDOPjp3PA",
   "pushed": "2025-08-25T04:53:37Z",
-  "stars": 850,
+  "stars": 876,
   "why": "Production-ready React components following shadcn/ui principles. TypeScript-first, Tailwind-styled, Radix-powered. Beautiful defaults with complete customizati"
  },
  "shurlinet/shurli": {
@@ -4259,8 +5073,9 @@
   "narrow": [
    "local-first"
   ],
+  "node_id": "R_kgDORYd7VA",
   "pushed": "2026-06-07T17:44:39Z",
-  "stars": 6,
+  "stars": 8,
   "why": "Sovereign P2P networking tool. Post-quantum encrypted connections, identity, file transfer, and relay infrastructure. No cloud, no accounts, no trust assumption"
  },
  "simonw/llm": {
@@ -4269,8 +5084,9 @@
    "skills-plugins"
   ],
   "narrow": [],
-  "pushed": "2026-09-08T18:35:28Z",
-  "stars": 12512,
+  "node_id": "R_kgDOJRhX7A",
+  "pushed": "2026-10-18T23:29:12Z",
+  "stars": 12647,
   "why": "Access large language models from the command-line"
  },
  "skibitsky/alfred-timing": {
@@ -4280,6 +5096,7 @@
    "mobile-desktop"
   ],
   "narrow": [],
+  "node_id": "MDEwOlJlcG9zaXRvcnkyMTI2NTcwODE=",
   "pushed": "2023-02-11T09:49:34Z",
   "stars": 36,
   "why": "\u23f3 Alfred workflow for Timing app"
@@ -4292,8 +5109,9 @@
    "privacy"
   ],
   "narrow": [],
-  "pushed": "2026-09-16T06:03:11Z",
-  "stars": 37618,
+  "node_id": "MDEwOlJlcG9zaXRvcnkyNzUzODY5MTA=",
+  "pushed": "2026-10-20T06:03:04Z",
+  "stars": 39254,
   "why": "\ud83d\udd75\ufe0f\u200d\u2642\ufe0f Collect a dossier on a person by username from 3000+ sites"
  },
  "stablyai/orca": {
@@ -4306,8 +5124,9 @@
    "codex",
    "opencode"
   ],
-  "pushed": "2026-09-16T09:36:39Z",
-  "stars": 69836,
+  "node_id": "R_kgDORpCz1g",
+  "pushed": "2026-10-21T01:33:01Z",
+  "stars": 99785,
   "why": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime."
  },
  "steipete/summarize": {
@@ -4317,8 +5136,9 @@
    "voice"
   ],
   "narrow": [],
-  "pushed": "2026-09-16T05:25:15Z",
-  "stars": 6626,
+  "node_id": "R_kgDOQqaE2w",
+  "pushed": "2026-10-21T00:37:37Z",
+  "stars": 6729,
   "why": "Point at any URL/YouTube/Podcast or file. Get the gist. CLI and Chrome Extension."
  },
  "strands-agents/agent-sop": {
@@ -4327,8 +5147,9 @@
    "automation"
   ],
   "narrow": [],
-  "pushed": "2026-08-07T18:05:03Z",
-  "stars": 1150,
+  "node_id": "R_kgDOQPZO0w",
+  "pushed": "2026-10-08T04:13:51Z",
+  "stars": 1193,
   "why": "Natural language workflows that enable AI agents to perform complex, multi-step tasks with consistency and reliability."
  },
  "suboss87/FDEOps": {
@@ -4341,8 +5162,9 @@
   "narrow": [
    "codex"
   ],
-  "pushed": "2026-09-16T05:06:41Z",
-  "stars": 539,
+  "node_id": "R_kgDOTEeZGQ",
+  "pushed": "2026-10-21T00:45:17Z",
+  "stars": 972,
   "why": "Forward deployed engineering skills for AI coding agents."
  },
  "supabase/supabase": {
@@ -4352,8 +5174,9 @@
    "selfhost"
   ],
   "narrow": [],
-  "pushed": "2026-09-16T09:41:49Z",
-  "stars": 109359,
+  "node_id": "MDEwOlJlcG9zaXRvcnkyMTQ1ODcxOTM=",
+  "pushed": "2026-10-21T01:11:29Z",
+  "stars": 112477,
   "why": "The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications."
  },
  "syncthing/syncthing": {
@@ -4362,8 +5185,9 @@
    "selfhost"
   ],
   "narrow": [],
-  "pushed": "2026-09-15T12:01:36Z",
-  "stars": 88633,
+  "node_id": "MDEwOlJlcG9zaXRvcnkxNDcxMjg1MA==",
+  "pushed": "2026-10-21T01:18:53Z",
+  "stars": 89564,
   "why": "Open Source Continuous File Synchronization"
  },
  "tailcallhq/forgecode": {
@@ -4377,8 +5201,9 @@
    "learning"
   ],
   "narrow": [],
-  "pushed": "2026-09-16T05:02:56Z",
-  "stars": 7633,
+  "node_id": "R_kgDONavzBg",
+  "pushed": "2026-10-20T23:48:14Z",
+  "stars": 7637,
   "why": "AI enabled pair programmer for Claude, GPT, O Series, Grok, Deepseek, Gemini and 300+ models"
  },
  "tailscale/tailscale": {
@@ -4388,9 +5213,21 @@
    "privacy"
   ],
   "narrow": [],
-  "pushed": "2026-09-16T04:41:48Z",
-  "stars": 36534,
+  "node_id": "MDEwOlJlcG9zaXRvcnkyMzc1MjM0NDI=",
+  "pushed": "2026-10-20T19:17:16Z",
+  "stars": 37829,
   "why": "The easiest, most secure way to use WireGuard and 2FA."
+ },
+ "tamaratran/fast-jev-compaction": {
+  "language": "TypeScript",
+  "lists": [
+   "skills-plugins"
+  ],
+  "narrow": [],
+  "node_id": "R_kgDOUeWnDQ",
+  "pushed": "2026-09-18T04:45:31Z",
+  "stars": 7721,
+  "why": "Claude Code plugin that replaces the compaction summary with Jev decisions: every tool call and result is scored in one fast request, stale ones are dropped or "
  },
  "taylorwilsdon/google_workspace_mcp": {
   "language": "Python",
@@ -4403,8 +5240,9 @@
    "mobile-desktop"
   ],
   "narrow": [],
-  "pushed": "2026-09-15T22:10:19Z",
-  "stars": 3175,
+  "node_id": "R_kgDOOgrT6A",
+  "pushed": "2026-10-20T16:34:42Z",
+  "stars": 3384,
   "why": "Control Gmail, Google Calendar, Docs, Sheets, Slides, Chat, Forms, Tasks, Search & Drive with AI - Comprehensive Google Workspace MCP Server & CLI Tool"
  },
  "teamhanko/hanko": {
@@ -4414,8 +5252,9 @@
    "privacy"
   ],
   "narrow": [],
-  "pushed": "2026-09-15T20:18:30Z",
-  "stars": 9028,
+  "node_id": "R_kgDOHAEE0g",
+  "pushed": "2026-10-20T21:38:55Z",
+  "stars": 9044,
   "why": "Modern authentication, on your terms. Open source alternative to Auth0, Clerk, WorkOS, Stytch."
  },
  "techartdev/OpenClawHomeAssistant": {
@@ -4426,8 +5265,9 @@
   "narrow": [
    "openclaw"
   ],
-  "pushed": "2026-09-16T06:00:12Z",
-  "stars": 512,
+  "node_id": "R_kgDORCLXkQ",
+  "pushed": "2026-10-20T06:00:18Z",
+  "stars": 520,
   "why": "OpenClaw Assistant \u2013 Home Assistant Add-on"
  },
  "techartdev/OpenClawHomeAssistantIntegration": {
@@ -4438,8 +5278,9 @@
   "narrow": [
    "openclaw"
   ],
-  "pushed": "2026-05-31T08:08:25Z",
-  "stars": 106,
+  "node_id": "R_kgDORUqgAQ",
+  "pushed": "2026-09-26T20:08:00Z",
+  "stars": 111,
   "why": "No upstream description."
  },
  "teralomaniac/clewd": {
@@ -4448,8 +5289,9 @@
    "models"
   ],
   "narrow": [],
+  "node_id": "R_kgDOKGAzjQ",
   "pushed": "2024-09-01T07:44:26Z",
-  "stars": 759,
+  "stars": 761,
   "why": "clewd\u4fee\u6539\u7248 by tera"
  },
  "thaw-app/Thaw": {
@@ -4459,8 +5301,9 @@
    "mobile-desktop"
   ],
   "narrow": [],
-  "pushed": "2026-09-15T11:08:49Z",
-  "stars": 11046,
+  "node_id": "R_kgDOREUIYg",
+  "pushed": "2026-10-21T01:00:59Z",
+  "stars": 12202,
   "why": "The open source menu bar manager"
  },
  "thedotmack/claude-mem": {
@@ -4475,8 +5318,9 @@
    "opencode",
    "hermes"
   ],
-  "pushed": "2026-09-16T01:00:29Z",
-  "stars": 94008,
+  "node_id": "R_kgDOPng1Jw",
+  "pushed": "2026-10-21T00:47:38Z",
+  "stars": 101972,
   "why": "Persistent Context Across Sessions for Every Agent \u2013  Captures everything your agent does during sessions, compresses it with AI, and injects relevant context b"
  },
  "thewh1teagle/vibe": {
@@ -4486,8 +5330,9 @@
    "mobile-desktop"
   ],
   "narrow": [],
-  "pushed": "2026-09-05T13:40:53Z",
-  "stars": 7495,
+  "node_id": "R_kgDOLB_5lQ",
+  "pushed": "2026-10-06T11:28:19Z",
+  "stars": 7847,
   "why": "Transcribe on your own!"
  },
  "tinyhumansai/openhuman": {
@@ -4503,8 +5348,9 @@
   "narrow": [
    "local-first"
   ],
-  "pushed": "2026-09-16T05:20:22Z",
-  "stars": 39814,
+  "node_id": "R_kgDORTXxrg",
+  "pushed": "2026-10-21T00:00:37Z",
+  "stars": 42194,
   "why": "OpenHuman is an open source agent harness with local-first memory, agent orchestration, and workflows"
  },
  "tldraw/tldraw": {
@@ -4513,8 +5359,9 @@
    "design"
   ],
   "narrow": [],
-  "pushed": "2026-09-16T09:41:33Z",
-  "stars": 50382,
+  "node_id": "MDEwOlJlcG9zaXRvcnkzNjU3Mzk4MTI=",
+  "pushed": "2026-10-20T17:12:56Z",
+  "stars": 51014,
   "why": "Build infinite canvas apps in React with the tldraw SDK. World's best, top-most agent recommended #1 five star SDK."
  },
  "tmux/tmux": {
@@ -4523,8 +5370,9 @@
    "devtools"
   ],
   "narrow": [],
-  "pushed": "2026-09-15T05:14:44Z",
-  "stars": 49285,
+  "node_id": "MDEwOlJlcG9zaXRvcnkzNjgzNjQ3NQ==",
+  "pushed": "2026-10-20T17:37:34Z",
+  "stars": 49943,
   "why": "tmux source code"
  },
  "tobi/qmd": {
@@ -4534,8 +5382,9 @@
    "writing"
   ],
   "narrow": [],
-  "pushed": "2026-09-09T20:51:56Z",
-  "stars": 29776,
+  "node_id": "R_kgDOQk1Y9Q",
+  "pushed": "2026-10-15T03:04:06Z",
+  "stars": 30514,
   "why": "mini cli search engine for your docs, knowledge bases, meeting notes, whatever. Tracking current sota approaches while being all local"
  },
  "toeverything/AFFiNE": {
@@ -4547,8 +5396,9 @@
    "privacy"
   ],
   "narrow": [],
-  "pushed": "2026-09-15T09:38:38Z",
-  "stars": 72659,
+  "node_id": "R_kgDOHvxvHg",
+  "pushed": "2026-10-12T09:51:10Z",
+  "stars": 73698,
   "why": "There can be more than Notion and Miro. AFFiNE(pronounced [\u0259\u2018fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privac"
  },
  "toeverything/OctoBase": {
@@ -4560,8 +5410,9 @@
   "narrow": [
    "local-first"
   ],
+  "node_id": "R_kgDOH_OyJA",
   "pushed": "2025-03-05T06:29:15Z",
-  "stars": 2069,
+  "stars": 2079,
   "why": "\ud83d\udc19 OctoBase is the open-source database behind AFFiNE, local-first, yet collaborative. A light-weight, scalable, data engine written in Rust."
  },
  "toeverything/blocksuite": {
@@ -4573,8 +5424,9 @@
   "narrow": [
    "local-first"
   ],
-  "pushed": "2026-09-15T19:03:52Z",
-  "stars": 6014,
+  "node_id": "R_kgDOH-UIqg",
+  "pushed": "2026-10-20T12:12:29Z",
+  "stars": 6065,
   "why": "\ud83e\udde9 Content editing tech stack for the web - BlockSuite is a toolkit for building editors and collaborative applications."
  },
  "topoteretes/cognee": {
@@ -4587,8 +5439,9 @@
   "narrow": [
    "context-engineering"
   ],
-  "pushed": "2026-09-16T09:37:11Z",
-  "stars": 30711,
+  "node_id": "R_kgDOKH31kA",
+  "pushed": "2026-10-21T01:30:20Z",
+  "stars": 32596,
   "why": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions with a self-hosted knowledge graph engi"
  },
  "travisvn/awesome-claude-skills": {
@@ -4600,8 +5453,9 @@
    "collections"
   ],
   "narrow": [],
+  "node_id": "R_kgDOQD6vmw",
   "pushed": "2026-04-28T19:30:24Z",
-  "stars": 15084,
+  "stars": 15485,
   "why": "A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows \u2014 particularly Claude Code"
  },
  "trycompai/crm": {
@@ -4610,20 +5464,22 @@
    "design"
   ],
   "narrow": [],
-  "pushed": "2026-09-11T07:06:17Z",
-  "stars": 10488,
+  "node_id": "R_kgDOTprQ_g",
+  "pushed": "2026-10-20T17:41:45Z",
+  "stars": 11554,
   "why": "Comp AI CRM is an open source, CRM designed for AI agents. Agentic-first CRM."
  },
  "trycua/cua": {
-  "language": "HTML",
+  "language": "Rust",
   "lists": [
    "models",
    "automation",
    "mobile-desktop"
   ],
   "narrow": [],
-  "pushed": "2026-09-16T09:20:06Z",
-  "stars": 22706,
+  "node_id": "R_kgDONyaAvQ",
+  "pushed": "2026-10-21T00:16:24Z",
+  "stars": 30442,
   "why": "Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation."
  },
  "tt-a1i/archify": {
@@ -4639,8 +5495,9 @@
    "codex",
    "opencode"
   ],
-  "pushed": "2026-09-16T08:21:06Z",
-  "stars": 64192,
+  "node_id": "R_kgDOSDCHbQ",
+  "pushed": "2026-10-20T12:04:50Z",
+  "stars": 86472,
   "why": "Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams\u2014self-contained HTML with motion and crisp export."
  },
  "twpayne/chezmoi": {
@@ -4650,8 +5507,9 @@
    "privacy"
   ],
   "narrow": [],
-  "pushed": "2026-09-13T18:30:11Z",
-  "stars": 21619,
+  "node_id": "MDEwOlJlcG9zaXRvcnkxNTcyNDUyMDA=",
+  "pushed": "2026-10-20T19:39:13Z",
+  "stars": 21997,
   "why": "Manage your dotfiles across multiple diverse machines, securely."
  },
  "typst/typst": {
@@ -4660,8 +5518,9 @@
    "learning"
   ],
   "narrow": [],
-  "pushed": "2026-09-16T08:50:01Z",
-  "stars": 56047,
+  "node_id": "MDEwOlJlcG9zaXRvcnkyMTA3MDI0Mjc=",
+  "pushed": "2026-10-20T22:09:31Z",
+  "stars": 56729,
   "why": "A markup-based typesetting system that is powerful and easy to learn."
  },
  "udecode/plate": {
@@ -4674,8 +5533,9 @@
   "narrow": [
    "shadcn"
   ],
-  "pushed": "2026-09-15T15:20:40Z",
-  "stars": 16591,
+  "node_id": "MDEwOlJlcG9zaXRvcnkyMjUyNjA5NjI=",
+  "pushed": "2026-10-21T00:53:30Z",
+  "stars": 16662,
   "why": "Rich-text editor with AI and shadcn/ui"
  },
  "upstash/context7": {
@@ -4686,8 +5546,9 @@
    "selfhost"
   ],
   "narrow": [],
-  "pushed": "2026-09-16T09:23:52Z",
-  "stars": 62074,
+  "node_id": "R_kgDOOPWeNQ",
+  "pushed": "2026-10-20T21:31:09Z",
+  "stars": 63387,
   "why": "Context7 Platform -- Up-to-date code documentation for LLMs and AI code editors"
  },
  "usebasejump/basejump": {
@@ -4696,8 +5557,9 @@
    "mobile-desktop"
   ],
   "narrow": [],
+  "node_id": "R_kgDOIOODFg",
   "pushed": "2026-08-06T15:51:55Z",
-  "stars": 940,
+  "stars": 939,
   "why": "Teams, personal accounts, permissions and billing for your Supabase app"
  },
  "vectorize-io/hindsight": {
@@ -4707,8 +5569,9 @@
    "learning"
   ],
   "narrow": [],
-  "pushed": "2026-09-16T09:31:51Z",
-  "stars": 23771,
+  "node_id": "R_kgDOQMFwdQ",
+  "pushed": "2026-10-20T21:56:58Z",
+  "stars": 52038,
   "why": "Hindsight: Agent Memory That Learns"
  },
  "vercel-labs/agent-browser": {
@@ -4718,8 +5581,9 @@
    "automation"
   ],
   "narrow": [],
-  "pushed": "2026-09-16T06:05:39Z",
-  "stars": 42668,
+  "node_id": "R_kgDOQ3j5Tg",
+  "pushed": "2026-10-21T00:34:13Z",
+  "stars": 44340,
   "why": "Browser automation CLI for AI agents"
  },
  "vercel-labs/fx": {
@@ -4728,8 +5592,9 @@
    "harness"
   ],
   "narrow": [],
-  "pushed": "2026-09-16T09:37:42Z",
-  "stars": 3003,
+  "node_id": "R_kgDOT1Dosw",
+  "pushed": "2026-10-21T01:04:26Z",
+  "stars": 3512,
   "why": "Unix like coding agent"
  },
  "vercel-labs/lat.md": {
@@ -4739,8 +5604,9 @@
    "writing"
   ],
   "narrow": [],
-  "pushed": "2026-09-16T04:59:13Z",
-  "stars": 1939,
+  "node_id": "R_kgDORisIlA",
+  "pushed": "2026-10-17T04:04:00Z",
+  "stars": 2038,
   "why": "Agent Lattice: a knowledge graph for your codebase, written in markdown."
  },
  "vercel-labs/native": {
@@ -4749,8 +5615,9 @@
    "mobile-desktop"
   ],
   "narrow": [],
-  "pushed": "2026-09-14T19:25:08Z",
-  "stars": 7673,
+  "node_id": "R_kgDOSYKDUw",
+  "pushed": "2026-10-21T00:51:35Z",
+  "stars": 7796,
   "why": "Toolkit for building native desktop apps"
  },
  "vercel-labs/phase": {
@@ -4759,8 +5626,9 @@
    "devtools"
   ],
   "narrow": [],
-  "pushed": "2026-09-15T19:21:11Z",
-  "stars": 75,
+  "node_id": "R_kgDOS7l7Dw",
+  "pushed": "2026-10-08T19:07:57Z",
+  "stars": 98,
   "why": "Lifecycle-aware UI performance layer for the web"
  },
  "vercel-labs/portless": {
@@ -4769,8 +5637,9 @@
    "selfhost"
   ],
   "narrow": [],
-  "pushed": "2026-09-14T14:46:37Z",
-  "stars": 12464,
+  "node_id": "R_kgDORQ3jDQ",
+  "pushed": "2026-10-19T20:34:57Z",
+  "stars": 12718,
   "why": "Replace port numbers with stable, named local URLs. For humans and agents."
  },
  "vercel-labs/skills": {
@@ -4779,8 +5648,9 @@
    "skills-plugins"
   ],
   "narrow": [],
-  "pushed": "2026-09-14T15:24:52Z",
-  "stars": 31756,
+  "node_id": "R_kgDOQ5_BBQ",
+  "pushed": "2026-10-19T20:34:22Z",
+  "stars": 35844,
   "why": "The open agent skills tool - npx skills"
  },
  "vercel-labs/vgpu": {
@@ -4789,8 +5659,9 @@
    "devtools"
   ],
   "narrow": [],
-  "pushed": "2026-09-14T20:52:47Z",
-  "stars": 2155,
+  "node_id": "R_kgDOSVLWPA",
+  "pushed": "2026-10-16T18:46:59Z",
+  "stars": 2569,
   "why": "Modular cross-runtime WebGPU library for shaders, 3D scenes, GPU tensors, neural networks, and math viz"
  },
  "vercel/vercel": {
@@ -4800,8 +5671,9 @@
    "devtools"
   ],
   "narrow": [],
-  "pushed": "2026-09-16T05:19:27Z",
-  "stars": 16252,
+  "node_id": "MDEwOlJlcG9zaXRvcnk2Nzc1MzA3MA==",
+  "pushed": "2026-10-20T08:25:07Z",
+  "stars": 16420,
   "why": "Develop. Preview. Ship."
  },
  "vincentkoc/tokenjuice": {
@@ -4814,9 +5686,24 @@
   "narrow": [
    "openclaw"
   ],
+  "node_id": "R_kgDOSCzrgw",
   "pushed": "2026-09-15T03:18:28Z",
-  "stars": 519,
+  "stars": 528,
   "why": "\ud83e\uddc3 Token weight loss. Lean output compaction for terminal-heavy agent workflows. Works as a native CLI tool or as an extension to popular coding and agent framew"
+ },
+ "virgiliojr94/book-to-skill": {
+  "language": "Python",
+  "lists": [
+   "skills-plugins",
+   "learning"
+  ],
+  "narrow": [
+   "context-engineering"
+  ],
+  "node_id": "R_kgDOSRUoTw",
+  "pushed": "2026-10-18T21:24:32Z",
+  "stars": 35476,
+  "why": "Turn any technical book PDF into a Claude Code skill \u2014 ready to study, reference, and use while you work."
  },
  "volcengine/OpenViking": {
   "language": "Python",
@@ -4825,8 +5712,9 @@
    "memory"
   ],
   "narrow": [],
-  "pushed": "2026-09-16T09:42:05Z",
-  "stars": 37655,
+  "node_id": "R_kgDOQz3Myg",
+  "pushed": "2026-10-20T14:22:04Z",
+  "stars": 40455,
   "why": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills."
  },
  "vorssaint/vorssaint-utils": {
@@ -4837,8 +5725,9 @@
    "mobile-desktop"
   ],
   "narrow": [],
-  "pushed": "2026-09-16T02:46:13Z",
-  "stars": 19345,
+  "node_id": "R_kgDOS4xLOw",
+  "pushed": "2026-10-20T19:12:37Z",
+  "stars": 28529,
   "why": "Free and open-source macOS menu bar toolkit."
  },
  "warpdotdev/warp": {
@@ -4848,8 +5737,9 @@
    "mobile-desktop"
   ],
   "narrow": [],
-  "pushed": "2026-09-16T05:05:27Z",
-  "stars": 65045,
+  "node_id": "MDEwOlJlcG9zaXRvcnkzODQyMTk5OTA=",
+  "pushed": "2026-10-21T00:50:25Z",
+  "stars": 65599,
   "why": "Warp is an agentic development environment, born out of the terminal."
  },
  "wotai-dev/woterclip": {
@@ -4862,8 +5752,9 @@
    "selfhost"
   ],
   "narrow": [],
+  "node_id": "R_kgDORwHfXw",
   "pushed": "2026-07-26T23:17:35Z",
-  "stars": 57,
+  "stars": 59,
   "why": "GitHub Issues-backed agent orchestration for Claude Code \u2013 a single Claude wears persona hats (Orchestrator, CEO, workers) routed by issue labels, driven by a h"
  },
  "wuwentao/midea_ac_lan": {
@@ -4872,9 +5763,23 @@
    "automation"
   ],
   "narrow": [],
-  "pushed": "2026-09-14T18:36:40Z",
-  "stars": 1887,
+  "node_id": "R_kgDOL6E_YQ",
+  "pushed": "2026-10-20T03:09:31Z",
+  "stars": 1911,
   "why": "Auto-configure and then control your Midea M-Smart devices (Air conditioner, Fan, Water heater, Washer, etc) via local area network."
+ },
+ "wuyoscar/jev-skill": {
+  "language": "Python",
+  "lists": [
+   "skills-plugins",
+   "automation",
+   "collections"
+  ],
+  "narrow": [],
+  "node_id": "R_kgDOUh_hMQ",
+  "pushed": "2026-10-17T20:54:30Z",
+  "stars": 640,
+  "why": "An awesome collection of Jev use cases, workflows, and agent skills."
  },
  "x1xhlol/system-prompts-and-models-of-ai-tools": {
   "language": null,
@@ -4883,8 +5788,9 @@
    "writing"
   ],
   "narrow": [],
-  "pushed": "2026-08-11T13:01:09Z",
-  "stars": 143654,
+  "node_id": "R_kgDOODsgVw",
+  "pushed": "2026-10-12T15:19:01Z",
+  "stars": 144141,
   "why": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qode"
  },
  "xdash/FDE-the-Guidance-Book-of-Forward-Deployed-Engineer": {
@@ -4895,8 +5801,9 @@
    "fde"
   ],
   "narrow": [],
+  "node_id": "R_kgDOTn3uDA",
   "pushed": "2026-08-14T01:57:33Z",
-  "stars": 4716,
+  "stars": 5138,
   "why": "FDE\uff08\u524d\u6cbf\u90e8\u7f72\u5de5\u7a0b\u5e08\uff09\u4ece\u96f6\u5165\u95e8\u6307\u5357\uff08\u57fa\u4e8e\u8303\u51b0\u300a\u589e\u957f\u9ed1\u5ba2\u300b\u539f\u4e66\u6846\u67b6\uff09"
  },
  "xming521/WeClone": {
@@ -4906,8 +5813,9 @@
    "automation"
   ],
   "narrow": [],
-  "pushed": "2026-09-15T08:32:04Z",
-  "stars": 18226,
+  "node_id": "R_kgDOLL5ypw",
+  "pushed": "2026-10-18T14:54:27Z",
+  "stars": 18308,
   "why": "\ud83d\ude80 One-stop solution for creating your AI twin from chat history \ud83d\udca1 Fine-tune LLMs with your chat logs to capture your unique style, then bind to a chatbot to bri"
  },
  "xrsl/nabcv": {
@@ -4916,6 +5824,7 @@
    "writing"
   ],
   "narrow": [],
+  "node_id": "R_kgDORZhwow",
   "pushed": "2026-02-27T21:35:02Z",
   "stars": 5,
   "why": "A TOML-driven Typst CV template for a not-a-boring-cv"
@@ -4928,8 +5837,9 @@
    "collections"
   ],
   "narrow": [],
-  "pushed": "2026-09-16T05:54:08Z",
-  "stars": 66693,
+  "node_id": "R_kgDOJQK9zA",
+  "pushed": "2026-10-20T16:32:04Z",
+  "stars": 66911,
   "why": "The official gpt4free repository | various collection of powerful language models | opus 4.6 gpt 5.3 kimi 2.5 deepseek v3.2 gemini 3"
  },
  "y0usaf/jev-lm": {
@@ -4938,8 +5848,9 @@
    "models"
   ],
   "narrow": [],
-  "pushed": "2026-09-16T06:35:43Z",
-  "stars": 3,
+  "node_id": "R_kgDOUdAR2g",
+  "pushed": "2026-09-19T19:45:55Z",
+  "stars": 7,
   "why": "A word-level language model whose output layer is Jev: n-gram drafter, Noul chunk verification, bits-per-token eval"
  },
  "yaniv-golan/pretext-skill": {
@@ -4949,6 +5860,7 @@
    "design"
   ],
   "narrow": [],
+  "node_id": "R_kgDOR3qtuQ",
   "pushed": "2026-07-14T19:01:04Z",
   "stars": 15,
   "why": "AI skill for @chenglou/pretext \u2014 exact text metrics without DOM reflows"
@@ -4959,8 +5871,9 @@
    "harness"
   ],
   "narrow": [],
-  "pushed": "2026-09-16T09:42:05Z",
-  "stars": 15081,
+  "node_id": "R_kgDOTnic1g",
+  "pushed": "2026-10-21T01:30:51Z",
+  "stars": 15469,
   "why": "Multiplayer agent harness for work."
  },
  "youssofal/MTPLX": {
@@ -4970,8 +5883,9 @@
    "design"
   ],
   "narrow": [],
-  "pushed": "2026-09-06T14:03:57Z",
-  "stars": 2333,
+  "node_id": "R_kgDOSSEuDQ",
+  "pushed": "2026-10-10T10:33:13Z",
+  "stars": 2615,
   "why": "3x faster speeds on MLX | Qwen 3.8 27B | Native MTP Speculative Decoding On Apple Silicon With No External Drafter."
  },
  "yt-dlp/yt-dlp": {
@@ -4982,8 +5896,9 @@
    "voice"
   ],
   "narrow": [],
-  "pushed": "2026-09-16T07:48:51Z",
-  "stars": 191514,
+  "node_id": "MDEwOlJlcG9zaXRvcnkzMDcyNjAyMDU=",
+  "pushed": "2026-10-10T21:15:52Z",
+  "stars": 199737,
   "why": "A feature-rich command-line audio/video downloader"
  },
  "yvgude/lean-ctx": {
@@ -4997,8 +5912,9 @@
   "narrow": [
    "context-engineering"
   ],
-  "pushed": "2026-09-16T09:42:06Z",
-  "stars": 3792,
+  "node_id": "R_kgDORuy30Q",
+  "pushed": "2026-10-19T17:34:04Z",
+  "stars": 3894,
   "why": "LeanCTX \u2014 Context Intelligence for AI systems."
  },
  "zbezj/HEU_KMS_Activator": {
@@ -5007,8 +5923,46 @@
    "devtools"
   ],
   "narrow": [],
+  "node_id": "MDEwOlJlcG9zaXRvcnkxOTMyOTIwNjE=",
   "pushed": "2026-07-06T04:01:22Z",
-  "stars": 43550,
+  "stars": 44041,
   "why": "No upstream description."
+ },
+ "zilliztech/deep-searcher": {
+  "language": "Python",
+  "lists": [
+   "memory"
+  ],
+  "narrow": [],
+  "node_id": "R_kgDON2J6aQ",
+  "pushed": "2026-09-22T10:08:42Z",
+  "stars": 8350,
+  "why": "Open Source Deep Research Alternative to Reason and Search on Private Data. Written in Python."
+ },
+ "zilliztech/memsearch": {
+  "language": "Python",
+  "lists": [
+   "memory"
+  ],
+  "narrow": [
+   "openclaw",
+   "codex",
+   "opencode"
+  ],
+  "node_id": "R_kgDORLxL3A",
+  "pushed": "2026-10-20T12:26:12Z",
+  "stars": 2767,
+  "why": "A persistent, unified memory layer for all your AI agents (e.g. Claude Code, Codex, DSH), backed by Markdown and Milvus."
+ },
+ "zilliztech/vector-graph-rag": {
+  "language": "Python",
+  "lists": [
+   "memory"
+  ],
+  "narrow": [],
+  "node_id": "R_kgDORJGIPQ",
+  "pushed": "2026-10-16T10:09:22Z",
+  "stars": 260,
+  "why": "Graph RAG with pure vector search, achieving SOTA performance in multi-hop reasoning scenarios."
  }
 }

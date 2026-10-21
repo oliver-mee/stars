@@ -8,6 +8,9 @@ Private repos never reach this stage (filtered in classify.py).
 import json
 import re
 import sys
+from pathlib import Path
+
+ROOT = Path(__file__).resolve().parents[1]
 
 TITLES = {
     "skills-plugins": "Skills & Plugins",
@@ -48,7 +51,14 @@ def scrub(text, where):
 
 
 def main():
-    c = json.load(open("data/classifications.json"))
+    c = json.loads((ROOT / "data/classifications.json").read_text())
+    stars = json.loads((ROOT / "data/stars-export.json").read_text())
+    if any(s.get('private') is not False for s in stars):
+        raise ValueError('Export must contain only explicitly public repos')
+    if {s['full_name']: s['node_id'] for s in stars} != {n: v['node_id'] for n, v in c.items()}:
+        raise ValueError('Export and classifications disagree; run refresh.py')
+    scrub(json.dumps(stars), 'export')
+    scrub(json.dumps(c), 'classifications')
     by_bucket = {b: [] for b in BROAD_ORDER}
     for name in sorted(c):
         v = c[name]
@@ -67,9 +77,9 @@ def main():
             if v["narrow"]:
                 lines[-1] += f" [`{'` `'.join(v['narrow'])}`]"
         lines += ["", "_Generated from star export — see data/. Regenerate, don't hand-edit._", ""]
-        text = "\n".join(lines)
+        text = "\n".join(line.rstrip() for line in lines)
         scrub(text, f"lists/{b}.md")
-        open(f"lists/{b}.md", "w").write(text)
+        (ROOT / f"lists/{b}.md").write_text(text)
 
     idx = ["# stars", "",
            "My GitHub stars, filed into lists. One repo can live in several — broad buckets plus narrow tags.",
@@ -78,10 +88,11 @@ def main():
         idx.append(f"- [{TITLES[b]}](lists/{b}.md) ({len(by_bucket[b])})")
     idx += ["", "## Narrow tags",
             "Cross-cutting: `openclaw` `codex` `opencode` `obsidian` `hermes` `shadcn` `local-first` `context-engineering` `fde`.",
+            "", "## Maintenance", "See [MAINTENANCE.md](MAINTENANCE.md) for the public-only refresh and review workflow.",
             "", "_Generated — see scripts/. Private starred repos are excluded by policy._", ""]
     readme = "\n".join(idx)
     scrub(readme, "README.md")
-    open("README.md", "w").write(readme)
+    (ROOT / "README.md").write_text(readme)
     print("WROTE README +", len(BROAD_ORDER), "lists. Scrub clean.")
 
 
