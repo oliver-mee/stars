@@ -80,7 +80,7 @@ def main():
         (ROOT / f"lists/{b}.md").write_text(text)
 
     idx = ["# stars", "",
-           "My GitHub stars, filed into lists. One repo can appear in more than one bucket.",
+           "Anything I find interesting that I want to save for later!",
            "", "## Buckets", ""]
     for b in sorted(BROAD_ORDER, key=lambda bucket: (-len(by_bucket[bucket]), TITLES[bucket].casefold())):
         idx.append(f"- [{TITLES[b]}](lists/{b}.md) ({len(by_bucket[b])})")

@@ -1,6 +1,6 @@
 # stars
 
-My GitHub stars, filed into lists. One repo can appear in more than one bucket.
+Anything I find interesting that I want to save for later!
 
 ## Buckets
 
