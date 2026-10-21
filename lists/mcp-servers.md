@@ -1,64 +1,68 @@
 # MCP Servers
 
-58 starred repos. File a PR to fix a miscategorisation.
+62 starred repos. File a PR to fix a miscategorisation.
 
-- [Antonytm/figma-mcp-server](https://github.com/Antonytm/figma-mcp-server) (★172 · TypeScript) — No upstream description.
-- [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling) (★81271 · Python) — 🕷️ An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl! Don't be shy, join here: https://discord.gg/EMgGbDceN
-- [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify) (★118168 · Python) — Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini [`openclaw` `codex`]
-- [HKUDS/Vibe-Trading](https://github.com/HKUDS/Vibe-Trading) (★33528 · Python) — "Vibe-Trading: Your Personal Trading Agent"
-- [HKUDS/nanobot](https://github.com/HKUDS/nanobot) (★48209 · Python) — Ultra-lightweight, open-source, self-hosted personal AI agent framework in Python with WebUI, tools, memory, MCP, multi-agent workflows, automation, and chat ap [`openclaw`]
-- [Manavarya09/design-extract](https://github.com/Manavarya09/design-extract) (★4102 · HTML) — Extract any website's complete design system with one command. DTCG tokens, semantic+primitive+composite, MCP server for Claude Code/Cursor/Windsurf, multi-plat [`shadcn`]
-- [NevaMind-AI/memU](https://github.com/NevaMind-AI/memU) (★14409 · Python) — Personal memory across agents [`openclaw`]
-- [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code) (★27891 · TypeScript) — An open-source AI coding agent that lives in your terminal.
-- [RealZST/HarnessKit](https://github.com/RealZST/HarnessKit) (★432 · Rust) — More than a skill manager — manage skills, MCP servers, plugins, hooks, CLIs, configs, memory & rules across every AI coding agent. 🌟 Star if you like it! [`codex`]
-- [Rich627/whatsapp-claude-plugin](https://github.com/Rich627/whatsapp-claude-plugin) (★90 · TypeScript) — Claude Code WhatsApp channel plugin — run AI directly from WhatsApp, voice transcription, remote tool approval, access control. No API keys, no Docker, just a l
-- [Shelpuk-AI-Technology-Consulting/kindly-web-search-mcp-server](https://github.com/Shelpuk-AI-Technology-Consulting/kindly-web-search-mcp-server) (★387 · Python) — Kindly Web Search MCP Server: Web search + robust content retrieval for AI coding tools (Claude Code, Codex, Cursor, GitHub Copilot, Gemini, etc.) and AI agents [`openclaw` `codex` `hermes`]
-- [ThibautMelen/agentic-ai-systems](https://github.com/ThibautMelen/agentic-ai-systems) (★308) — Agentic AI explained with chickens 🐔 every pattern a runnable, CI-checked file. [`context-engineering`]
-- [VinayakHyde/claude-anki-flashcard-rules](https://github.com/VinayakHyde/claude-anki-flashcard-rules) (★6) — Opinionated rules for generating high-quality Anki flashcards with Claude Code + Anki MCP. Covers general, math (4-layer architecture with custom note types), c
-- [a-bonus/google-docs-mcp](https://github.com/a-bonus/google-docs-mcp) (★661 · TypeScript) — The Ultimate Google Docs, Sheets, Drive, Gmail, & Google Calendar MCP Server. This MCP (primarily for use in Claude Desktop) gains full access to your google su
-- [affaan-m/ECC](https://github.com/affaan-m/ECC) (★259628 · JavaScript) — The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor  [`codex` `opencode`]
-- [agentic-community/mcp-gateway-registry](https://github.com/agentic-community/mcp-gateway-registry) (★919 · Python) — Enterprise-ready MCP Gateway & Registry that centralizes AI development tools with secure OAuth authentication, dynamic tool discovery, and unified access for b
-- [agentplugins/agent-plugins-spec](https://github.com/agentplugins/agent-plugins-spec) (★1289) — Agent Plugins Specification v1.0.0 — A minimal standard for packaging agent extensions into distributable plugins
-- [basicmachines-co/basic-memory](https://github.com/basicmachines-co/basic-memory) (★3977 · Python) — AI conversations that actually remember. Never re-explain your project to your AI again. Join our Discord: https://discord.gg/tyvKNccgqN [`obsidian` `local-first`]
-- [buildomator/buildomator](https://github.com/buildomator/buildomator) (★88 · TypeScript) — A structured plan/execute/verify coding workflow for Claude Code: atomic commits, MCP-backed project state, ~92% lower per-turn token overhead, cross-session me [`context-engineering`]
-- [caiovicentino/polymarket-mcp-server](https://github.com/caiovicentino/polymarket-mcp-server) (★674 · Python) — 🤖 AI-Powered MCP Server for Polymarket - Enable Claude to trade prediction markets with 45 tools, real-time monitoring, and enterprise-grade safety features
-- [caliber-ai-org/ai-setup](https://github.com/caliber-ai-org/ai-setup) (★1272 · TypeScript) — Continuously sync your AI setups with one command. Codebase tailor suited agent skills, MCPs and config files for Claude Code, Cursor, and Codex. [`codex`]
-- [codexu/note-gen](https://github.com/codexu/note-gen) (★12809 · TypeScript) — Capture first. Organize later. A local-first Markdown app that turns scattered records into clear notes with AI. [`codex` `local-first`]
-- [cso1z/Feishu-MCP](https://github.com/cso1z/Feishu-MCP) (★738 · TypeScript) — Feishu / Lark 飞书文档与任务管理工具，支持 MCP 服务器和 CLI + Skill 两种使用方式，可无缝集成 Cursor、Claude Code、Cline 等 AI 编码工具
-- [czlonkowski/n8n-mcp](https://github.com/czlonkowski/n8n-mcp) (★22895 · TypeScript) — A MCP for Claude Desktop / Claude Code / Windsurf / Cursor to build n8n workflows for you
-- [davehenke/rekordbox-mcp](https://github.com/davehenke/rekordbox-mcp) (★103 · Python) — Open Source MCP for Rekordbox DJ
-- [diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute) (★66771 · TypeScript) — Never stop coding. Free MIT AI gateway: one endpoint, 352 providers (150+ free), 1200+ models Kimi, Claude, GPT, Gemini, GLM, DeepSeek, MiniMax. Works with Clau [`codex` `opencode`]
-- [dograh-hq/dograh](https://github.com/dograh-hq/dograh) (★5665 · Python) — Open source voice AI platform. Self-hosted alternative to Vapi and Retell. On Prem, BYOK across  Speech to Speech or LLM/STT/TTS, with a visual workflow builder
-- [every-app/open-seo](https://github.com/every-app/open-seo) (★18826 · TypeScript) — Open source alternative to Semrush and Ahrefs
-- [farion1231/cc-switch](https://github.com/farion1231/cc-switch) (★133133 · Rust) — A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode, OpenClaw, Grok Build & Hermes Agent. Only official website: ccswitch.io [`openclaw` `codex` `opencode` `hermes`]
-- [fastxyz/skill-optimizer](https://github.com/fastxyz/skill-optimizer) (★79 · TypeScript) — Benchmark, evaluate, and optimize skills to ensure reliable performance across all LLMs
-- [grooverLab/fable](https://github.com/grooverLab/fable) (★12 · Python) — High-fidelity transcript memory for Claude Code — index every session, recall byte-identical, search, prune, compose. Local-first, stdlib-only, MCP. [`local-first`]
-- [hamr0/beeperbox](https://github.com/hamr0/beeperbox) (★26 · JavaScript) — Plug your AI agent into 50+ messengers (WhatsApp, iMessage, Signal, Telegram, Slack…) through one MCP endpoint. Two modes: a self-contained Docker container (he
-- [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) (★50533 · TypeScript) — Write HTML. Render video. Built for agents.
-- [homeassistant-ai/ha-mcp](https://github.com/homeassistant-ai/ha-mcp) (★4741 · Python) — The Unofficial and Awesome Home Assistant MCP Server
-- [howardpen9/hermes-gbrain-bridge](https://github.com/howardpen9/hermes-gbrain-bridge) (★66 · TypeScript) — Convert Hermes / OpenClaw agent memory (JSONL sessions, MEMORY.md) to markdown for gBrain ingest [`openclaw` `codex` `hermes`]
-- [jgraph/drawio-mcp](https://github.com/jgraph/drawio-mcp) (★5434 · JavaScript) — No upstream description.
-- [jordanrendric/claude-video-vision](https://github.com/jordanrendric/claude-video-vision) (★1305 · TypeScript) — Give Claude the ability to watch and understand videos — Claude Code plugin with frame extraction and multimodal audio analysis
-- [k1p1l0/claude-telegram-supercharged](https://github.com/k1p1l0/claude-telegram-supercharged) (★113 · TypeScript) — Supercharged Claude Code Official Telegram plugin — threading, voice messages 2 ways, stickers, GIFs, reactions, MarkdownV2 & more. Drop-in replacement.
-- [kalil0321/reverse-api-engineer](https://github.com/kalil0321/reverse-api-engineer) (★1158 · Python) — The agent that turns websites into APIs!
-- [kentcdodds/kody](https://github.com/kentcdodds/kody) (★633 · TypeScript) — 🐨 Your assistant's home — the memory, keys, code, and automations your AI agent keeps, portable across every MCP host. Built on Cloudflare Workers.
-- [larksuite/lark-openapi-mcp](https://github.com/larksuite/lark-openapi-mcp) (★831 · TypeScript) — 飞书/Lark官方 OpenAPI MCP
-- [macro-inc/macro](https://github.com/macro-inc/macro) (★4331 · Rust) — Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.
-- [makenotion/notion-mcp-server](https://github.com/makenotion/notion-mcp-server) (★4634 · TypeScript) — Official Notion MCP Server
-- [mbailey/voicemode](https://github.com/mbailey/voicemode) (★1366 · Python) — Natural voice conversations with Claude Code
-- [mksglu/context-mode](https://github.com/mksglu/context-mode) (★23150 · TypeScript) — Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and   enforces routing across 17 platforms via [`openclaw` `codex` `opencode`]
-- [modelscope/FunASR](https://github.com/modelscope/FunASR) (★20364 · Python) — Open-source speech recognition toolkit for training, inference, streaming ASR, VAD, punctuation, speaker diarization pipelines, and OpenAI-compatible/MCP servin
-- [nailuoGG/anki-mcp-server](https://github.com/nailuoGG/anki-mcp-server) (★252 · TypeScript) — MCP server for Anki via AnkiConnect
-- [nspady/google-calendar-mcp](https://github.com/nspady/google-calendar-mcp) (★1189 · TypeScript) — MCP integration for Google Calendar to manage events.
-- [onecli/onecli](https://github.com/onecli/onecli) (★3485 · TypeScript) — Open-source sandboxed agent harness for teams. Giving every employee a secured personal agent.
-- [open-webui/open-webui](https://github.com/open-webui/open-webui) (★152253 · Python) — User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
-- [oraios/serena](https://github.com/oraios/serena) (★29444 · Python) — A powerful MCP toolkit for coding, providing semantic retrieval and editing capabilities  - the IDE for your agent [`codex`]
-- [renezander030/agentic-task-system](https://github.com/renezander030/agentic-task-system) (★12 · JavaScript) — CLI + MCP for agent context: a task layer over TickTick, Notion, GitHub, Obsidian & more (RRF retrieval, provenance, reviewed writes, undo) plus a knowledge-gra [`obsidian` `context-engineering`]
-- [ruvnet/ruflo](https://github.com/ruvnet/ruflo) (★72584 · TypeScript) — 🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive me [`codex` `hermes`]
-- [taylorwilsdon/google_workspace_mcp](https://github.com/taylorwilsdon/google_workspace_mcp) (★3175 · Python) — Control Gmail, Google Calendar, Docs, Sheets, Slides, Chat, Forms, Tasks, Search & Drive with AI - Comprehensive Google Workspace MCP Server & CLI Tool
-- [tinyhumansai/openhuman](https://github.com/tinyhumansai/openhuman) (★39814 · Rust) — OpenHuman is an open source agent harness with local-first memory, agent orchestration, and workflows [`local-first`]
-- [udecode/plate](https://github.com/udecode/plate) (★16591 · TypeScript) — Rich-text editor with AI and shadcn/ui [`shadcn`]
-- [upstash/context7](https://github.com/upstash/context7) (★62074 · TypeScript) — Context7 Platform -- Up-to-date code documentation for LLMs and AI code editors
-- [yvgude/lean-ctx](https://github.com/yvgude/lean-ctx) (★3792 · Rust) — LeanCTX — Context Intelligence for AI systems. [`context-engineering`]
+- [Antonytm/figma-mcp-server](https://github.com/Antonytm/figma-mcp-server) (★175 · TypeScript) — No upstream description.
+- [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling) (★88890 · Python) — 🕷️ An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl! Don't be shy, join here: https://discord.gg/EMgGbDceN
+- [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify) (★130291 · Python) — Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini [`openclaw` `codex`]
+- [HKUDS/Vibe-Trading](https://github.com/HKUDS/Vibe-Trading) (★36050 · Python) — "Vibe-Trading: Your Personal Trading Agent"
+- [HKUDS/nanobot](https://github.com/HKUDS/nanobot) (★49224 · Python) — Ultra-lightweight, open-source, self-hosted personal AI agent framework in Python with WebUI, tools, memory, MCP, multi-agent workflows, automation, and chat ap [`openclaw`]
+- [HexRaysSA/ida-mcp](https://github.com/HexRaysSA/ida-mcp) (★1318 · Python) — Official Hex-Rays IDA MCP Server.
+- [Manavarya09/design-extract](https://github.com/Manavarya09/design-extract) (★4275 · HTML) — Extract any website's complete design system with one command. DTCG tokens, semantic+primitive+composite, MCP server for Claude Code/Cursor/Windsurf, multi-plat [`shadcn`]
+- [NevaMind-AI/memU](https://github.com/NevaMind-AI/memU) (★14551 · Python) — Personal memory across agents [`openclaw`]
+- [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code) (★28608 · TypeScript) — An open-source AI coding agent that lives in your terminal.
+- [RealZST/HarnessKit](https://github.com/RealZST/HarnessKit) (★469 · Rust) — More than a skill manager — manage skills, MCP servers, plugins, hooks, CLIs, configs, memory & rules across every AI coding agent. 🌟 Star if you like it! [`codex`]
+- [Rich627/whatsapp-claude-plugin](https://github.com/Rich627/whatsapp-claude-plugin) (★109 · TypeScript) — Claude Code WhatsApp channel plugin — run AI directly from WhatsApp, voice transcription, remote tool approval, access control. No API keys, no Docker, just a l
+- [Shelpuk-AI-Technology-Consulting/kindly-web-search-mcp-server](https://github.com/Shelpuk-AI-Technology-Consulting/kindly-web-search-mcp-server) (★400 · Python) — Kindly Web Search MCP Server: Web search + robust content retrieval for AI coding tools (Claude Code, Codex, Cursor, GitHub Copilot, Gemini, etc.) and AI agents [`openclaw` `codex` `hermes`]
+- [ThibautMelen/agentic-ai-systems](https://github.com/ThibautMelen/agentic-ai-systems) (★323) — Agentic AI explained with chickens 🐔 every pattern a runnable, CI-checked file. [`context-engineering`]
+- [VinayakHyde/claude-anki-flashcard-rules](https://github.com/VinayakHyde/claude-anki-flashcard-rules) (★7) — Opinionated rules for generating high-quality Anki flashcards with Claude Code + Anki MCP. Covers general, math (4-layer architecture with custom note types), c
+- [a-bonus/google-docs-mcp](https://github.com/a-bonus/google-docs-mcp) (★676 · TypeScript) — The Ultimate Google Docs, Sheets, Drive, Gmail, & Google Calendar MCP Server. This MCP (primarily for use in Claude Desktop) gains full access to your google su
+- [affaan-m/ECC](https://github.com/affaan-m/ECC) (★284932 · JavaScript) — The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor  [`codex` `opencode`]
+- [agentic-community/mcp-gateway-registry](https://github.com/agentic-community/mcp-gateway-registry) (★1003 · Python) — Enterprise-ready MCP Gateway & Registry that centralizes AI development tools with secure OAuth authentication, dynamic tool discovery, and unified access for b
+- [agentplugins/agent-plugins-spec](https://github.com/agentplugins/agent-plugins-spec) (★1393) — Agent Plugins Specification v1.0.0 — A minimal standard for packaging agent extensions into distributable plugins
+- [basicmachines-co/basic-memory](https://github.com/basicmachines-co/basic-memory) (★4295 · Python) — AI conversations that actually remember. Never re-explain your project to your AI again. Join our Discord: https://discord.gg/tyvKNccgqN [`obsidian` `local-first`]
+- [bethington/ghidra-mcp](https://github.com/bethington/ghidra-mcp) (★5821 · Java) — Ghidra MCP Server — 200+ MCP tools for AI-powered reverse engineering. GUI plugin + headless server, lazy tool loading, convention enforcement, batch operations
+- [buildomator/buildomator](https://github.com/buildomator/buildomator) (★96 · TypeScript) — A structured plan/execute/verify coding workflow for Claude Code: atomic commits, MCP-backed project state, ~92% lower per-turn token overhead, cross-session me [`context-engineering`]
+- [caiovicentino/polymarket-mcp-server](https://github.com/caiovicentino/polymarket-mcp-server) (★716 · Python) — 🤖 AI-Powered MCP Server for Polymarket - Enable Claude to trade prediction markets with 45 tools, real-time monitoring, and enterprise-grade safety features
+- [caliber-ai-org/ai-setup](https://github.com/caliber-ai-org/ai-setup) (★1309 · TypeScript) — Continuously sync your AI setups with one command. Codebase tailor suited agent skills, MCPs and config files for Claude Code, Cursor, and Codex. [`codex`]
+- [codexu/note-gen](https://github.com/codexu/note-gen) (★12902 · TypeScript) — Capture first. Organize later. A local-first Markdown app that turns scattered records into clear notes with AI. [`codex` `local-first`]
+- [cso1z/Feishu-MCP](https://github.com/cso1z/Feishu-MCP) (★740 · TypeScript) — Feishu / Lark 飞书文档与任务管理工具，支持 MCP 服务器和 CLI + Skill 两种使用方式，可无缝集成 Cursor、Claude Code、Cline 等 AI 编码工具
+- [czlonkowski/n8n-mcp](https://github.com/czlonkowski/n8n-mcp) (★23110 · TypeScript) — A MCP for Claude Desktop / Claude Code / Windsurf / Cursor to build n8n workflows for you
+- [davehenke/rekordbox-mcp](https://github.com/davehenke/rekordbox-mcp) (★119 · Python) — Open Source MCP for Rekordbox DJ
+- [diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute) (★78988 · TypeScript) — Never stop coding. Free MIT AI gateway: one endpoint, 352 providers (150+ free), 1200+ models Kimi, Claude, GPT, Gemini, GLM, DeepSeek, MiniMax. Works with Clau [`codex` `opencode`]
+- [dograh-hq/dograh](https://github.com/dograh-hq/dograh) (★5916 · Python) — Open source voice AI platform. Self-hosted alternative to Vapi and Retell. On Prem, BYOK across  Speech to Speech or LLM/STT/TTS, with a visual workflow builder
+- [dylan-buck/Hermes-iOS](https://github.com/dylan-buck/Hermes-iOS) (★107 · Swift) — Hermes agents don't have iPhones. Now yours does. This app gives Hermes camera, mic, health data, location, and notifications. All available in one MCP tool. [`hermes`]
+- [every-app/open-seo](https://github.com/every-app/open-seo) (★24328 · TypeScript) — Open source alternative to Semrush and Ahrefs
+- [farion1231/cc-switch](https://github.com/farion1231/cc-switch) (★146825 · Rust) — A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode, OpenClaw, Grok Build & Hermes Agent. Only official website: ccswitch.io [`openclaw` `codex` `opencode` `hermes`]
+- [fastxyz/skill-optimizer](https://github.com/fastxyz/skill-optimizer) (★81 · TypeScript) — Benchmark, evaluate, and optimize skills to ensure reliable performance across all LLMs
+- [grooverLab/fable](https://github.com/grooverLab/fable) (★18 · Python) — High-fidelity transcript memory for Claude Code — index every session, recall byte-identical, search, prune, compose. Local-first, stdlib-only, MCP. [`local-first`]
+- [hamr0/beeperbox](https://github.com/hamr0/beeperbox) (★30 · JavaScript) — Plug your AI agent into 50+ messengers (WhatsApp, iMessage, Signal, Telegram, Slack…) through one MCP endpoint. Two modes: a self-contained Docker container (he
+- [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) (★68528 · TypeScript) — Write HTML. Render video. Built for agents.
+- [homeassistant-ai/ha-mcp](https://github.com/homeassistant-ai/ha-mcp) (★5155 · Python) — The Unofficial and Awesome Home Assistant MCP Server
+- [howardpen9/hermes-gbrain-bridge](https://github.com/howardpen9/hermes-gbrain-bridge) (★69 · TypeScript) — Convert Hermes / OpenClaw agent memory (JSONL sessions, MEMORY.md) to markdown for gBrain ingest [`openclaw` `codex` `hermes`]
+- [jgraph/drawio-mcp](https://github.com/jgraph/drawio-mcp) (★5670 · JavaScript) — No upstream description.
+- [jordanrendric/claude-video-vision](https://github.com/jordanrendric/claude-video-vision) (★1391 · TypeScript) — Give Claude the ability to watch and understand videos — Claude Code plugin with frame extraction and multimodal audio analysis
+- [k1p1l0/claude-telegram-supercharged](https://github.com/k1p1l0/claude-telegram-supercharged) (★137 · TypeScript) — Supercharged Claude Code Official Telegram plugin — threading, voice messages 2 ways, stickers, GIFs, reactions, MarkdownV2 & more. Drop-in replacement.
+- [kalil0321/reverse-api-engineer](https://github.com/kalil0321/reverse-api-engineer) (★1521 · Python) — The agent that turns websites into APIs!
+- [kitze/skillbox](https://github.com/kitze/skillbox) (★271 · TypeScript) — Self-hosted, versioned skills library for AI agents. MCP, scoped clients, and optional Jev recommendations.
+- [kody-hq/kody](https://github.com/kody-hq/kody) (★831 · TypeScript) — 🐨 Your assistant's home — the memory, keys, code, and automations your AI agent keeps, portable across every MCP host. Built on Cloudflare Workers.
+- [larksuite/lark-openapi-mcp](https://github.com/larksuite/lark-openapi-mcp) (★845 · TypeScript) — 飞书/Lark官方 OpenAPI MCP
+- [macro-inc/macro](https://github.com/macro-inc/macro) (★4785 · Rust) — Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.
+- [makenotion/notion-mcp-server](https://github.com/makenotion/notion-mcp-server) (★4673 · TypeScript) — Official Notion MCP Server
+- [mbailey/voicemode](https://github.com/mbailey/voicemode) (★1410 · Python) — Natural voice conversations with Claude Code
+- [mksglu/context-mode](https://github.com/mksglu/context-mode) (★31370 · TypeScript) — Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and   enforces routing across 17 platforms via [`openclaw` `codex` `opencode`]
+- [modelscope/FunASR](https://github.com/modelscope/FunASR) (★20770 · Python) — Open-source speech recognition toolkit for training, inference, streaming ASR, VAD, punctuation, speaker diarization pipelines, and OpenAI-compatible/MCP servin
+- [nailuoGG/anki-mcp-server](https://github.com/nailuoGG/anki-mcp-server) (★253 · TypeScript) — MCP server for Anki via AnkiConnect
+- [nspady/google-calendar-mcp](https://github.com/nspady/google-calendar-mcp) (★1201 · TypeScript) — MCP integration for Google Calendar to manage events.
+- [onecli/onecli](https://github.com/onecli/onecli) (★3582 · TypeScript) — Open-source sandboxed agent harness for teams. Giving every employee a secured personal agent.
+- [open-webui/open-webui](https://github.com/open-webui/open-webui) (★156304 · Python) — User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
+- [oraios/serena](https://github.com/oraios/serena) (★30511 · Python) — A powerful MCP toolkit for coding, providing semantic retrieval and editing capabilities  - the IDE for your agent [`codex`]
+- [renezander030/agentic-task-system](https://github.com/renezander030/agentic-task-system) (★17 · JavaScript) — CLI + MCP for agent context: a task layer over TickTick, Notion, GitHub, Obsidian & more (RRF retrieval, provenance, reviewed writes, undo) plus a knowledge-gra [`obsidian` `context-engineering`]
+- [ruvnet/ruflo](https://github.com/ruvnet/ruflo) (★77867 · TypeScript) — 🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive me [`codex` `hermes`]
+- [taylorwilsdon/google_workspace_mcp](https://github.com/taylorwilsdon/google_workspace_mcp) (★3384 · Python) — Control Gmail, Google Calendar, Docs, Sheets, Slides, Chat, Forms, Tasks, Search & Drive with AI - Comprehensive Google Workspace MCP Server & CLI Tool
+- [tinyhumansai/openhuman](https://github.com/tinyhumansai/openhuman) (★42194 · Rust) — OpenHuman is an open source agent harness with local-first memory, agent orchestration, and workflows [`local-first`]
+- [udecode/plate](https://github.com/udecode/plate) (★16662 · TypeScript) — Rich-text editor with AI and shadcn/ui [`shadcn`]
+- [upstash/context7](https://github.com/upstash/context7) (★63387 · TypeScript) — Context7 Platform -- Up-to-date code documentation for LLMs and AI code editors
+- [yvgude/lean-ctx](https://github.com/yvgude/lean-ctx) (★3894 · Rust) — LeanCTX — Context Intelligence for AI systems. [`context-engineering`]
 
 _Generated from star export — see data/. Regenerate, don't hand-edit._

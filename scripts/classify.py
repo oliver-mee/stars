@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """Classify starred repos into broad buckets + narrow tags.
 
-Input:  data/stars-export.json (gh api /user/starred, includes private flag)
+Input:  data/stars-export.json (public-only export via scripts/refresh.py)
 Output: data/classifications.json {full_name: {lists:[broad...], narrow:[...], why, stars, language, pushed}}
 
 Rules:
@@ -11,6 +11,9 @@ Rules:
 """
 import json
 import collections
+from pathlib import Path
+
+ROOT = Path(__file__).resolve().parents[1]
 
 BROAD_ORDER = [
     "skills-plugins", "mcp-servers", "harness", "memory", "models",
@@ -120,12 +123,15 @@ def blob(s):
     ]).lower().replace("_", "-").replace(" ", "-")
 
 
-def main():
-    stars = json.load(open("data/stars-export.json"))
+def reconcile(stars, previous, old_stars):
+    """Keep curated fields by stable identity; refresh metadata and prune absent stars."""
+    old_names = {s['node_id']: s['full_name'] for s in old_stars
+                 if s.get('private') is False}
+    previous_ids = {v['node_id']: name for name, v in previous.items() if v.get('node_id')}
     out = {}
     unmatched = []
     for s in stars:
-        if s.get("private"):
+        if s.get("private") is not False:
             continue  # excluded entirely, never enters the public repo
         name = s["full_name"]
         b = blob(s)
@@ -134,19 +140,25 @@ def main():
         else:
             broad = [n for n, ks in RULES if any(k in b for k in ks)]
             if not broad:
-                unmatched.append(name)
+                if name not in previous and s["node_id"] not in previous_ids and s["node_id"] not in old_names:
+                    unmatched.append(name)
                 broad = ["devtools"]  # visible fallback, fixed at review
         narrow = [n for n, ks in NARROW if any(k in b for k in ks)]
         why = (s.get("description") or "").strip().split("\n")[0][:160] or "No upstream description."
+        old_name = previous_ids.get(s['node_id'], old_names.get(s['node_id'], name))
+        curated = previous.get(old_name)
+        if curated and curated.get('node_id', s['node_id']) != s['node_id']:
+            curated = None  # A reused repository name is not the same repository.
         out[name] = {
-            "lists": [x for x in BROAD_ORDER if x in broad],
-            "narrow": narrow,
-            "why": why,
+            "node_id": s['node_id'],
+            "lists": curated['lists'] if curated else [x for x in BROAD_ORDER if x in broad],
+            "narrow": curated['narrow'] if curated else narrow,
+            "why": curated['why'] if curated else why,
             "stars": s.get("stars"),
             "language": s.get("language"),
             "pushed": s.get("pushed"),
         }
-    json.dump(out, open("data/classifications.json", "w"), indent=1, sort_keys=True)
+
     cnt = collections.Counter()
     for v in out.values():
         for x in v["lists"]:
@@ -156,6 +168,21 @@ def main():
         print(f"  {cnt[k]:3d}  {k}")
     print("NARROW:", dict(sum((collections.Counter({n: 1 for n in v["narrow"]}) for v in out.values()), collections.Counter())))
     print("RULE-UNMATCHED (fallback, needs review):", len(unmatched))
+    for name in unmatched:
+        if name not in previous:
+            print("  REVIEW:", name)
+    return out
+
+
+def main():
+    stars = json.loads((ROOT / 'data/stars-export.json').read_text())
+    path = ROOT / 'data/classifications.json'
+    previous = json.loads(path.read_text()) if path.exists() else {}
+    out = reconcile(stars, previous, stars)
+    from generate import scrub
+    text = json.dumps(out, indent=1, sort_keys=True) + '\n'
+    scrub(text, str(path.relative_to(ROOT)))
+    path.write_text(text)
 
 
 if __name__ == "__main__":
