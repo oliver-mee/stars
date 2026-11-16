@@ -109,5 +109,48 @@ class RefreshTests(unittest.TestCase):
         self.assertTrue(all(v['lists'] and set(v['lists']) <= set(BROAD_ORDER) for v in c.values()))
 
 
+import re
+import generate
+
+
+class GenerationTests(unittest.TestCase):
+    def test_generated_index_order_and_reader_facing_content(self):
+        root = Path(__file__).resolve().parents[1]
+        text = (root / 'README.md').read_text()
+        rows = re.findall(r'^- \[([^\]]+)\]\(lists/([^)]+)\.md\) \((\d+)\)$', text, re.M)
+        self.assertEqual(len(rows), len(generate.TITLES))
+        self.assertEqual(rows, sorted(rows, key=lambda row: (-int(row[2]), row[0].casefold())))
+        for unwanted in ('## Maintenance', 'MAINTENANCE.md', 'scripts/', 'Narrow tags', 'narrow tags', 'Cross-cutting:'):
+            self.assertNotIn(unwanted, text)
+        classifications = json.loads((root / 'data/classifications.json').read_text())
+        for _, bucket, count in rows:
+            self.assertEqual(int(count), sum(bucket in value['lists'] for value in classifications.values()))
+
+    def test_generation_is_idempotent_and_does_not_show_nonfilterable_tags(self):
+        with tempfile.TemporaryDirectory() as directory:
+            root = Path(directory)
+            (root / 'data').mkdir()
+            (root / 'lists').mkdir()
+            stars = [repo('example/alpha', 'R_alpha'), repo('example/beta', 'R_beta')]
+            classifications = {
+                'example/alpha': {'node_id': 'R_alpha', 'lists': ['devtools', 'finance'], 'narrow': ['codex'], 'why': 'Example alpha'},
+                'example/beta': {'node_id': 'R_beta', 'lists': ['devtools', 'mcp-servers'], 'narrow': ['hermes'], 'why': 'Example beta'},
+            }
+            (root / 'data/stars-export.json').write_text(json.dumps(stars))
+            (root / 'data/classifications.json').write_text(json.dumps(classifications))
+            with patch.object(generate, 'ROOT', root), contextlib.redirect_stdout(io.StringIO()):
+                generate.main()
+                before = {p.relative_to(root): p.read_bytes() for p in [root / 'README.md', *sorted((root / 'lists').glob('*.md'))]}
+                generate.main()
+                after = {p.relative_to(root): p.read_bytes() for p in [root / 'README.md', *sorted((root / 'lists').glob('*.md'))]}
+            self.assertEqual(before, after)
+            rows = re.findall(r'^- \[([^\]]+)\].*\((\d+)\)$', (root / 'README.md').read_text(), re.M)
+            self.assertEqual(rows[:3], [('Devtools & CLI', '2'), ('Finance & Ops', '1'), ('MCP Servers', '1')])
+            for content in after.values():
+                self.assertNotIn(b'`codex`', content)
+                self.assertNotIn(b'`hermes`', content)
+            self.assertEqual(json.loads((root / 'data/classifications.json').read_text()), classifications)
+
+
 if __name__ == '__main__':
     unittest.main()

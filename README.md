@@ -1,31 +1,25 @@
 # stars
 
-My GitHub stars, filed into lists. One repo can live in several — broad buckets plus narrow tags.
+Anything I find interesting that I want to save for later!
 
 ## Buckets
 
-- [Skills & Plugins](lists/skills-plugins.md) (124)
-- [MCP Servers](lists/mcp-servers.md) (62)
-- [Agent Harnesses & Orchestration](lists/harness.md) (52)
-- [Agent Memory & Knowledge](lists/memory.md) (71)
-- [AI Models & Inference](lists/models.md) (41)
 - [Devtools & CLI](lists/devtools.md) (151)
+- [Skills & Plugins](lists/skills-plugins.md) (124)
 - [Automation & Workflows](lists/automation.md) (95)
 - [Self-Hosted & Infra](lists/selfhost.md) (92)
+- [Agent Memory & Knowledge](lists/memory.md) (71)
 - [Design & Frontend](lists/design.md) (69)
-- [Writing & Content](lists/writing.md) (55)
-- [Voice & Audio](lists/voice.md) (34)
+- [MCP Servers](lists/mcp-servers.md) (62)
 - [Mobile & Desktop](lists/mobile-desktop.md) (62)
+- [Writing & Content](lists/writing.md) (55)
+- [Agent Harnesses & Orchestration](lists/harness.md) (52)
 - [Privacy & Security](lists/privacy.md) (42)
-- [Learning & Guides](lists/learning.md) (23)
-- [Finance & Ops](lists/finance.md) (8)
-- [FDE](lists/fde.md) (12)
+- [AI Models & Inference](lists/models.md) (41)
+- [Voice & Audio](lists/voice.md) (34)
 - [Collections](lists/collections.md) (23)
+- [Learning & Guides](lists/learning.md) (23)
+- [FDE](lists/fde.md) (12)
+- [Finance & Ops](lists/finance.md) (8)
 
-## Narrow tags
-Cross-cutting: `openclaw` `codex` `opencode` `obsidian` `hermes` `shadcn` `local-first` `context-engineering` `fde`.
-
-## Maintenance
-See [MAINTENANCE.md](MAINTENANCE.md) for the public-only refresh and review workflow.
-
-_Generated — see scripts/. Private starred repos are excluded by policy._
+_Public repositories only._

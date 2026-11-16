@@ -2,7 +2,7 @@
 
 23 starred repos. File a PR to fix a miscategorisation.
 
-- [DanielHashmi/Q4_learning](https://github.com/DanielHashmi/Q4_learning) (★24 · Python) — This repository serves as the comprehensive workspace for Quarter 4-5 academic endeavors, encompassing assignments, technical documentation, experimental implem [`context-engineering`]
+- [DanielHashmi/Q4_learning](https://github.com/DanielHashmi/Q4_learning) (★24 · Python) — This repository serves as the comprehensive workspace for Quarter 4-5 academic endeavors, encompassing assignments, technical documentation, experimental implem
 - [Li-Evan/Bloom](https://github.com/Li-Evan/Bloom) (★290 · JavaScript) — Hire a private AI tutor for anything — it reads how you actually learn and teaches the next lesson just for you. Bloom's 2-Sigma research as a Claude Code skill
 - [Rikorose/DeepFilterNet](https://github.com/Rikorose/DeepFilterNet) (★4860 · Python) — Noise supression using deep filtering
 - [TakaGoto/rag-learning-academy](https://github.com/TakaGoto/rag-learning-academy) (★24 · Python) — A structured, multi-agent Claude Code learning environment for mastering Retrieval-Augmented Generation (RAG)
@@ -18,12 +18,12 @@
 - [makenotion/notion-cookbook](https://github.com/makenotion/notion-cookbook) (★218 · TypeScript) — Hub for getting started with Notion, including documentation, customizable scripts, and quick-start guides.
 - [microsoft/CopilotStudioSamples](https://github.com/microsoft/CopilotStudioSamples) (★807 · TypeScript) — No upstream description.
 - [pierpaolo28/Awesome-FDE-Roadmap](https://github.com/pierpaolo28/Awesome-FDE-Roadmap) (★1414) — 🚀 The definitive roadmap to becoming a Forward Deployment Engineer (FDE). Master AI Agents, Enterprise Data Architecture, and Strategic Consulting. Bridging the
-- [plastic-labs/honcho](https://github.com/plastic-labs/honcho) (★7712 · Python) — Memory library for building stateful agents [`context-engineering`]
+- [plastic-labs/honcho](https://github.com/plastic-labs/honcho) (★7712 · Python) — Memory library for building stateful agents
 - [pnp/powerplatform-samples](https://github.com/pnp/powerplatform-samples) (★450) — The website for the PnP Power Platform samples gallery, including Power Apps, Power Automate, Power Virtual Agents, Portals, etc.
-- [ruvnet/ruflo](https://github.com/ruvnet/ruflo) (★77867 · TypeScript) — 🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive me [`codex` `hermes`]
+- [ruvnet/ruflo](https://github.com/ruvnet/ruflo) (★77867 · TypeScript) — 🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive me
 - [tailcallhq/forgecode](https://github.com/tailcallhq/forgecode) (★7637 · Rust) — AI enabled pair programmer for Claude, GPT, O Series, Grok, Deepseek, Gemini and 300+ models
 - [typst/typst](https://github.com/typst/typst) (★56729 · Rust) — A markup-based typesetting system that is powerful and easy to learn.
 - [vectorize-io/hindsight](https://github.com/vectorize-io/hindsight) (★52038 · Python) — Hindsight: Agent Memory That Learns
-- [virgiliojr94/book-to-skill](https://github.com/virgiliojr94/book-to-skill) (★35476 · Python) — Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work. [`context-engineering`]
+- [virgiliojr94/book-to-skill](https://github.com/virgiliojr94/book-to-skill) (★35476 · Python) — Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.
 
 _Generated from star export — see data/. Regenerate, don't hand-edit._
